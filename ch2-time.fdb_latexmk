@@ -1,0 +1,14 @@
+# Fdb version 3
+["bibtex ch2-time"] 1430652436 "ch2-time.aux" "ch2-time.bbl" "ch2-time" 1430732038
+  "ch2-time.aux" 1430652434 8 a94a2480d3289e625eea47cd1b285758 ""
+  "ch2-time.bcf" 0 -1 0 ""
+  (generated)
+  "ch2-time.bbl"
+  "ch2-time.blg"
+["pdflatex"] 1430732036 "ch2-time.tex" "ch2-time.pdf" "ch2-time" 1430732038
+  "ch2-time.aux" 1430652434 8 a94a2480d3289e625eea47cd1b285758 ""
+  "ch2-time.bbl" 1430652436 0 d41d8cd98f00b204e9800998ecf8427e "bibtex ch2-time"
+  "ch2-time.tex" 1430732035 25734 2305b288366b6f004b59f876ef683744 ""
+  (generated)
+  "ch2-time.log"
+  "ch2-time.pdf"

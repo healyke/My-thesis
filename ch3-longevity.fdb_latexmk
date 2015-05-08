@@ -1,0 +1,14 @@
+# Fdb version 3
+["bibtex ch3-longevity"] 1430928633 "ch3-longevity.aux" "ch3-longevity.bbl" "ch3-longevity" 1431100202
+  "ch3-longevity.aux" 1430928629 8 a94a2480d3289e625eea47cd1b285758 ""
+  "ch3-longevity.bcf" 0 -1 0 ""
+  (generated)
+  "ch3-longevity.bbl"
+  "ch3-longevity.blg"
+["pdflatex"] 1431100199 "ch3-longevity.tex" "ch3-longevity.pdf" "ch3-longevity" 1431100202
+  "ch3-longevity.aux" 1430928629 8 a94a2480d3289e625eea47cd1b285758 ""
+  "ch3-longevity.bbl" 1430928633 0 d41d8cd98f00b204e9800998ecf8427e "bibtex ch3-longevity"
+  "ch3-longevity.tex" 1431100183 32932 e0517286f9d2593a0d13ea9282fefb7d ""
+  (generated)
+  "ch3-longevity.log"
+  "ch3-longevity.pdf"

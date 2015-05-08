@@ -1,0 +1,72 @@
+This is BibTeX, Version 0.99d (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: thesis.aux
+The style file: PLoS-Biology.bst
+Illegal, another \bibstyle command---line 298 of file thesis.aux
+ : \bibstyle
+ :          {PLoS-Biology}
+I'm skipping whatever remains of this command
+Illegal, another \bibdata command---line 299 of file thesis.aux
+ : \bibdata
+ :         {bibfile}
+I'm skipping whatever remains of this command
+Illegal, another \bibstyle command---line 428 of file thesis.aux
+ : \bibstyle
+ :          {PLoS-Biology}
+I'm skipping whatever remains of this command
+Illegal, another \bibdata command---line 429 of file thesis.aux
+ : \bibdata
+ :         {bibfile}
+I'm skipping whatever remains of this command
+Database file #1: bibfile.bib
+Repeated entry---line 634 of file bibfile.bib
+ : @article{folkow2004distribution
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 646 of file bibfile.bib
+ : @article{frank1999comparative
+ :                              ,
+I'm skipping whatever remains of this entry
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+You've used 116 entries,
+            3003 wiz_defined-function locations,
+            1311 strings with 24937 characters,
+and the built_in function-call counts, 122124 in all, are:
+= -- 12027
+> -- 3364
+< -- 81
++ -- 1675
+- -- 930
+* -- 10404
+:= -- 16804
+add.period$ -- 232
+call.type$ -- 116
+change.case$ -- 761
+chr.to.int$ -- 115
+cite$ -- 116
+duplicate$ -- 10085
+empty$ -- 10743
+format.name$ -- 1290
+if$ -- 25889
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 1015
+newline$ -- 355
+num.names$ -- 464
+pop$ -- 2379
+preamble$ -- 1
+purify$ -- 759
+quote$ -- 0
+skip$ -- 2365
+stack$ -- 0
+substring$ -- 14713
+swap$ -- 2227
+text.length$ -- 12
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 993
+warning$ -- 0
+while$ -- 936
+width$ -- 0
+write$ -- 1270
+(There were 6 error messages)

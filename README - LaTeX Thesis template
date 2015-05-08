@@ -1,0 +1,29 @@
+README: LaTeX Thesis template
+
+A thesis requires the following:
+
+STYLES (reusable in various documents)
+1-mythesis.cls (style sheet for a thesis)
+2-refstyle.bst (style for references)
+
+GENERAL CONTENTS
+1- abstract.tex (text of your abstract)
+2- acknowledgements.tex (text of your acknowledgements)
+3- preface.tex (text of your preface)
+4- refs-thesis.bib (bibliography of references)
+
+FOR EACH CHAPTER
+1- a .tex file with the contents of each chapter (e.g. ch1-introduction.tex)
+2- a folder for each chapter containing all figures and tables
+3- figures can be in any format, usually PDF.
+4- tables should be .tex files
+5- a seaprate .tex file for the appendices of each chapter
+
+TO COMBINE IT TOGETHER
+1- thesis.tex (full file that combines all the above together)
+
+Note that here I don't have any references so the bibliography section is empty.
+
+Also compiling will throw a few errors where Rich was doing complicated things that I've removed the code for but it still appears in the .cls file so it's getting confused. But it will still compile just with errors.
+
+The best part is it automatically numbers tables and figures etc. So much easier than Word, trust me!!!
