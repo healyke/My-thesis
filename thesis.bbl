@@ -1,4 +1,4 @@
-\begin{thebibliography}{116}
+\begin{thebibliography}{129}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{{\tt #1}}\fi
@@ -13,6 +13,11 @@ Albert EM, San~Mauro D, Garc{\'\i}a-Par{\'\i}s M, R{\"u}ber L, Zardoya R (2009)
 
 \bibitem[{Ali and Klyne(1985)}]{ali1985vision}
 Ali MA, Klyne MA (1985) Vision in vertebrates. Plenum Press New York.
+
+\bibitem[{Allen et~al.(2013)Allen, Baddeley, Scott-Samuel, and
+  Cuthill}]{allen2013evolution}
+Allen WL, Baddeley R, Scott-Samuel NE, Cuthill IC (2013) The evolution and
+  function of pattern diversity in snakes. Behavioral Ecology 24: 1237--1250.
 
 \bibitem[{Alroy et~al.(2008)Alroy, Aberhan, Bottjer, Foote, F{\"u}rsich
   et~al.}]{alroy2008phanerozoic}
@@ -33,6 +38,13 @@ Bahill T, Baldwin DG (2004) The rising fastball and other perceptual illusions
   of batters. In: Biomedical Engineering Principles in Sports, pp. 257--287,
   Springer.
 
+\bibitem[{Barlow et~al.(2009)Barlow, Pook, Harrison, and
+  W{\"u}ster}]{barlow2009coevolution}
+Barlow A, Pook CE, Harrison RA, W{\"u}ster W (2009) Coevolution of diet and
+  prey-specific venom activity supports the role of selection in snake venom
+  evolution. Proceedings of the Royal Society B: Biological Sciences 276:
+  2443--2449.
+
 \bibitem[{Benton and Donoghue(2007)}]{benton2007paleontological}
 Benton MJ, Donoghue PC (2007) Paleontological evidence to date the tree of
   life. Molecular biology and evolution 24: 26--53.
@@ -48,6 +60,10 @@ Bininda-Emonds OR, Cardillo M, Jones KE, MacPhee RD, Beck RM, et~al. (2007) The
 \bibitem[{Block and Carey(1985)}]{block1985warm}
 Block BA, Carey FG (1985) Warm brain and eye temperatures in sharks. Journal of
   Comparative Physiology B 156: 229--236.
+
+\bibitem[{Boback and Guyer(2003)}]{boback2003empirical}
+Boback SM, Guyer C (2003) Empirical evidence for an optimal body size in
+  snakes. Evolution 57: 345--451.
 
 \bibitem[{Brown et~al.(2004)Brown, Gillooly, Allen, Savage, and
   West}]{brown2004}
@@ -90,6 +106,12 @@ Clark RW, Tangco S, Barbour MA (2012) Field video recordings reveal factors
 Cramp S (1977) Handbook of the birds of Europe, the Middle East, and North
   Africa: the birds of the western Palearctic. Vol. 1, Ostrich to ducks. Oxford
   University Press.
+
+\bibitem[{Crognale et~al.(2008)Crognale, Eckert, Levenson, and
+  Harms}]{crognale2008leatherback}
+Crognale MA, Eckert SA, Levenson DH, Harms CA (2008) Leatherback sea turtle
+  Dermochelys coriacea visual capacities and potential reduction of bycatch by
+  pelagic longline fisheries. Endangered Species Research 5: 249--256.
 
 \bibitem[{Cronin(2005)}]{cronin2005role}
 Cronin T (2005) The role of vision in predatore prey interactions. Ecology of
@@ -236,6 +258,12 @@ Hornstein E, O'Carroll D, Anderson J, Laughlin S (2000) Sexual dimorphism
   matches photoreceptor performance to behavioural requirements. Proceedings of
   the Royal Society of London Series B: Biological Sciences 267: 2111--2117.
 
+\bibitem[{Hossie et~al.(2013)Hossie, Hassall, Knee, and
+  Sherratt}]{hossie2013species}
+Hossie TJ, Hassall C, Knee W, Sherratt TN (2013) Species with a chemical
+  defence, but not chemical offence, live longer. Journal of evolutionary
+  biology 26: 1598--1602.
+
 \bibitem[{Howland et~al.(2004)Howland, Merola, and
   Basarab}]{howland2004allometry}
 Howland HC, Merola S, Basarab JR (2004) The allometry and scaling of the size
@@ -251,6 +279,11 @@ Hulbert A, Pamplona R, Buffenstein R, Buttemer W (2007) Life and death:
   metabolic rate, membrane composition, and life span of animals. Physiological
   Reviews 87: 1175--1213.
 
+\bibitem[{Inger et~al.(2014)Inger, Bennie, Davies, and
+  Gaston}]{inger2014potential}
+Inger R, Bennie J, Davies TW, Gaston KJ (2014) Potential biological and
+  ecological effects of flickering artificial light. PloS one 9: e98631.
+
 \bibitem[{J{\'a}nossy(2011)}]{janossy2011pleistocene}
 J{\'a}nossy D (2011) Pleistocene vertebrate faunas of Hungary. Elsevier.
 
@@ -263,6 +296,13 @@ Jetz W, Thomas G, Joy J, Hartmann K, Mooers A (2012) The global diversity of
 Jones G, Rydell J (1994) Foraging strategy and predation risk as factors
   influencing emergence time in echolocating bats. Philosophical Transactions
   of the Royal Society B: Biological Sciences 346: 445--455.
+
+\bibitem[{Jordan et~al.(2013)Jordan, Mandelman, McComb, Fordham, Carlson
+  et~al.}]{jordan2013linking}
+Jordan LK, Mandelman JW, McComb DM, Fordham SV, Carlson JK, et~al. (2013)
+  Linking sensory biology and fisheries bycatch reduction in elasmobranch
+  fishes: a review with new directions for research. Conservation Physiology 1:
+  cot002.
 
 \bibitem[{Keller and Genoud(1997)}]{keller1997extraordinary}
 Keller L, Genoud M (1997) Extraordinary lifespans in ants: a test of
@@ -281,6 +321,13 @@ Kuhn TS, Mooers A{\O}, Thomas GH (2011) A simple polytomy resolver for dated
 \bibitem[{Land and Collett(1974)}]{land1974chasing}
 Land MF, Collett T (1974) Chasing behaviour of houseflies (Fannia canicularis).
   Journal of comparative physiology 89: 331--357.
+
+\bibitem[{Landgren et~al.(2014)Landgren, Fritsches, Brill, and
+  Warrant}]{landgren2014visual}
+Landgren E, Fritsches K, Brill R, Warrant E (2014) The visual ecology of a
+  deep-sea fish, the escolar Lepidocybium flavobrunneum (Smith, 1843).
+  Philosophical Transactions of the Royal Society B: Biological Sciences 369:
+  20130039.
 
 \bibitem[{Laughlin and Weckstr{\"o}m(1993)}]{laughlin1993fast}
 Laughlin S, Weckstr{\"o}m M (1993) Fast and slow photoreceptors—a comparative
@@ -334,6 +381,10 @@ M{\o}ller A (2010) Up, up, and away: relative importance of horizontal and
   vertical escape from predators for survival and senescence. Journal of
   evolutionary biology 23: 1689--1698.
 
+\bibitem[{Moorad and Promislow(2010)}]{moorad2010evolution}
+Moorad JA, Promislow DE (2010) Evolution: aging up a tree? Current Biology 20:
+  R406--R408.
+
 \bibitem[{Murphy et~al.(2007)Murphy, Pringle, Crider, Springer, and
   Miller}]{murphy2007using}
 Murphy WJ, Pringle TH, Crider TA, Springer MS, Miller W (2007) Using genomic
@@ -366,6 +417,11 @@ Pagel M (1999) Inferring the historical patterns of biological evolution.
 
 \bibitem[{Palmer and Grant(2010)}]{palmer2010art}
 Palmer JM, Grant BG (2010) The art of radiometry. SPIE Press Bellingham.
+
+\bibitem[{Parham et~al.(2011)Parham, Donoghue, Bell, Calway, Head
+  et~al.}]{parham2011best}
+Parham JF, Donoghue PC, Bell CJ, Calway TD, Head JJ, et~al. (2011) Best
+  practices for justifying fossil calibrations. Systematic Biology p. syr107.
 
 \bibitem[{Parr and Juniper(2010)}]{parr2010parrots}
 Parr M, Juniper T (2010) Parrots: a guide to parrots of the world. Bloomsbury
@@ -405,6 +461,15 @@ Promislow DE (1993) On size and survival: progress and pitfalls in the
 Promislow DE, Harvey PH (1990) Living fast and dying young: A comparative
   analysis of life-history variation among mammals. Journal of Zoology 220:
   417--437.
+
+\bibitem[{Prugh and Golden(2014)}]{prugh2014does}
+Prugh LR, Golden CD (2014) Does moonlight increase predation risk?
+  Meta-analysis reveals divergent responses of nocturnal mammals to lunar
+  cycles. Journal of animal ecology 83: 504--514.
+
+\bibitem[{Pyron and Burbrink(2014)}]{pyron2014early}
+Pyron RA, Burbrink FT (2014) Early origin of viviparity and multiple reversions
+  to oviparity in squamate reptiles. Ecology letters 17: 13--21.
 
 \bibitem[{{R Core Team}(2014)}]{RCran}
 {R Core Team} (2014) R: A Language and Environment for Statistical Computing. R
@@ -492,6 +557,10 @@ Tatler B, O'Carroll D, Laughlin S (2000) Temperature and the temporal resolving
 Therrien F, Henderson DM (2007) My theropod is bigger than yours… or not:
   estimating body size from skull length in theropods. Journal of Vertebrate
   Paleontology 27: 108--115.
+
+\bibitem[{Tosh and Ruxton(2010)}]{tosh2010modelling}
+Tosh CR, Ruxton GD (2010) Modelling perception with artificial neural networks.
+  Cambridge University Press.
 
 \bibitem[{Vogel(2008)}]{vogel2008modes}
 Vogel S (2008) Modes and scaling in aquatic locomotion. Integrative and

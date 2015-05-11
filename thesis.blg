@@ -2,71 +2,87 @@ This is BibTeX, Version 0.99d (TeX Live 2013)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: thesis.aux
 The style file: PLoS-Biology.bst
-Illegal, another \bibstyle command---line 298 of file thesis.aux
+Illegal, another \bibstyle command---line 317 of file thesis.aux
  : \bibstyle
  :          {PLoS-Biology}
 I'm skipping whatever remains of this command
-Illegal, another \bibdata command---line 299 of file thesis.aux
+Illegal, another \bibdata command---line 318 of file thesis.aux
  : \bibdata
  :         {bibfile}
 I'm skipping whatever remains of this command
-Illegal, another \bibstyle command---line 428 of file thesis.aux
+Illegal, another \bibstyle command---line 468 of file thesis.aux
  : \bibstyle
  :          {PLoS-Biology}
 I'm skipping whatever remains of this command
-Illegal, another \bibdata command---line 429 of file thesis.aux
+Illegal, another \bibdata command---line 469 of file thesis.aux
+ : \bibdata
+ :         {bibfile}
+I'm skipping whatever remains of this command
+Illegal, another \bibstyle command---line 603 of file thesis.aux
+ : \bibstyle
+ :          {PLoS-Biology}
+I'm skipping whatever remains of this command
+Illegal, another \bibdata command---line 604 of file thesis.aux
+ : \bibdata
+ :         {bibfile}
+I'm skipping whatever remains of this command
+Illegal, another \bibstyle command---line 782 of file thesis.aux
+ : \bibstyle
+ :          {PLoS-Biology}
+I'm skipping whatever remains of this command
+Illegal, another \bibdata command---line 783 of file thesis.aux
  : \bibdata
  :         {bibfile}
 I'm skipping whatever remains of this command
 Database file #1: bibfile.bib
-Repeated entry---line 634 of file bibfile.bib
+Repeated entry---line 682 of file bibfile.bib
  : @article{folkow2004distribution
  :                                ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 646 of file bibfile.bib
+Repeated entry---line 694 of file bibfile.bib
  : @article{frank1999comparative
  :                              ,
 I'm skipping whatever remains of this entry
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-You've used 116 entries,
+You've used 129 entries,
             3003 wiz_defined-function locations,
-            1311 strings with 24937 characters,
-and the built_in function-call counts, 122124 in all, are:
-= -- 12027
-> -- 3364
-< -- 81
-+ -- 1675
-- -- 930
-* -- 10404
-:= -- 16804
-add.period$ -- 232
-call.type$ -- 116
-change.case$ -- 761
-chr.to.int$ -- 115
-cite$ -- 116
-duplicate$ -- 10085
-empty$ -- 10743
-format.name$ -- 1290
-if$ -- 25889
+            1376 strings with 27457 characters,
+and the built_in function-call counts, 137961 in all, are:
+= -- 13583
+> -- 3868
+< -- 87
++ -- 1929
+- -- 1068
+* -- 11789
+:= -- 18939
+add.period$ -- 258
+call.type$ -- 129
+change.case$ -- 857
+chr.to.int$ -- 128
+cite$ -- 129
+duplicate$ -- 11371
+empty$ -- 12097
+format.name$ -- 1477
+if$ -- 29255
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 1015
-newline$ -- 355
-num.names$ -- 464
-pop$ -- 2379
+missing$ -- 1139
+newline$ -- 394
+num.names$ -- 516
+pop$ -- 2692
 preamble$ -- 1
-purify$ -- 759
+purify$ -- 855
 quote$ -- 0
-skip$ -- 2365
+skip$ -- 2671
 stack$ -- 0
-substring$ -- 14713
-swap$ -- 2227
-text.length$ -- 12
+substring$ -- 16630
+swap$ -- 2511
+text.length$ -- 13
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 993
+type$ -- 1107
 warning$ -- 0
-while$ -- 936
+while$ -- 1053
 width$ -- 0
-write$ -- 1270
-(There were 6 error messages)
+write$ -- 1412
+(There were 10 error messages)

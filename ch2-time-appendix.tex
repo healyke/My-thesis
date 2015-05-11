@@ -1,15 +1,92 @@
-\chapter{Supplementary Information to \Chapref{labstudy}}%labstudy is the label for chapter 2.
+\chapter{Supplementary Information to \Chapref{CFF}}%labstudy is the label for chapter 2.
+\label{chap:Appendix A}
+\section{Phylogeny reconstruction}
 
-\section{Additional cool equations}
-%basically treat this the same as normal chapters
-\label{sec:root-state-calc}
- 
-This probability is given by the likelihood given that the root is in state
-$i$ divided by the sum of the likelihoods over both root states,
-$D_{Ri}/(D_{R0}+D_{R1})$.  The overall likelihood is then:
-\begin{equation}
-  \label{eq:root}
-  D_{R} = D_{R0}\frac{D_{R0}}{D_{R0} + D_{R1}} +
-  D_{R1}\frac{D_{R1}}{D_{R0} + D_{R1}}
-\end{equation}
+Divergence times and phylogenies from the literature were used to produce a composite phylogeny of the vertebrate species used in our analyses (Figure \ref{fig:Figure 2.}). For species with no available divergence dates based on molecular data or available published trees, conservatively estimated first appearance dates from the Paleobiology database (PBDB) were used as an estimate of divergence time \citep{alroy2008phanerozoic}. 
+Divergence dates for the major groups Batoidea, Actinopterygii and Amphibia were taken from the TimeTree database \citep{hedges2006timetree}. For divergence dates of Carcharinus and Sphyna \cite{lim2010phylogeny} was used, while the divergence time between Negaprion brevirostris and Carcharchinus acrontus was estimated based on the first appearance in the fossil record of \textit{Negaprion brevirostris}, the younger of the of the two species (Negaprion spp - 40.3mya, Carcharchinus - 46.2). \cite{li2008optimal} were used to infer phylogenetic relationships and divergence times in Actinopterygii, and \cite{little2010evolutionary} was used for perciform divergence times. For divergence time between anopsids (turtles and birds) and suarapids (Squamata and Sphenodon) the estimation from \cite{benton2007paleontological} was use while \cite{perelman2011molecular} was used for the divergence and phylogenetic relationships among Squamata, Sphenodon, turtles and Aves. For divergence times within the Squamata \cite{wiens2006does} was used, while for turtle species I used \cite{naro2008evolutionary}. I used \cite{brown2008strong} for the Aves phylogeny with divergence times between Asio flammeus and Bubo virginianus estimated using an estimate of the first appearance \citep{janossy2011pleistocene}. \citep{murphy2007using} was used for divergence dates of mammalian orders, while for primates I used \cite{perelman2011molecular}. Rodent divergence times were taken from \cite{murphy2007using}.
+
+
+
+\section{Sensitivity analyses}
+
+A series of sensitivity analyses was performed to test if the results of the main analysis were affected by (1) the temperature that ectoderm species metabolic rates were corrected to, (2) the inclusion of brain mass as a control for information processing abilities and (3) the quality of the data used in the analysis.
+
+\subsection{Ectotherm temperature sensitivity} 
+I used Q10 values, the fold change in metabolic rate over a temperature change of 10$^{\circ}$C, as defined for each of the major groups (i.e. reptilian, amphibian egtc; See Methods in main text) to correct ectotherm mass specific metabolism (qWg) over a temperature range of 5$^{\circ}$C to 35$^{\circ}$C. This analysis was performed by re-running the main analysis with qWg corrected to 5$^{\circ}$C and then corrected to 35$^{\circ}$C. The resulting set of models and the terms which they included are given in Tables S2 and S3. In both analyses the model with the lowest AIC includes the same terms as found in the main analysis, i.e., body mass (Mg), temperature corrected mass-specific resting metabolic rate (qWg) and light levels, with qualitatively the same significant affects (Tables S6  and S7). 
+
+
+\begin{table}[h!]
+  \centering
+    \caption[Table 2.]{Coefficients of the model with all factors included. Mg = body mass (grams), qWg = Temperature corrected mass-specific resting metabolic rate Wg-1, Light.l (low) = effect of low light levels on CFF in comparison to high light levels, exp = effect of experimental type (ERG = electroretinogram) in comparison to behavior based CFF measures.}
+
+\begin{tabular}{*5l}    \toprule
+\emph{Variable} & \emph{Estimate} & \emph{S.E} & \emph{t-value}&  \emph{P-value}\\\midrule
+Intercept    & 141.48  & 15.15  & 9.34  &  {\ensuremath{4^{-10}}}\\ 
+Mg & -4.40 & 2.01 & -2.18 & 0.038\\
+qWg & 16.89 & 4.31 & 3.92 & {\ensuremath{5^{-4}}}\\
+Light levels (low) & -37.74 & 5.94 & -6.36 & {\ensuremath{7^{-7}}}\\
+Measurement type (exp) & -3.66 & 6.24 & -0.59 & 0.56\\
+Data quality (high) & -3.86 & 6.14 & -0.63 & 0.53\\
+ &  & & & \\
+ & Mode & Lower 95\% C.I & Upper 95\% C.I\\ 
+Lambda  (Low) & 0 & 0 & 0.34 &\\
+&  &  &  &{\ensuremath{R^2}= 0.69}\\\bottomrule
+ \hline
+\end{tabular}
+  \label{tbl:Table 2.}
+\end{table}
+
+
+
+
+\begin{table}[h!]
+  \centering
+    \caption[Table 2.]{Coefficients of the model with all factors included. Mg = body mass (grams), qWg = Temperature corrected mass-specific resting metabolic rate Wg-1, Light.l (low) = effect of low light levels on CFF in comparison to high light levels, exp = effect of experimental type (ERG = electroretinogram) in comparison to behavior based CFF measures.}
+
+\begin{tabular}{*5l}    \toprule
+\emph{Variable} & \emph{Estimate} & \emph{S.E} & \emph{t-value}&  \emph{P-value}\\\midrule
+Intercept    & 141.48  & 15.15  & 9.34  &  {\ensuremath{4^{-10}}}\\ 
+Mg & -4.40 & 2.01 & -2.18 & 0.038\\
+qWg & 16.89 & 4.31 & 3.92 & {\ensuremath{5^{-4}}}\\
+Light levels (low) & -37.74 & 5.94 & -6.36 & {\ensuremath{7^{-7}}}\\
+Measurement type (exp) & -3.66 & 6.24 & -0.59 & 0.56\\
+Data quality (high) & -3.86 & 6.14 & -0.63 & 0.53\\
+ &  & & & \\
+ & Mode & Lower 95\% C.I & Upper 95\% C.I\\ 
+Lambda  (Low) & 0 & 0 & 0.34 &\\
+&  &  &  &{\ensuremath{R^2}= 0.69}\\\bottomrule
+ \hline
+\end{tabular}
+  \label{tbl:Table 2.}
+\end{table}
+
+
+\subsection{Brain Mass analysis} 
+
+As the amount of sensory tissue available to an organism may aid in its ability to perceive and process information, brain mass values, measured as wet weight (g), were taken from the literature (Table 1, Methods). As data on brain mass was available for only a subset of twenty-eight species, the term brain mass was included along with the terms used in the main analysis (light levels, qWg, experimental design and body mass) in a series of models performed on the restricted data set (Table S4). While a similar trend to the first analysis was found, a positive effect of mass specific resting metabolic rate () and negative effects of low light levels () and body mass (), brain mass was found to have no significant effect on CFF levels ().
+
+
+\begin{table}[h!]
+  \centering
+    \caption[Table 2.]{Coefficients of the model with all factors included. Mg = body mass (grams), qWg = Temperature corrected mass-specific resting metabolic rate Wg-1, Light.l (low) = effect of low light levels on CFF in comparison to high light levels, exp = effect of experimental type (ERG = electroretinogram) in comparison to behavior based CFF measures.}
+
+\begin{tabular}{*5l}    \toprule
+\emph{Variable} & \emph{Estimate} & \emph{S.E} & \emph{t-value}&  \emph{P-value}\\\midrule
+Intercept    & 141.48  & 15.15  & 9.34  &  {\ensuremath{4^{-10}}}\\ 
+Mg & -4.40 & 2.01 & -2.18 & 0.038\\
+qWg & 16.89 & 4.31 & 3.92 & {\ensuremath{5^{-4}}}\\
+Light levels (low) & -37.74 & 5.94 & -6.36 & {\ensuremath{7^{-7}}}\\
+Measurement type (exp) & -3.66 & 6.24 & -0.59 & 0.56\\
+Data quality (high) & -3.86 & 6.14 & -0.63 & 0.53\\
+ &  & & & \\
+ & Mode & Lower 95\% C.I & Upper 95\% C.I\\ 
+Lambda  (Low) & 0 & 0 & 0.34 &\\
+&  &  &  &{\ensuremath{R^2}= 0.69}\\\bottomrule
+ \hline
+\end{tabular}
+  \label{tbl:Table 2.}
+\end{table}
+
+
+
 

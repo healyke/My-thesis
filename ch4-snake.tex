@@ -28,11 +28,23 @@ Why are snakes so venamous
 \section{Materials and Methods}
 \subsection{Data}
 
-Data stuff
+As a measure of venom lethality I used median lethal dose (LD50), the individual dose required to kill 50\% of a population of test animals, were the route of inoculation was intravenous, subcutaneous, intrapulmonary or intramuscular. While most studies determine LD50 values using murine I also included studies that used alternative models as snake venom potency is likely to be linked to diet \citep{barlow2009coevolution}. I used both reported maximum and mean dry weight (mg) as a measure of venom volume as it was the most available reported measure. In the case of multiple studies reported venom volumes the mean values across the studies were taken as the value for that species with the maximum across all studies used as the overall maximum value. 
+
+
+To test whether species with prey items phylogenetically close to the LD50 test species I calculated a score relating to the phylogenetic distance between the species used to calculate the LD50 value and the groups present in the snakes diet. This was calculated as the sum of the phylogenetic distance, using average estimates from TimeTree \citep{hedges2006timetree}, between each prey group and the LD50 model by the proportion of each prey group reported in each snake species diet. For example a species with a diet of 20\% mammals, 50\% fish and 30\% reptiles with a LD50 measured using mice would have a score of 0.2\*(0) + 0.5\*(400.1) + 0.3\*(296) = 288.85.
+
+
+Diet data was collated from the literature using studies with quantitative estimates of prey proportions, mainly from studies of stomach contents (See appendix for data). As prey items were rarely identified to lower taxonomic levels diet was categorized as in \citep{allen2013evolution} into six prey categories; invertebrates, fish, amphibians, lizards, birds and mammals.
+
+
+Species habitat was categorised as either terrestrial, fossorial, aquatic or arboreal based on literature accounts.  In order to directly test the expected effect of the dimensionality of habitat environment each environment was scored, as in \citep{pawar2012dimensionality}, with terrestrial and fossorial environments scored as two-dimensional and arboreal and aquatic scored as three-dimensional.
+To include body size in the analysis I used total length values from the literature, primarily from the compilation of \citep{boback2003empirical} and from field guides and other works on regional snake faunas. To allow direct comparison with other allometric scaling studies body length was converted into mass using the conversion in \citep{boback2003empirical}. 
+Mass, LD50, venom volume and phylogenetic distance between diet and model were log10 transformed, mean centred and expressed in units of standard deviation prior to analysis. Significance was determined for the fixed effects when 95\% of the data is greater or less than 0. To correct for phylogeny I used the tree from \citep{pyron2014early}. 
+
 
 \subsection{Analyses}
 
-Models and stuff
+To test these hypotheses I fit multivariate phylogenetic mixed models using the MCMCglmm package \citep{hadfield2010mcmc} in R 2.14.2 \citep{RCran}.  As venom volume and LD50 are likely to have co-evolved both were included as response variables with mass, LD50 inoculation method, habitat dimensionality, the presence of eggs in diet and phylogenetic distance from LD50 model included as explanatory variables.  Two models were fit; one using maximum venom volume and one with average venom volume. Phylogeny was controlled by including it using the animal term in the MCMCglmm model. Variation due to multiple measures on individual species, mostly to allow the inclusion of separate values for sub-species, was included using a separate random term at the species level. All models were fitted with uninformative priors by using inverse-Wishart parameter expanded priors \citep{hadfield2010mcmc} with burn-in, thinning and number of iterations determined to ensure effective sample sizes exceeded 1000 for all parameter estimates and convergence tested using the Gelman-Rubin statistic \citep{gelman1992inference}. 
 
 \section{Results}
 
@@ -42,3 +54,8 @@ found this
 \section{Discussion}
 
 This is what I think
+
+
+\bibliographystyle{PLoS-Biology}
+\bibliography{bibfile}
+
