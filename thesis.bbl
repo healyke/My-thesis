@@ -1,4 +1,4 @@
-\begin{thebibliography}{129}
+\begin{thebibliography}{128}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{{\tt #1}}\fi
@@ -116,12 +116,6 @@ Crognale MA, Eckert SA, Levenson DH, Harms CA (2008) Leatherback sea turtle
 \bibitem[{Cronin(2005)}]{cronin2005role}
 Cronin T (2005) The role of vision in predatore prey interactions. Ecology of
   Predator p.~1.
-
-\bibitem[{Dall et~al.(2005)Dall, Giraldeau, Olsson, McNamara, and
-  Stephens}]{dall2005information}
-Dall SR, Giraldeau LA, Olsson O, McNamara JM, Stephens DW (2005) Information
-  and its use by animals in evolutionary ecology. Trends in Ecology \&
-  Evolution 20: 187--193.
 
 \bibitem[{De~Magalhaes and Costa(2009)}]{de2009database}
 De~Magalhaes J, Costa J (2009) A database of vertebrate longevity records and
