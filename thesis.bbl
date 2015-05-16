@@ -1,4 +1,4 @@
-\begin{thebibliography}{128}
+\begin{thebibliography}{151}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{{\tt #1}}\fi
@@ -85,11 +85,23 @@ Buffenstein R, Jarvis JU (2002) The naked mole rat--a new record for the oldest
 Burnham KP, Anderson DR (2002) Model selection and multimodel inference: a
   practical information-theoretic approach. Springer Science \& Business Media.
 
+\bibitem[{Caldwell et~al.(2015)Caldwell, Nydam, Palci, and
+  Apestegu{\'\i}a}]{caldwell2015oldest}
+Caldwell MW, Nydam RL, Palci A, Apestegu{\'\i}a S (2015) The oldest known
+  snakes from the Middle Jurassic-Lower Cretaceous provide insights on snake
+  evolution. Nature communications 6.
+
 \bibitem[{Carey(1982)}]{carey1982brain}
 Carey FG (1982) A brain heater in the swordfish. Science 216: 1327--1329.
 
 \bibitem[{Carwardine(1995)}]{carwardine1995guinness}
 Carwardine M (1995) The Guinness book of animal records. Guinness Publishing.
+
+\bibitem[{Casewell et~al.(2013)Casewell, W{\"u}ster, Vonk, Harrison, and
+  Fry}]{casewell2013complex}
+Casewell NR, W{\"u}ster W, Vonk FJ, Harrison RA, Fry BG (2013) Complex
+  cocktails: the evolutionary novelty of venoms. Trends in ecology \& evolution
+  28: 219--229.
 
 \bibitem[{Chatterjee et~al.(2007)Chatterjee, Templin, and
   Campbell}]{chatterjee2007aerodynamics}
@@ -116,6 +128,10 @@ Crognale MA, Eckert SA, Levenson DH, Harms CA (2008) Leatherback sea turtle
 \bibitem[{Cronin(2005)}]{cronin2005role}
 Cronin T (2005) The role of vision in predatore prey interactions. Ecology of
   Predator p.~1.
+
+\bibitem[{Daltry et~al.(1996)Daltry, W{\"u}ster, and Thorpe}]{daltry1996diet}
+Daltry JC, W{\"u}ster W, Thorpe RS (1996) Diet and snake venom evolution.
+  Nature 379: 537--540.
 
 \bibitem[{De~Magalhaes and Costa(2009)}]{de2009database}
 De~Magalhaes J, Costa J (2009) A database of vertebrate longevity records and
@@ -181,6 +197,12 @@ Fritsches KA, Brill RW, Warrant EJ (2005) Warm eyes provide superior vision in
 Froese R, Pauly D (2012) FishBase (www. fishbase. org). World wide web
   electronic publication .
 
+\bibitem[{Fry et~al.(2012)Fry, Casewell, W{\"u}ster, Vidal, Young
+  et~al.}]{fry2012structural}
+Fry BG, Casewell NR, W{\"u}ster W, Vidal N, Young B, et~al. (2012) The
+  structural and functional diversification of the Toxicofera reptile venom
+  system. Toxicon 60: 434--448.
+
 \bibitem[{Fry and Fry(2010)}]{fry2010kingfishers}
 Fry CH, Fry K (2010) Kingfishers, bee-eaters and rollers. A\&C Black.
 
@@ -198,6 +220,10 @@ Gelman A, Rubin DB (1992) Inference from iterative simulation using multiple
 Gilbert C (1997) Visual control of cursorial prey pursuit by tiger beetles
   (Cicindelidae). Journal of Comparative Physiology A 181: 217--230.
 
+\bibitem[{Greene(1997)}]{greene1997snakes}
+Greene HW (1997) Snakes: the evolution of mystery in nature. Univ of California
+  Press.
+
 \bibitem[{Haddock et~al.(2005)Haddock, Dunn, Pugh, and
   Schnitzler}]{haddock2005bioluminescent}
 Haddock SH, Dunn CW, Pugh PR, Schnitzler CE (2005) Bioluminescent and
@@ -214,9 +240,18 @@ Hagura N, Kanai R, Orgs G, Haggard P (2012) Ready steady slow: action
   preparation slows the subjective passage of time. Proceedings of the Royal
   Society B: Biological Sciences p. rspb20121339.
 
+\bibitem[{Harte et~al.(2008)Harte, Zillio, Conlisk, and
+  Smith}]{harte2008maximum}
+Harte J, Zillio T, Conlisk E, Smith A (2008) Maximum entropy and the
+  state-variable approach to macroecology. Ecology 89: 2700--2711.
+
 \bibitem[{Harvey and Pagel(1991)}]{harvey1991comparative}
 Harvey PH, Pagel MD (1991) The comparative method in evolutionary biology, vol.
   239. Oxford university press Oxford.
+
+\bibitem[{HAYES(1995)}]{hayes1995venom}
+HAYES WK (1995) Venom metering by juvenile prairie rattlesnakes, Crotalus v.
+  viridis: effects of prey size and experience. Animal Behaviour 50: 33--40.
 
 \bibitem[{Healy et~al.(2014)Healy, Guillerme, Finlay, Kane, Kelly
   et~al.}]{healy2014ecology}
@@ -281,6 +316,10 @@ Inger R, Bennie J, Davies TW, Gaston KJ (2014) Potential biological and
 \bibitem[{J{\'a}nossy(2011)}]{janossy2011pleistocene}
 J{\'a}nossy D (2011) Pleistocene vertebrate faunas of Hungary. Elsevier.
 
+\bibitem[{Jansa and Voss(2011)}]{jansa2011adaptive}
+Jansa SA, Voss RS (2011) Adaptive evolution of the venom-targeted vWF protein
+  in opossums that eat pitvipers. PLoS One 6: e20997.
+
 \bibitem[{Jetz et~al.(2012)Jetz, Thomas, Joy, Hartmann, and
   Mooers}]{jetz2012global}
 Jetz W, Thomas G, Joy J, Hartmann K, Mooers A (2012) The global diversity of
@@ -301,6 +340,10 @@ Jordan LK, Mandelman JW, McComb DM, Fordham SV, Carlson JK, et~al. (2013)
 \bibitem[{Keller and Genoud(1997)}]{keller1997extraordinary}
 Keller L, Genoud M (1997) Extraordinary lifespans in ants: a test of
   evolutionary theories of ageing. Nature 389: 958--960.
+
+\bibitem[{Kooijman(2009)}]{kooijman2009dynamic}
+Kooijman SALM (2009) Dynamic energy budget theory for metabolic organisation.
+  Cambridge university press.
 
 \bibitem[{Kreysing et~al.(2012)Kreysing, Pusch, Haverkate, Landsberger,
   Engelmann et~al.}]{kreysing2012photonic}
@@ -337,6 +380,17 @@ Li C, Lu G, Orti G (2008) Optimal data partitioning and a test case for
   ray-finned fishes (Actinopterygii) based on ten nuclear loci. Systematic
   Biology 57: 519--539.
 
+\bibitem[{Li et~al.(2005)Li, Fry, and Kini}]{li2005eggs}
+Li M, Fry B, Kini RM (2005) Eggs-only diet: its implications for the toxin
+  profile changes and ecology of the marbled sea snake (Aipysurus eydouxii).
+  Journal of Molecular Evolution 60: 81--89.
+
+\bibitem[{Lillywhite et~al.(2002)Lillywhite, de~Delva, Noonan, Schuett,
+  H{\"o}ggren et~al.}]{lillywhite2002patterns}
+Lillywhite HB, de~Delva P, Noonan BP, Schuett G, H{\"o}ggren M, et~al. (2002)
+  Patterns of gut passage time and the chronic retention of fecal mass in
+  viperid snakes. Biology of the vipers pp. 497--506.
+
 \bibitem[{Lim et~al.(2010)Lim, Motta, Mara, and Martin}]{lim2010phylogeny}
 Lim DD, Motta P, Mara K, Martin AP (2010) Phylogeny of hammerhead sharks
   (Family Sphyrnidae) inferred from mitochondrial and nuclear genes. Molecular
@@ -366,9 +420,19 @@ Makarieva AM, Gorshkov VG, Li BL, Chown SL, Reich PB, et~al. (2008) Mean
   domains: evidence for life's metabolic optimum. Proceedings of the National
   Academy of Sciences 105: 16994--16999.
 
+\bibitem[{McCue(2006)}]{mccue2006cost}
+McCue MD (2006) Cost of producing venom in three North American pitviper
+  species. Journal Information 2006.
+
 \bibitem[{Mercer and Roth(2003)}]{mercer2003effects}
 Mercer JM, Roth VL (2003) The effects of Cenozoic global change on squirrel
   phylogeny. Science 299: 1568--1572.
+
+\bibitem[{Mirtschin et~al.(2002)Mirtschin, Shine, Nias, Dunstan, Hough
+  et~al.}]{mirtschin2002influences}
+Mirtschin P, Shine R, Nias T, Dunstan N, Hough B, et~al. (2002) Influences on
+  venom yield in Australian tigersnakes (Notechis scutatus) and brownsnakes
+  (Pseudonaja textilis: Elapidae, Serpentes). Toxicon 40: 1581--1592.
 
 \bibitem[{M{\o}ller(2010)}]{moller2010up}
 M{\o}ller A (2010) Up, up, and away: relative importance of horizontal and
@@ -378,6 +442,10 @@ M{\o}ller A (2010) Up, up, and away: relative importance of horizontal and
 \bibitem[{Moorad and Promislow(2010)}]{moorad2010evolution}
 Moorad JA, Promislow DE (2010) Evolution: aging up a tree? Current Biology 20:
   R406--R408.
+
+\bibitem[{Morgenstern and King(2013)}]{morgenstern2013venom}
+Morgenstern D, King GF (2013) The venom optimization hypothesis revisited.
+  Toxicon 63: 120--128.
 
 \bibitem[{Murphy et~al.(2007)Murphy, Pringle, Crider, Springer, and
   Miller}]{murphy2007using}
@@ -434,6 +502,11 @@ Pawar S, Dell AI, Savage VM (2012) Dimensionality of consumer search space
 Perelman P, Johnson WE, Roos C, Seu{\'a}nez HN, Horvath JE, et~al. (2011) A
   molecular phylogeny of living primates. PLoS genetics 7: e1001342.
 
+\bibitem[{Pintor et~al.(2010)Pintor, Krockenberger, and
+  Seymour}]{pintor2010costs}
+Pintor AF, Krockenberger AK, Seymour JE (2010) Costs of venom production in the
+  common death adder (Acanthophis antarcticus). Toxicon 56: 1035--1042.
+
 \bibitem[{Plummer et~al.(2006)Plummer, Best, Cowles, and
   Vines}]{plummer2006coda}
 Plummer M, Best N, Cowles K, Vines K (2006) CODA: Convergence diagnosis and
@@ -442,6 +515,12 @@ Plummer M, Best N, Cowles K, Vines K (2006) CODA: Convergence diagnosis and
 \bibitem[{Pomeroy(1990)}]{pomeroy1990fly}
 Pomeroy D (1990) Why fly? The possible benefits for lower mortality. Biological
   Journal of the Linnean Society 40: 53--65.
+
+\bibitem[{Poran et~al.(1987)Poran, Coss, and Benjamini}]{poran1987resistance}
+Poran NS, Coss RG, Benjamini E (1987) Resistance of California ground squirrels
+  (Spermophilus beecheyi) to the venom of the northern Pacific rattlesnake
+  (Crotalus viridis oreganus): a study of adaptive variation. Toxicon 25:
+  767--777.
 
 \bibitem[{Porter(1902)}]{porter1902contributions}
 Porter TC (1902) Contributions to the study of flicker. Paper II. Proceedings
@@ -474,6 +553,12 @@ Pyron RA, Burbrink FT (2014) Early origin of viviparity and multiple reversions
 Reisz RR, M{\"u}ller J (2004) Molecular timescales and the fossil record: a
   paleontological perspective. TRENDS in Genetics 20: 237--241.
 
+\bibitem[{Richards et~al.(2012)Richards, Barlow, and
+  W{\"u}ster}]{richards2012venom}
+Richards D, Barlow A, W{\"u}ster W (2012) Venom lethality and diet:
+  Differential responses of natural prey and model organisms to the venom of
+  the saw-scaled vipers (Echis). Toxicon 59: 110--116.
+
 \bibitem[{Ricklefs(2010{\natexlab{a}})}]{ricklefs2010insights}
 Ricklefs RE (2010{\natexlab{a}}) Insights from comparative analyses of aging in
   birds and mammals. Aging cell 9: 273--284.
@@ -486,6 +571,10 @@ Ricklefs RE (2010{\natexlab{b}}) Life-history connections to rates of aging in
 \bibitem[{Ricklefs and Scheuerlein(2001)}]{ricklefs2001comparison}
 Ricklefs RE, Scheuerlein A (2001) Comparison of aging-related mortality among
   birds and mammals. Experimental gerontology 36: 845--857.
+
+\bibitem[{Rodr{\'\i}guez-Robles and Thomas(1992)}]{rodriguez1992venom}
+Rodr{\'\i}guez-Robles JA, Thomas R (1992) Venom function in the Puerto Rican
+  racer, Alsophis portoricensis (Serpentes: Colubridae). Copeia pp. 62--68.
 
 \bibitem[{Rohlf(2001)}]{rohlf2001comparative}
 Rohlf FJ (2001) Comparative methods for the analysis of continuous variables:
@@ -517,6 +606,10 @@ Schwartz SH, Meese T (2010) Visual perception: A clinical orientation.
 Shattuck MR, Williams SA (2010) Arboreality has allowed for the evolution of
   increased longevity in mammals. Proceedings of the National Academy of
   Sciences 107: 4635--4639.
+
+\bibitem[{Shine and Schwaner(1985)}]{shine1985prey}
+Shine R, Schwaner T (1985) Prey constriction by venomous snakes: a review, and
+  new data on Australian species. Copeia pp. 1067--1071.
 
 \bibitem[{Sibly et~al.(2012)Sibly, Brown, and
   Kodric-Brown}]{sibly2012metabolic}
@@ -560,6 +653,21 @@ Tosh CR, Ruxton GD (2010) Modelling perception with artificial neural networks.
 Vogel S (2008) Modes and scaling in aquatic locomotion. Integrative and
   Comparative Biology 48: 702--712.
 
+\bibitem[{Vonk et~al.(2013)Vonk, Casewell, Henkel, Heimberg, Jansen
+  et~al.}]{vonk2013king}
+Vonk FJ, Casewell NR, Henkel CV, Heimberg AM, Jansen HJ, et~al. (2013) The king
+  cobra genome reveals dynamic gene evolution and adaptation in the snake venom
+  system. Proceedings of the National Academy of Sciences 110: 20651--20656.
+
+\bibitem[{Voris and Moffett(1981)}]{voris1981size}
+Voris HK, Moffett MW (1981) Size and proportion relationship between the beaked
+  sea snake and its prey. Biotropica pp. 15--19.
+
+\bibitem[{Voss(2013)}]{voss2013opossums}
+Voss RS (2013) Opossums (Mammalia: Didelphidae) in the diets of Neotropical
+  pitvipers (Serpentes: Crotalinae): Evidence for alternative coevolutionary
+  outcomes? Toxicon 66: 1--6.
+
 \bibitem[{Watanabe et~al.(2012)Watanabe, Lydersen, Fisk, and
   Kovacs}]{watanabe2012slowest}
 Watanabe YY, Lydersen C, Fisk AT, Kovacs KM (2012) The slowest fish: swim speed
@@ -597,6 +705,12 @@ Williams SA, Shattuck MR (2015) Ecology, longevity and naked mole-rats:
   Stokes}]{williams1995penguins}
 Williams T, Wilson R, Boersma P, Stokes D (1995) The penguins, Spheniscidae.
   Bird families of the world (2) Show all parts in this series .
+
+\bibitem[{Williams et~al.(1988)Williams, White, Schwaner, and
+  Sparrow}]{williams1988variation}
+Williams V, White J, Schwaner T, Sparrow A (1988) Variation in venom proteins
+  from isolated populations of tiger snakes (Notechis ater niger, N. scutatus)
+  in South Australia. Toxicon 26: 1067--1075.
 
 \bibitem[{Wilson and Reeder(2005)}]{wilson2005mammal}
 Wilson DE, Reeder DM (2005) Mammal species of the world: a taxonomic and
