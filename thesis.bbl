@@ -1,4 +1,4 @@
-\begin{thebibliography}{151}
+\begin{thebibliography}{156}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{{\tt #1}}\fi
@@ -37,6 +37,12 @@ Autrum H (1958) Electrophysiological analysis of the visual systems in insects.
 Bahill T, Baldwin DG (2004) The rising fastball and other perceptual illusions
   of batters. In: Biomedical Engineering Principles in Sports, pp. 257--287,
   Springer.
+
+\bibitem[{Bar et~al.(2015)Bar, Skogestad, Mar{\c{c}}al, Ulanovsky, and
+  Yovel}]{bar2015sensory}
+Bar NS, Skogestad S, Mar{\c{c}}al JM, Ulanovsky N, Yovel Y (2015) A
+  Sensory-Motor Control Model of Animal Flight Explains Why Bats Fly
+  Differently in Light Versus Dark. PLoS biology 13: e1002046--e1002046.
 
 \bibitem[{Barlow et~al.(2009)Barlow, Pook, Harrison, and
   W{\"u}ster}]{barlow2009coevolution}
@@ -161,6 +167,12 @@ Dessing JC, Craig CM (2010) Bending it like Beckham: how to visually fool the
 Dudley R (2002) Mechanisms and implications of animal flight maneuverability.
   Integrative and Comparative Biology 42: 135--140.
 
+\bibitem[{Faulkes et~al.(2015)Faulkes, Davies, Rossiter, and
+  Bennett}]{faulkes2015molecular}
+Faulkes CG, Davies KT, Rossiter SJ, Bennett NC (2015) Molecular evolution of
+  the hyaluronan synthase 2 gene in mammals: implications for adaptations to
+  the subterranean niche and cancer resistance. Biology letters 11: 20150185.
+
 \bibitem[{Ferry(1892)}]{ferry1892persistence}
 Ferry ES (1892) Persistence of vision. American Journal of Science pp.
   192--207.
@@ -259,6 +271,12 @@ Healy K, Guillerme T, Finlay S, Kane A, Kelly SB, et~al. (2014) Ecology and
   mode-of-life explain lifespan variation in birds and mammals. Proceedings of
   the Royal Society B: Biological Sciences 281: 20140298.
 
+\bibitem[{Healy et~al.(2013)Healy, McNally, Ruxton, Cooper, and
+  Jackson}]{healy2013metabolic}
+Healy K, McNally L, Ruxton GD, Cooper N, Jackson AL (2013) Metabolic rate and
+  body size are linked with perception of temporal information. Animal
+  behaviour 86: 685--696.
+
 \bibitem[{Hedges et~al.(2006)Hedges, Dudley, and Kumar}]{hedges2006timetree}
 Hedges SB, Dudley J, Kumar S (2006) TimeTree: a public knowledge-base of
   divergence times among organisms. Bioinformatics 22: 2971--2972.
@@ -336,6 +354,13 @@ Jordan LK, Mandelman JW, McComb DM, Fordham SV, Carlson JK, et~al. (2013)
   Linking sensory biology and fisheries bycatch reduction in elasmobranch
   fishes: a review with new directions for research. Conservation Physiology 1:
   cot002.
+
+\bibitem[{Kalinoski et~al.(2014)Kalinoski, Hirons, Horodysky, and
+  Brill}]{kalinoski2014spectral}
+Kalinoski M, Hirons A, Horodysky A, Brill R (2014) Spectral sensitivity,
+  luminous sensitivity, and temporal resolution of the visual systems in three
+  sympatric temperate coastal shark species. Journal of Comparative Physiology
+  A 200: 997--1013.
 
 \bibitem[{Keller and Genoud(1997)}]{keller1997extraordinary}
 Keller L, Genoud M (1997) Extraordinary lifespans in ants: a test of
@@ -673,6 +698,12 @@ Voss RS (2013) Opossums (Mammalia: Didelphidae) in the diets of Neotropical
 Watanabe YY, Lydersen C, Fisk AT, Kovacs KM (2012) The slowest fish: swim speed
   and tail-beat frequency of Greenland sharks. Journal of Experimental Marine
   Biology and Ecology 426: 5--11.
+
+\bibitem[{Wegner et~al.(2015)Wegner, Snodgrass, Dewar, and
+  Hyde}]{Wegner15052015}
+Wegner NC, Snodgrass OE, Dewar H, Hyde JR (2015) Whole-body endothermy in a
+  mesopelagic fish, the opah, Lampris guttatus. Science 348: 786--789,
+  \urlprefix\url{http://www.sciencemag.org/content/348/6236/786.abstract}.
 
 \bibitem[{White et~al.(2006)White, Phillips, and Seymour}]{white2006scaling}
 White CR, Phillips NF, Seymour RS (2006) The scaling and temperature dependence

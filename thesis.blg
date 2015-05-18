@@ -2,71 +2,71 @@ This is BibTeX, Version 0.99d (TeX Live 2013)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: thesis.aux
 The style file: PLoS-Biology.bst
-Illegal, another \bibstyle command---line 425 of file thesis.aux
+Illegal, another \bibstyle command---line 440 of file thesis.aux
  : \bibstyle
  :          {PLoS-Biology}
 I'm skipping whatever remains of this command
-Illegal, another \bibdata command---line 426 of file thesis.aux
+Illegal, another \bibdata command---line 441 of file thesis.aux
  : \bibdata
  :         {bibfile}
 I'm skipping whatever remains of this command
-Illegal, another \bibstyle command---line 580 of file thesis.aux
+Illegal, another \bibstyle command---line 599 of file thesis.aux
  : \bibstyle
  :          {PLoS-Biology}
 I'm skipping whatever remains of this command
-Illegal, another \bibdata command---line 581 of file thesis.aux
+Illegal, another \bibdata command---line 600 of file thesis.aux
  : \bibdata
  :         {bibfile}
 I'm skipping whatever remains of this command
 Database file #1: bibfile.bib
-Repeated entry---line 715 of file bibfile.bib
+Repeated entry---line 739 of file bibfile.bib
  : @article{folkow2004distribution
  :                                ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 727 of file bibfile.bib
+Repeated entry---line 751 of file bibfile.bib
  : @article{frank1999comparative
  :                              ,
 I'm skipping whatever remains of this entry
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-You've used 151 entries,
+You've used 156 entries,
             3003 wiz_defined-function locations,
-            1482 strings with 31521 characters,
-and the built_in function-call counts, 160290 in all, are:
-= -- 15766
-> -- 4585
+            1512 strings with 32747 characters,
+and the built_in function-call counts, 166856 in all, are:
+= -- 16402
+> -- 4827
 < -- 101
-+ -- 2289
-- -- 1266
-* -- 13630
-:= -- 22054
-add.period$ -- 302
-call.type$ -- 151
-change.case$ -- 1007
-chr.to.int$ -- 150
-cite$ -- 151
-duplicate$ -- 13137
-empty$ -- 13975
-format.name$ -- 1741
-if$ -- 33985
++ -- 2413
+- -- 1332
+* -- 14215
+:= -- 22935
+add.period$ -- 312
+call.type$ -- 156
+change.case$ -- 1049
+chr.to.int$ -- 155
+cite$ -- 156
+duplicate$ -- 13641
+empty$ -- 14521
+format.name$ -- 1822
+if$ -- 35375
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 1333
-newline$ -- 460
-num.names$ -- 604
-pop$ -- 3148
+missing$ -- 1385
+newline$ -- 475
+num.names$ -- 624
+pop$ -- 3297
 preamble$ -- 1
-purify$ -- 1005
+purify$ -- 1047
 quote$ -- 0
-skip$ -- 3182
+skip$ -- 3293
 stack$ -- 0
-substring$ -- 19095
-swap$ -- 2957
+substring$ -- 19885
+swap$ -- 3071
 text.length$ -- 17
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1299
+type$ -- 1344
 warning$ -- 0
-while$ -- 1244
+while$ -- 1294
 width$ -- 0
-write$ -- 1652
+write$ -- 1708
 (There were 6 error messages)

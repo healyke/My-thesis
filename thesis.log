@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.1.13)  16 MAY 2015 18:30
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.1.13)  17 MAY 2015 22:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -921,6 +921,9 @@ ned.
 Package natbib Warning: Citation `bahill2004rising' multiply defined.
 
 
+Package natbib Warning: Citation `bar2015sensory' multiply defined.
+
+
 Package natbib Warning: Citation `barlow2009coevolution' multiply defined.
 
 
@@ -1000,6 +1003,9 @@ Package natbib Warning: Citation `dessing2010bending' multiply defined.
 Package natbib Warning: Citation `dudley2002mechanisms' multiply defined.
 
 
+Package natbib Warning: Citation `faulkes2015molecular' multiply defined.
+
+
 Package natbib Warning: Citation `ferry1892persistence' multiply defined.
 
 
@@ -1063,6 +1069,9 @@ Package natbib Warning: Citation `hayes1995venom' multiply defined.
 Package natbib Warning: Citation `healy2014ecology' multiply defined.
 
 
+Package natbib Warning: Citation `healy2013metabolic' multiply defined.
+
+
 Package natbib Warning: Citation `hedges2006timetree' multiply defined.
 
 
@@ -1109,6 +1118,9 @@ Package natbib Warning: Citation `jones1994foraging' multiply defined.
 
 
 Package natbib Warning: Citation `jordan2013linking' multiply defined.
+
+
+Package natbib Warning: Citation `kalinoski2014spectral' multiply defined.
 
 
 Package natbib Warning: Citation `keller1997extraordinary' multiply defined.
@@ -1319,6 +1331,9 @@ Package natbib Warning: Citation `voss2013opossums' multiply defined.
 
 
 Package natbib Warning: Citation `watanabe2012slowest' multiply defined.
+
+
+Package natbib Warning: Citation `Wegner15052015' multiply defined.
 
 
 Package natbib Warning: Citation `white2006scaling' multiply defined.
@@ -1376,6 +1391,9 @@ ned.
 Package natbib Warning: Citation `bahill2004rising' multiply defined.
 
 
+Package natbib Warning: Citation `bar2015sensory' multiply defined.
+
+
 Package natbib Warning: Citation `barlow2009coevolution' multiply defined.
 
 
@@ -1455,6 +1473,9 @@ Package natbib Warning: Citation `dessing2010bending' multiply defined.
 Package natbib Warning: Citation `dudley2002mechanisms' multiply defined.
 
 
+Package natbib Warning: Citation `faulkes2015molecular' multiply defined.
+
+
 Package natbib Warning: Citation `ferry1892persistence' multiply defined.
 
 
@@ -1518,6 +1539,9 @@ Package natbib Warning: Citation `hayes1995venom' multiply defined.
 Package natbib Warning: Citation `healy2014ecology' multiply defined.
 
 
+Package natbib Warning: Citation `healy2013metabolic' multiply defined.
+
+
 Package natbib Warning: Citation `hedges2006timetree' multiply defined.
 
 
@@ -1564,6 +1588,9 @@ Package natbib Warning: Citation `jones1994foraging' multiply defined.
 
 
 Package natbib Warning: Citation `jordan2013linking' multiply defined.
+
+
+Package natbib Warning: Citation `kalinoski2014spectral' multiply defined.
 
 
 Package natbib Warning: Citation `keller1997extraordinary' multiply defined.
@@ -1774,6 +1801,9 @@ Package natbib Warning: Citation `voss2013opossums' multiply defined.
 
 
 Package natbib Warning: Citation `watanabe2012slowest' multiply defined.
+
+
+Package natbib Warning: Citation `Wegner15052015' multiply defined.
 
 
 Package natbib Warning: Citation `white2006scaling' multiply defined.
@@ -2213,7 +2243,7 @@ Package pdftex.def Info: ch4-snakes/venom.png used on input line 8.
 File: ch4-snakes/fig1_snake_phylo.pdf Graphic file (type pdf)
 
 <use ch4-snakes/fig1_snake_phylo.pdf>
-Package pdftex.def Info: ch4-snakes/fig1_snake_phylo.pdf used on input line 72.
+Package pdftex.def Info: ch4-snakes/fig1_snake_phylo.pdf used on input line 69.
 
 (pdftex.def)             Requested size: 418.96548pt x 311.24525pt.
  [35] [36 <./ch4-snakes/fig1_snake_phylo.pdf>] <ch4-snakes/figure2aver.pdf, id=
@@ -2221,14 +2251,14 @@ Package pdftex.def Info: ch4-snakes/fig1_snake_phylo.pdf used on input line 72.
 File: ch4-snakes/figure2aver.pdf Graphic file (type pdf)
 
 <use ch4-snakes/figure2aver.pdf>
-Package pdftex.def Info: ch4-snakes/figure2aver.pdf used on input line 95.
+Package pdftex.def Info: ch4-snakes/figure2aver.pdf used on input line 92.
 (pdftex.def)             Requested size: 418.96548pt x 303.97485pt.
 
 <ch4-snakes/figure2max.pdf, id=1722, 458.34396pt x 332.18845pt>
 File: ch4-snakes/figure2max.pdf Graphic file (type pdf)
 
 <use ch4-snakes/figure2max.pdf>
-Package pdftex.def Info: ch4-snakes/figure2max.pdf used on input line 106.
+Package pdftex.def Info: ch4-snakes/figure2max.pdf used on input line 103.
 (pdftex.def)             Requested size: 418.96548pt x 303.66559pt.
 
 
@@ -2262,85 +2292,86 @@ Underfull \hbox (badness 1057) in paragraph at lines 29--31
 nd ecol-ogy:
  []
 
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 72.
-(/usr/local/texlive/2013/texmf-dist/tex/latex/base/t1cmtt.fd
+[43
+
+]
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 78.
+ (/usr/local/texlive/2013/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 Package microtype Info: Loading generic settings for font family
 (microtype)             `cmtt' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- [43
-
-] [44]
+ [44]
 [45]
-Underfull \hbox (badness 2903) in paragraph at lines 220--222
+Underfull \hbox (badness 2903) in paragraph at lines 232--234
 []\T1/phv/m/n/12 Gilbert C (1997) Vi-sual con-trol of cur-so-rial prey pur-suit
  by tiger bee-tles
  []
 
-[46] [47] [48] [49]
-Underfull \hbox (badness 1325) in paragraph at lines 520--524
+[46] [47] [48] [49] [50]
+Underfull \hbox (badness 1325) in paragraph at lines 545--549
 \T1/phv/m/n/12 (Sper-mophilus beecheyi) to the venom of the north-ern Pa-cific 
 rat-tlesnake
  []
 
-[50]
-Underfull \hbox (badness 1127) in paragraph at lines 548--551
+
+Underfull \hbox (badness 1127) in paragraph at lines 573--576
 \T1/phv/m/n/12 R Foun-da-tion for Sta-tis-ti-cal Com-put-ing, Vi-enna, Aus-tria
 , URL [][]$\T1/cmtt/m/n/12 http : / / www .
  []
 
 
-Underfull \hbox (badness 1838) in paragraph at lines 553--555
+Underfull \hbox (badness 1838) in paragraph at lines 578--580
 []\T1/phv/m/n/12 Reisz RR, Müller J (2004) Molec-u-lar timescales and the fos-s
 il record: a
  []
 
-
-Underfull \hbox (badness 1552) in paragraph at lines 567--570
+[51]
+Underfull \hbox (badness 1552) in paragraph at lines 592--595
 []\T1/phv/m/n/12 Ricklefs RE (2010b) Life-history con-nec-tions to rates of ag-
 ing in ter-res-trial
  []
 
-[51] [52]
-Underfull \hbox (badness 2334) in paragraph at lines 653--655
+[52]
+Underfull \hbox (badness 2334) in paragraph at lines 678--680
 []\T1/phv/m/n/12 Vogel S (2008) Modes and scal-ing in aquatic lo-co-mo-tion. In
 -te-gra-tive and
  []
 
 
-Underfull \hbox (badness 2027) in paragraph at lines 667--670
+Underfull \hbox (badness 2027) in paragraph at lines 692--695
 \T1/phv/m/n/12 pitvipers (Ser-pentes: Cro-tali-nae): Ev-i-dence for al-ter-na-t
 ive co-evo-lu-tion-ary
  []
 
-
-Underfull \hbox (badness 2600) in paragraph at lines 678--680
+[53]
+Underfull \hbox (badness 2600) in paragraph at lines 709--711
 []\T1/phv/m/n/12 White CR, Phillips NF, Sey-mour RS (2006) The scal-ing and tem
 -per-a-ture
  []
 
 
-Underfull \hbox (badness 2165) in paragraph at lines 700--703
+Underfull \hbox (badness 2165) in paragraph at lines 731--734
 []\T1/phv/m/n/12 Williams SA, Shat-tuck MR (2015) Ecol-ogy, longevity and naked
  mole-rats:
  []
 
-[53]
-Underfull \hbox (badness 1910) in paragraph at lines 721--724
+
+Underfull \hbox (badness 1910) in paragraph at lines 752--755
 []\T1/phv/m/n/12 Woodward G, Eben-man B, Em-mer-son M, Mon-toya JM, Ole-sen JM,
  et al.
  []
 
 
-Underfull \hbox (badness 2012) in paragraph at lines 721--724
+Underfull \hbox (badness 2012) in paragraph at lines 752--755
 \T1/phv/m/n/12 (2005) Body size in eco-log-i-cal net-works. Trends in Ecol-ogy 
 & Evo-lu-tion
  []
 
 
-Underfull \hbox (badness 3058) in paragraph at lines 721--724
+Underfull \hbox (badness 3058) in paragraph at lines 752--755
 \T1/phv/m/n/12 20: 402--409, URL [][]$\T1/cmtt/m/n/12 http : / / www . scienced
 irect . com / science / article / pii /
  []
@@ -2352,10 +2383,11 @@ Chapter 5.
 ]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 18.
+(hyperref)                removing `\uppercase' on input line 19.
 
-(./thesis.bbl [56]pdfTeX warning (ext4): destination with the same identifier (
-name{cite.albert2009effect}) has been already used, duplicate ignored
+[56] [57] (./thesis.bbl [58]pdfTeX warning (ext4): destination with the same id
+entifier (name{cite.albert2009effect}) has been already used, duplicate ignored
+
 <to be read again> 
                    \relax 
 l.8   R{\"u}ber, and Zardoya}]{albert2009effect}
@@ -2401,241 +2433,252 @@ sed, duplicate ignored
                    \relax 
 l.36 ...hill and Baldwin(2004)}]{bahill2004rising}
                                                   pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.barlow2009coevolution}) has been alre
-ady used, duplicate ignored
+ation with the same identifier (name{cite.bar2015sensory}) has been already use
+d, duplicate ignored
 <to be read again> 
                    \relax 
-l.42   W{\"u}ster}]{barlow2009coevolution}
+l.42   Yovel}]{bar2015sensory}
+                              pdfTeX warning (ext4): destination with the same 
+identifier (name{cite.barlow2009coevolution}) has been already used, duplicate 
+ignored
+<to be read again> 
+                   \relax 
+l.48   W{\"u}ster}]{barlow2009coevolution}
                                           pdfTeX warning (ext4): destination wi
 th the same identifier (name{cite.benton2007paleontological}) has been already 
 used, duplicate ignored
 <to be read again> 
                    \relax 
-l.48 ...onoghue(2007)}]{benton2007paleontological}
+l.54 ...onoghue(2007)}]{benton2007paleontological}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.biewener2003animal}) has been already
  used, duplicate ignored
 <to be read again> 
                    \relax 
-l.52 ...item[{Biewener(2003)}]{biewener2003animal}
+l.58 ...item[{Biewener(2003)}]{biewener2003animal}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.bininda2007delayed}) has been already
  used, duplicate ignored
 <to be read again> 
                    \relax 
-l.56   Beck et~al.}]{bininda2007delayed}
+l.62   Beck et~al.}]{bininda2007delayed}
                                         pdfTeX warning (ext4): destination with
  the same identifier (name{cite.block1985warm}) has been already used, duplicat
 e ignored
 <to be read again> 
                    \relax 
-l.60 ...em[{Block and Carey(1985)}]{block1985warm}
+l.66 ...em[{Block and Carey(1985)}]{block1985warm}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.boback2003empirical}) has been alread
 y used, duplicate ignored
 <to be read again> 
                    \relax 
-l.64 ...ack and Guyer(2003)}]{boback2003empirical}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.brown2004}) has been already used, du
-plicate ignored
-<to be read again> 
-                   \relax 
-l.69   West}]{brown2004}
-                         [57
+l.70 ...ack and Guyer(2003)}]{boback2003empirical}
+                                                   [59
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{cite.brown20
-08strong}) has been already used, duplicate ignored
+04}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.75   Mindell}]{brown2008strong}
+l.75   West}]{brown2004}
+                        pdfTeX warning (ext4): destination with the same identi
+fier (name{cite.brown2008strong}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.81   Mindell}]{brown2008strong}
                                  pdfTeX warning (ext4): destination with the sa
 me identifier (name{cite.buffenstein2002naked}) has been already used, duplicat
 e ignored
 <to be read again> 
                    \relax 
-l.80 ...n and Jarvis(2002)}]{buffenstein2002naked}
+l.86 ...n and Jarvis(2002)}]{buffenstein2002naked}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.burnham2002model}) has been already u
 sed, duplicate ignored
 <to be read again> 
                    \relax 
-l.84 ...ham and Anderson(2002)}]{burnham2002model}
+l.90 ...ham and Anderson(2002)}]{burnham2002model}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.caldwell2015oldest}) has been already
  used, duplicate ignored
 <to be read again> 
                    \relax 
-l.89   Apestegu{\'\i}a}]{caldwell2015oldest}
+l.95   Apestegu{\'\i}a}]{caldwell2015oldest}
                                             pdfTeX warning (ext4): destination 
 with the same identifier (name{cite.carey1982brain}) has been already used, dup
 licate ignored
 <to be read again> 
                    \relax 
-l.94 \bibitem[{Carey(1982)}]{carey1982brain}
-                                            pdfTeX warning (ext4): destination 
-with the same identifier (name{cite.carwardine1995guinness}) has been already u
-sed, duplicate ignored
+l.100 \bibitem[{Carey(1982)}]{carey1982brain}
+                                             pdfTeX warning (ext4): destination
+ with the same identifier (name{cite.carwardine1995guinness}) has been already 
+used, duplicate ignored
 <to be read again> 
                    \relax 
-l.97 ...Carwardine(1995)}]{carwardine1995guinness}
+l.103 ...arwardine(1995)}]{carwardine1995guinness}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.casewell2013complex}) has been alread
 y used, duplicate ignored
 <to be read again> 
                    \relax 
-l.101   Fry}]{casewell2013complex}
+l.107   Fry}]{casewell2013complex}
                                   pdfTeX warning (ext4): destination with the s
 ame identifier (name{cite.chatterjee2007aerodynamics}) has been already used, d
 uplicate ignored
 <to be read again> 
                    \relax 
-l.107   Campbell}]{chatterjee2007aerodynamics}
+l.113   Campbell}]{chatterjee2007aerodynamics}
                                               pdfTeX warning (ext4): destinatio
 n with the same identifier (name{cite.clark2012field}) has been already used, d
 uplicate ignored
 <to be read again> 
                    \relax 
-l.112 ...rk, Tangco, and Barbour}]{clark2012field}
+l.118 ...rk, Tangco, and Barbour}]{clark2012field}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.cramp1977handbook}) has been already 
 used, duplicate ignored
 <to be read again> 
                    \relax 
-l.117 \bibitem[{Cramp(1977)}]{cramp1977handbook}
+l.123 \bibitem[{Cramp(1977)}]{cramp1977handbook}
                                                 pdfTeX warning (ext4): destinat
 ion with the same identifier (name{cite.crognale2008leatherback}) has been alre
 ady used, duplicate ignored
 <to be read again> 
                    \relax 
-l.123   Harms}]{crognale2008leatherback}
+l.129   Harms}]{crognale2008leatherback}
                                         pdfTeX warning (ext4): destination with
  the same identifier (name{cite.cronin2005role}) has been already used, duplica
 te ignored
 <to be read again> 
                    \relax 
-l.128 \bibitem[{Cronin(2005)}]{cronin2005role}
-                                              pdfTeX warning (ext4): destinatio
-n with the same identifier (name{cite.daltry1996diet}) has been already used, d
-uplicate ignored
+l.134 \bibitem[{Cronin(2005)}]{cronin2005role}
+                                               [60]pdfTeX warning (ext4): desti
+nation with the same identifier (name{cite.daltry1996diet}) has been already us
+ed, duplicate ignored
 <to be read again> 
                    \relax 
-l.132 ... W{\"u}ster, and Thorpe}]{daltry1996diet}
-                                                   [58]pdfTeX warning (ext4): d
-estination with the same identifier (name{cite.de2009database}) has been alread
-y used, duplicate ignored
+l.138 ... W{\"u}ster, and Thorpe}]{daltry1996diet}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.de2009database}) has been already use
+d, duplicate ignored
 <to be read again> 
                    \relax 
-l.136 ...galhaes and Costa(2009)}]{de2009database}
+l.142 ...galhaes and Costa(2009)}]{de2009database}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.de2007analysis}) has been already use
 d, duplicate ignored
 <to be read again> 
                    \relax 
-l.142   Church}]{de2007analysis}
+l.148   Church}]{de2007analysis}
                                 pdfTeX warning (ext4): destination with the sam
 e identifier (name{cite.d1998can}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.148 \bibitem[{D'EATH(1998)}]{d1998can}
+l.154 \bibitem[{D'EATH(1998)}]{d1998can}
                                         pdfTeX warning (ext4): destination with
  the same identifier (name{cite.depczynski2005shortest}) has been already used,
  duplicate ignored
 <to be read again> 
                    \relax 
-l.152 ... Bellwood(2005)}]{depczynski2005shortest}
+l.158 ... Bellwood(2005)}]{depczynski2005shortest}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.dessing2010bending}) has been already
  used, duplicate ignored
 <to be read again> 
                    \relax 
-l.156 ...ing and Craig(2010)}]{dessing2010bending}
+l.162 ...ing and Craig(2010)}]{dessing2010bending}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.dudley2002mechanisms}) has been alrea
 dy used, duplicate ignored
 <to be read again> 
                    \relax 
-l.160 ...tem[{Dudley(2002)}]{dudley2002mechanisms}
+l.166 ...tem[{Dudley(2002)}]{dudley2002mechanisms}
                                                   pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.ferry1892persistence}) has been alrea
+ation with the same identifier (name{cite.faulkes2015molecular}) has been alrea
 dy used, duplicate ignored
 <to be read again> 
                    \relax 
-l.164 ...item[{Ferry(1892)}]{ferry1892persistence}
+l.171   Bennett}]{faulkes2015molecular}
+                                       pdfTeX warning (ext4): destination with 
+the same identifier (name{cite.ferry1892persistence}) has been already used, du
+plicate ignored
+<to be read again> 
+                   \relax 
+l.176 ...item[{Ferry(1892)}]{ferry1892persistence}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.folkow2004distribution}) has been alr
 eady used, duplicate ignored
 <to be read again> 
                    \relax 
-l.169   Blix}]{folkow2004distribution}
+l.181   Blix}]{folkow2004distribution}
                                       pdfTeX warning (ext4): destination with t
 he same identifier (name{cite.frank1999comparative}) has been already used, dup
 licate ignored
 <to be read again> 
                    \relax 
-l.174 ...item[{Frank(1999)}]{frank1999comparative}
+l.186 ...item[{Frank(1999)}]{frank1999comparative}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.frank2012light}) has been already use
 d, duplicate ignored
 <to be read again> 
                    \relax 
-l.178 ...nk, Johnsen, and Cronin}]{frank2012light}
+l.190 ...nk, Johnsen, and Cronin}]{frank2012light}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.franz2002temperature}) has been alrea
 dy used, duplicate ignored
 <to be read again> 
                    \relax 
-l.183 ...nd Ronacher(2002)}]{franz2002temperature}
+l.195 ...nd Ronacher(2002)}]{franz2002temperature}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.freckleton2009seven}) has been alread
 y used, duplicate ignored
 <to be read again> 
                    \relax 
-l.187 ...[{Freckleton(2009)}]{freckleton2009seven}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.fritsches2005warm}) has been already 
-used, duplicate ignored
+l.199 ...[{Freckleton(2009)}]{freckleton2009seven}
+                                                   [61]pdfTeX warning (ext4): d
+estination with the same identifier (name{cite.fritsches2005warm}) has been alr
+eady used, duplicate ignored
 <to be read again> 
                    \relax 
-l.192   Warrant}]{fritsches2005warm}
+l.204   Warrant}]{fritsches2005warm}
                                     pdfTeX warning (ext4): destination with the
  same identifier (name{cite.froese2012fishbase}) has been already used, duplica
 te ignored
 <to be read again> 
                    \relax 
-l.196 ...ese and Pauly(2012)}]{froese2012fishbase}
-                                                   [59]pdfTeX warning (ext4): d
-estination with the same identifier (name{cite.fry2012structural}) has been alr
-eady used, duplicate ignored
+l.208 ...ese and Pauly(2012)}]{froese2012fishbase}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.fry2012structural}) has been already 
+used, duplicate ignored
 <to be read again> 
                    \relax 
-l.201   et~al.}]{fry2012structural}
+l.213   et~al.}]{fry2012structural}
                                    pdfTeX warning (ext4): destination with the 
 same identifier (name{cite.fry2010kingfishers}) has been already used, duplicat
 e ignored
 <to be read again> 
                    \relax 
-l.206 ...[{Fry and Fry(2010)}]{fry2010kingfishers}
+l.218 ...[{Fry and Fry(2010)}]{fry2010kingfishers}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.garamszegi2002coevolving}) has been a
 lready used, duplicate ignored
 <to be read again> 
                    \relax 
-l.210   Erritz{\o}e}]{garamszegi2002coevolving}
+l.222   Erritz{\o}e}]{garamszegi2002coevolving}
                                                pdfTeX warning (ext4): destinati
 on with the same identifier (name{cite.gelman1992inference}) has been already u
 sed, duplicate ignored
 <to be read again> 
                    \relax 
-l.215 ...an and Rubin(1992)}]{gelman1992inference}
+l.227 ...an and Rubin(1992)}]{gelman1992inference}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.gilbert1997visual}) has been already 
 used, duplicate ignored
 <to be read again> 
                    \relax 
-l.219 \bibitem[{Gilbert(1997)}]{gilbert1997visual}
+l.231 \bibitem[{Gilbert(1997)}]{gilbert1997visual}
                                                   
-Underfull \hbox (badness 2903) in paragraph at lines 220--222
+Underfull \hbox (badness 2903) in paragraph at lines 232--234
 []\T1/phv/m/n/12 Gilbert C (1997) Vi-sual con-trol of cur-so-rial prey pur-suit
  by tiger bee-tles
  []
@@ -2644,416 +2687,428 @@ pdfTeX warning (ext4): destination with the same identifier (name{cite.greene19
 97snakes}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.223 \bibitem[{Greene(1997)}]{greene1997snakes}
+l.235 \bibitem[{Greene(1997)}]{greene1997snakes}
                                                 pdfTeX warning (ext4): destinat
 ion with the same identifier (name{cite.haddock2005bioluminescent}) has been al
 ready used, duplicate ignored
 <to be read again> 
                    \relax 
-l.228   Schnitzler}]{haddock2005bioluminescent}
+l.240   Schnitzler}]{haddock2005bioluminescent}
                                                pdfTeX warning (ext4): destinati
 on with the same identifier (name{cite.hadfield2010mcmc}) has been already used
 , duplicate ignored
 <to be read again> 
                    \relax 
-l.232 ...Hadfield et~al.(2010)}]{hadfield2010mcmc}
+l.244 ...Hadfield et~al.(2010)}]{hadfield2010mcmc}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.hagura2012ready}) has been already us
 ed, duplicate ignored
 <to be read again> 
                    \relax 
-l.238   Haggard}]{hagura2012ready}
+l.250   Haggard}]{hagura2012ready}
                                   pdfTeX warning (ext4): destination with the s
 ame identifier (name{cite.harte2008maximum}) has been already used, duplicate i
 gnored
 <to be read again> 
                    \relax 
-l.244   Smith}]{harte2008maximum}
+l.256   Smith}]{harte2008maximum}
                                  pdfTeX warning (ext4): destination with the sa
 me identifier (name{cite.harvey1991comparative}) has been already used, duplica
 te ignored
 <to be read again> 
                    \relax 
-l.248 ... and Pagel(1991)}]{harvey1991comparative}
+l.260 ... and Pagel(1991)}]{harvey1991comparative}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.hayes1995venom}) has been already use
 d, duplicate ignored
 <to be read again> 
                    \relax 
-l.252 \bibitem[{HAYES(1995)}]{hayes1995venom}
-                                             pdfTeX warning (ext4): destination
- with the same identifier (name{cite.healy2014ecology}) has been already used, 
-duplicate ignored
+l.264 \bibitem[{HAYES(1995)}]{hayes1995venom}
+                                              [62]pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.healy2014ecology}) has been already u
+sed, duplicate ignored
 <to be read again> 
                    \relax 
-l.257   et~al.}]{healy2014ecology}
+l.269   et~al.}]{healy2014ecology}
                                   pdfTeX warning (ext4): destination with the s
-ame identifier (name{cite.hedges2006timetree}) has been already used, duplicate
+ame identifier (name{cite.healy2013metabolic}) has been already used, duplicate
  ignored
 <to be read again> 
                    \relax 
-l.262 ..., Dudley, and Kumar}]{hedges2006timetree}
-                                                   [60]pdfTeX warning (ext4): d
-estination with the same identifier (name{cite.hedrick2011damping}) has been al
-ready used, duplicate ignored
+l.275   Jackson}]{healy2013metabolic}
+                                     pdfTeX warning (ext4): destination with th
+e same identifier (name{cite.hedges2006timetree}) has been already used, duplic
+ate ignored
 <to be read again> 
                    \relax 
-l.266 ...item[{Hedrick(2011)}]{hedrick2011damping}
+l.280 ..., Dudley, and Kumar}]{hedges2006timetree}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.hedrick2011damping}) has been already
+ used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.284 ...item[{Hedrick(2011)}]{hedrick2011damping}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.heglund1988speed}) has been already u
 sed, duplicate ignored
 <to be read again> 
                    \relax 
-l.271 ...lund and Taylor(1988)}]{heglund1988speed}
+l.289 ...lund and Taylor(1988)}]{heglund1988speed}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.holmes2003birds}) has been already us
 ed, duplicate ignored
 <to be read again> 
                    \relax 
-l.276 ...mes and Ottinger(2003)}]{holmes2003birds}
+l.294 ...mes and Ottinger(2003)}]{holmes2003birds}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.holmes1994fly}) has been already used
 , duplicate ignored
 <to be read again> 
                    \relax 
-l.280 ...{Holmes and Austad(1994)}]{holmes1994fly}
+l.298 ...{Holmes and Austad(1994)}]{holmes1994fly}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.hornstein2000sexual}) has been alread
 y used, duplicate ignored
 <to be read again> 
                    \relax 
-l.285   Laughlin}]{hornstein2000sexual}
+l.303   Laughlin}]{hornstein2000sexual}
                                        pdfTeX warning (ext4): destination with 
 the same identifier (name{cite.hossie2013species}) has been already used, dupli
 cate ignored
 <to be read again> 
                    \relax 
-l.291   Sherratt}]{hossie2013species}
+l.309   Sherratt}]{hossie2013species}
                                      pdfTeX warning (ext4): destination with th
 e same identifier (name{cite.howland2004allometry}) has been already used, dupl
 icate ignored
 <to be read again> 
                    \relax 
-l.297   Basarab}]{howland2004allometry}
+l.315   Basarab}]{howland2004allometry}
                                        pdfTeX warning (ext4): destination with 
 the same identifier (name{cite.hoyo1992handbook}) has been already used, duplic
 ate ignored
 <to be read again> 
                    \relax 
-l.301 ...Elliott, and Sargatal}]{hoyo1992handbook}
+l.319 ...Elliott, and Sargatal}]{hoyo1992handbook}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.hulbert2007life}) has been already us
 ed, duplicate ignored
 <to be read again> 
                    \relax 
-l.306   Buttemer}]{hulbert2007life}
+l.324   Buttemer}]{hulbert2007life}
                                    pdfTeX warning (ext4): destination with the 
 same identifier (name{cite.inger2014potential}) has been already used, duplicat
 e ignored
 <to be read again> 
                    \relax 
-l.312   Gaston}]{inger2014potential}
-                                    pdfTeX warning (ext4): destination with the
- same identifier (name{cite.janossy2011pleistocene}) has been already used, dup
-licate ignored
+l.330   Gaston}]{inger2014potential}
+                                     [63]pdfTeX warning (ext4): destination wit
+h the same identifier (name{cite.janossy2011pleistocene}) has been already used
+, duplicate ignored
 <to be read again> 
                    \relax 
-l.316 ...\'a}nossy(2011)}]{janossy2011pleistocene}
+l.334 ...\'a}nossy(2011)}]{janossy2011pleistocene}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.jansa2011adaptive}) has been already 
 used, duplicate ignored
 <to be read again> 
                    \relax 
-l.319 ...Jansa and Voss(2011)}]{jansa2011adaptive}
+l.337 ...Jansa and Voss(2011)}]{jansa2011adaptive}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.jetz2012global}) has been already use
 d, duplicate ignored
 <to be read again> 
                    \relax 
-l.324   Mooers}]{jetz2012global}
+l.342   Mooers}]{jetz2012global}
                                 pdfTeX warning (ext4): destination with the sam
 e identifier (name{cite.jones1994foraging}) has been already used, duplicate ig
 nored
 <to be read again> 
                    \relax 
-l.328 ...nes and Rydell(1994)}]{jones1994foraging}
-                                                   [61]pdfTeX warning (ext4): d
-estination with the same identifier (name{cite.jordan2013linking}) has been alr
-eady used, duplicate ignored
+l.346 ...nes and Rydell(1994)}]{jones1994foraging}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.jordan2013linking}) has been already 
+used, duplicate ignored
 <to be read again> 
                    \relax 
-l.334   et~al.}]{jordan2013linking}
+l.352   et~al.}]{jordan2013linking}
                                    pdfTeX warning (ext4): destination with the 
-same identifier (name{cite.keller1997extraordinary}) has been already used, dup
-licate ignored
+same identifier (name{cite.kalinoski2014spectral}) has been already used, dupli
+cate ignored
 <to be read again> 
                    \relax 
-l.340 ...d Genoud(1997)}]{keller1997extraordinary}
+l.359   Brill}]{kalinoski2014spectral}
+                                      pdfTeX warning (ext4): destination with t
+he same identifier (name{cite.keller1997extraordinary}) has been already used, 
+duplicate ignored
+<to be read again> 
+                   \relax 
+l.365 ...d Genoud(1997)}]{keller1997extraordinary}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.kooijman2009dynamic}) has been alread
 y used, duplicate ignored
 <to be read again> 
                    \relax 
-l.344 ...em[{Kooijman(2009)}]{kooijman2009dynamic}
+l.369 ...em[{Kooijman(2009)}]{kooijman2009dynamic}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.kreysing2012photonic}) has been alrea
 dy used, duplicate ignored
 <to be read again> 
                    \relax 
-l.349   Engelmann et~al.}]{kreysing2012photonic}
+l.374   Engelmann et~al.}]{kreysing2012photonic}
                                                 pdfTeX warning (ext4): destinat
 ion with the same identifier (name{cite.kuhn2011simple}) has been already used,
  duplicate ignored
 <to be read again> 
                    \relax 
-l.354 ...uhn, Mooers, and Thomas}]{kuhn2011simple}
+l.379 ...uhn, Mooers, and Thomas}]{kuhn2011simple}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.land1974chasing}) has been already us
 ed, duplicate ignored
 <to be read again> 
                    \relax 
-l.358 ...Land and Collett(1974)}]{land1974chasing}
+l.383 ...Land and Collett(1974)}]{land1974chasing}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.landgren2014visual}) has been already
  used, duplicate ignored
 <to be read again> 
                    \relax 
-l.363   Warrant}]{landgren2014visual}
+l.388   Warrant}]{landgren2014visual}
                                      pdfTeX warning (ext4): destination with th
 e same identifier (name{cite.laughlin1993fast}) has been already used, duplicat
 e ignored
 <to be read again> 
                    \relax 
-l.369 ...d Weckstr{\"o}m(1993)}]{laughlin1993fast}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.laughlin2001energy}) has been already
- used, duplicate ignored
+l.394 ...d Weckstr{\"o}m(1993)}]{laughlin1993fast}
+                                                   [64]pdfTeX warning (ext4): d
+estination with the same identifier (name{cite.laughlin2001energy}) has been al
+ready used, duplicate ignored
 <to be read again> 
                    \relax 
-l.374 ...tem[{Laughlin(2001)}]{laughlin2001energy}
+l.399 ...tem[{Laughlin(2001)}]{laughlin2001energy}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.li2008optimal}) has been already used
 , duplicate ignored
 <to be read again> 
                    \relax 
-l.378 ...l.(2008)Li, Lu, and Orti}]{li2008optimal}
+l.403 ...l.(2008)Li, Lu, and Orti}]{li2008optimal}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.li2005eggs}) has been already used, d
 uplicate ignored
 <to be read again> 
                    \relax 
-l.383 ...~al.(2005)Li, Fry, and Kini}]{li2005eggs}
+l.408 ...~al.(2005)Li, Fry, and Kini}]{li2005eggs}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.lillywhite2002patterns}) has been alr
 eady used, duplicate ignored
 <to be read again> 
                    \relax 
-l.389 ..."o}ggren et~al.}]{lillywhite2002patterns}
-                                                   [62]pdfTeX warning (ext4): d
-estination with the same identifier (name{cite.lim2010phylogeny}) has been alre
-ady used, duplicate ignored
+l.414 ..."o}ggren et~al.}]{lillywhite2002patterns}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.lim2010phylogeny}) has been already u
+sed, duplicate ignored
 <to be read again> 
                    \relax 
-l.394 ...tta, Mara, and Martin}]{lim2010phylogeny}
+l.419 ...tta, Mara, and Martin}]{lim2010phylogeny}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.lindstedt1981body}) has been already 
 used, duplicate ignored
 <to be read again> 
                    \relax 
-l.399 ...and Calder~III(1981)}]{lindstedt1981body}
+l.424 ...and Calder~III(1981)}]{lindstedt1981body}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.lisney2011behavioural}) has been alre
 ady used, duplicate ignored
 <to be read again> 
                    \relax 
-l.404   et~al.}]{lisney2011behavioural}
+l.429   et~al.}]{lisney2011behavioural}
                                        pdfTeX warning (ext4): destination with 
 the same identifier (name{cite.little2010evolutionary}) has been already used, 
 duplicate ignored
 <to be read again> 
                    \relax 
-l.410   Moyes}]{little2010evolutionary}
+l.435   Moyes}]{little2010evolutionary}
                                        pdfTeX warning (ext4): destination with 
 the same identifier (name{cite.makarieva2008mean}) has been already used, dupli
 cate ignored
 <to be read again> 
                    \relax 
-l.417   et~al.}]{makarieva2008mean}
+l.442   et~al.}]{makarieva2008mean}
                                    pdfTeX warning (ext4): destination with the 
 same identifier (name{cite.mccue2006cost}) has been already used, duplicate ign
 ored
 <to be read again> 
                    \relax 
-l.423 \bibitem[{McCue(2006)}]{mccue2006cost}
+l.448 \bibitem[{McCue(2006)}]{mccue2006cost}
                                             pdfTeX warning (ext4): destination 
 with the same identifier (name{cite.mercer2003effects}) has been already used, 
 duplicate ignored
 <to be read again> 
                    \relax 
-l.427 ...ercer and Roth(2003)}]{mercer2003effects}
+l.452 ...ercer and Roth(2003)}]{mercer2003effects}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.mirtschin2002influences}) has been al
 ready used, duplicate ignored
 <to be read again> 
                    \relax 
-l.432   et~al.}]{mirtschin2002influences}
-                                         pdfTeX warning (ext4): destination wit
-h the same identifier (name{cite.moller2010up}) has been already used, duplicat
-e ignored
+l.457   et~al.}]{mirtschin2002influences}
+                                          [65]pdfTeX warning (ext4): destinatio
+n with the same identifier (name{cite.moller2010up}) has been already used, dup
+licate ignored
 <to be read again> 
                    \relax 
-l.437 \bibitem[{M{\o}ller(2010)}]{moller2010up}
+l.462 \bibitem[{M{\o}ller(2010)}]{moller2010up}
                                                pdfTeX warning (ext4): destinati
 on with the same identifier (name{cite.moorad2010evolution}) has been already u
 sed, duplicate ignored
 <to be read again> 
                    \relax 
-l.442 ...nd Promislow(2010)}]{moorad2010evolution}
+l.467 ...nd Promislow(2010)}]{moorad2010evolution}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.morgenstern2013venom}) has been alrea
 dy used, duplicate ignored
 <to be read again> 
                    \relax 
-l.446 ...rn and King(2013)}]{morgenstern2013venom}
+l.471 ...rn and King(2013)}]{morgenstern2013venom}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.murphy2007using}) has been already us
 ed, duplicate ignored
 <to be read again> 
                    \relax 
-l.451   Miller}]{murphy2007using}
-                                  [63]pdfTeX warning (ext4): destination with t
-he same identifier (name{cite.myers2006animal}) has been already used, duplicat
-e ignored
+l.476   Miller}]{murphy2007using}
+                                 pdfTeX warning (ext4): destination with the sa
+me identifier (name{cite.myers2006animal}) has been already used, duplicate ign
+ored
 <to be read again> 
                    \relax 
-l.457   et~al.}]{myers2006animal}
+l.482   et~al.}]{myers2006animal}
                                  pdfTeX warning (ext4): destination with the sa
 me identifier (name{cite.naro2008evolutionary}) has been already used, duplicat
 e ignored
 <to be read again> 
                    \relax 
-l.462   Amato}]{naro2008evolutionary}
+l.487   Amato}]{naro2008evolutionary}
                                      pdfTeX warning (ext4): destination with th
 e same identifier (name{cite.nowak1999walker}) has been already used, duplicate
  ignored
 <to be read again> 
                    \relax 
-l.467 \bibitem[{Nowak(1999)}]{nowak1999walker}
+l.492 \bibitem[{Nowak(1999)}]{nowak1999walker}
                                               pdfTeX warning (ext4): destinatio
 n with the same identifier (name{cite.orme2011caper}) has been already used, du
 plicate ignored
 <to be read again> 
                    \relax 
-l.471   et~al.}]{orme2011caper}
+l.496   et~al.}]{orme2011caper}
                                pdfTeX warning (ext4): destination with the same
  identifier (name{cite.pagel1999inferring}) has been already used, duplicate ig
 nored
 <to be read again> 
                    \relax 
-l.476 \bibitem[{Pagel(1999)}]{pagel1999inferring}
+l.501 \bibitem[{Pagel(1999)}]{pagel1999inferring}
                                                  pdfTeX warning (ext4): destina
 tion with the same identifier (name{cite.palmer2010art}) has been already used,
  duplicate ignored
 <to be read again> 
                    \relax 
-l.480 ...[{Palmer and Grant(2010)}]{palmer2010art}
+l.505 ...[{Palmer and Grant(2010)}]{palmer2010art}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.parham2011best}) has been already use
 d, duplicate ignored
 <to be read again> 
                    \relax 
-l.484   et~al.}]{parham2011best}
+l.509   et~al.}]{parham2011best}
                                 pdfTeX warning (ext4): destination with the sam
 e identifier (name{cite.parr2010parrots}) has been already used, duplicate igno
 red
 <to be read again> 
                    \relax 
-l.488 ...Parr and Juniper(2010)}]{parr2010parrots}
+l.513 ...Parr and Juniper(2010)}]{parr2010parrots}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.partridge1993optimality}) has been al
 ready used, duplicate ignored
 <to be read again> 
                    \relax 
-l.492 ...d Barton(1993)}]{partridge1993optimality}
+l.517 ...d Barton(1993)}]{partridge1993optimality}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.pawar2012dimensionality}) has been al
 ready used, duplicate ignored
 <to be read again> 
                    \relax 
-l.496 ...ll, and Savage}]{pawar2012dimensionality}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.perelman2011molecular}) has been alre
-ady used, duplicate ignored
+l.521 ...ll, and Savage}]{pawar2012dimensionality}
+                                                   [66]pdfTeX warning (ext4): d
+estination with the same identifier (name{cite.perelman2011molecular}) has been
+ already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.501   et~al.}]{perelman2011molecular}
+l.526   et~al.}]{perelman2011molecular}
                                        pdfTeX warning (ext4): destination with 
 the same identifier (name{cite.pintor2010costs}) has been already used, duplica
 te ignored
 <to be read again> 
                    \relax 
-l.506   Seymour}]{pintor2010costs}
+l.531   Seymour}]{pintor2010costs}
                                   pdfTeX warning (ext4): destination with the s
 ame identifier (name{cite.plummer2006coda}) has been already used, duplicate ig
 nored
 <to be read again> 
                    \relax 
-l.511   Vines}]{plummer2006coda}
+l.536   Vines}]{plummer2006coda}
                                 pdfTeX warning (ext4): destination with the sam
 e identifier (name{cite.pomeroy1990fly}) has been already used, duplicate ignor
 ed
 <to be read again> 
                    \relax 
-l.515 \bibitem[{Pomeroy(1990)}]{pomeroy1990fly}
+l.540 \bibitem[{Pomeroy(1990)}]{pomeroy1990fly}
                                                pdfTeX warning (ext4): destinati
 on with the same identifier (name{cite.poran1987resistance}) has been already u
 sed, duplicate ignored
 <to be read again> 
                    \relax 
-l.519 ...oss, and Benjamini}]{poran1987resistance}
+l.544 ...oss, and Benjamini}]{poran1987resistance}
                                                   
-Underfull \hbox (badness 1325) in paragraph at lines 520--524
+Underfull \hbox (badness 1325) in paragraph at lines 545--549
 \T1/phv/m/n/12 (Sper-mophilus beecheyi) to the venom of the north-ern Pa-cific 
 rat-tlesnake
  []
 
-[64]pdfTeX warning (ext4): destination with the same identifier (name{cite.port
-er1902contributions}) has been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{cite.porter19
+02contributions}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.525 ...[{Porter(1902)}]{porter1902contributions}
+l.550 ...[{Porter(1902)}]{porter1902contributions}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.promislow1993size}) has been already 
 used, duplicate ignored
 <to be read again> 
                    \relax 
-l.529 ...tem[{Promislow(1993)}]{promislow1993size}
+l.554 ...tem[{Promislow(1993)}]{promislow1993size}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.promislow1990living}) has been alread
 y used, duplicate ignored
 <to be read again> 
                    \relax 
-l.533 ...w and Harvey(1990)}]{promislow1990living}
+l.558 ...w and Harvey(1990)}]{promislow1990living}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.prugh2014does}) has been already used
 , duplicate ignored
 <to be read again> 
                    \relax 
-l.538 ...[{Prugh and Golden(2014)}]{prugh2014does}
+l.563 ...[{Prugh and Golden(2014)}]{prugh2014does}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.pyron2014early}) has been already use
 d, duplicate ignored
 <to be read again> 
                    \relax 
-l.543 ...yron and Burbrink(2014)}]{pyron2014early}
+l.568 ...yron and Burbrink(2014)}]{pyron2014early}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.RCran}) has been already used, duplic
 ate ignored
 <to be read again> 
                    \relax 
-l.547 \bibitem[{{R Core Team}(2014)}]{RCran}
+l.572 \bibitem[{{R Core Team}(2014)}]{RCran}
                                             
-Underfull \hbox (badness 1127) in paragraph at lines 548--551
+Underfull \hbox (badness 1127) in paragraph at lines 573--576
 \T1/phv/m/n/12 R Foun-da-tion for Sta-tis-ti-cal Com-put-ing, Vi-enna, Aus-tria
 , URL [][]$\T1/cmtt/m/n/12 http : / / www .
  []
@@ -3062,9 +3117,9 @@ pdfTeX warning (ext4): destination with the same identifier (name{cite.reisz200
 4molecular}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.552 ...nd M{\"u}ller(2004)}]{reisz2004molecular}
+l.577 ...nd M{\"u}ller(2004)}]{reisz2004molecular}
                                                   
-Underfull \hbox (badness 1838) in paragraph at lines 553--555
+Underfull \hbox (badness 1838) in paragraph at lines 578--580
 []\T1/phv/m/n/12 Reisz RR, Müller J (2004) Molec-u-lar timescales and the fos-s
 il record: a
  []
@@ -3073,21 +3128,21 @@ pdfTeX warning (ext4): destination with the same identifier (name{cite.richards
 2012venom}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.557   W{\"u}ster}]{richards2012venom}
-                                       pdfTeX warning (ext4): destination with 
-the same identifier (name{cite.ricklefs2010insights}) has been already used, du
-plicate ignored
+l.582   W{\"u}ster}]{richards2012venom}
+                                        [67]pdfTeX warning (ext4): destination 
+with the same identifier (name{cite.ricklefs2010insights}) has been already use
+d, duplicate ignored
 <to be read again> 
                    \relax 
-l.562 ...10{\natexlab{a}})}]{ricklefs2010insights}
+l.587 ...10{\natexlab{a}})}]{ricklefs2010insights}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.ricklefs2010life}) has been already u
 sed, duplicate ignored
 <to be read again> 
                    \relax 
-l.566 ...s(2010{\natexlab{b}})}]{ricklefs2010life}
+l.591 ...s(2010{\natexlab{b}})}]{ricklefs2010life}
                                                   
-Underfull \hbox (badness 1552) in paragraph at lines 567--570
+Underfull \hbox (badness 1552) in paragraph at lines 592--595
 []\T1/phv/m/n/12 Ricklefs RE (2010b) Life-history con-nec-tions to rates of ag-
 ing in ter-res-trial
  []
@@ -3096,111 +3151,111 @@ pdfTeX warning (ext4): destination with the same identifier (name{cite.ricklefs
 2001comparison}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.571 ...heuerlein(2001)}]{ricklefs2001comparison}
+l.596 ...heuerlein(2001)}]{ricklefs2001comparison}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.rodriguez1992venom}) has been already
  used, duplicate ignored
 <to be read again> 
                    \relax 
-l.575 ...es and Thomas(1992)}]{rodriguez1992venom}
+l.600 ...es and Thomas(1992)}]{rodriguez1992venom}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.rohlf2001comparative}) has been alrea
 dy used, duplicate ignored
 <to be read again> 
                    \relax 
-l.579 ...item[{Rohlf(2001)}]{rohlf2001comparative}
-                                                   [65]pdfTeX warning (ext4): d
-estination with the same identifier (name{cite.rubene2010presence}) has been al
-ready used, duplicate ignored
+l.604 ...item[{Rohlf(2001)}]{rohlf2001comparative}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.rubene2010presence}) has been already
+ used, duplicate ignored
 <to be read again> 
                    \relax 
-l.584   {\"O}deen}]{rubene2010presence}
+l.609   {\"O}deen}]{rubene2010presence}
                                        pdfTeX warning (ext4): destination with 
 the same identifier (name{cite.sato2007stroke}) has been already used, duplicat
 e ignored
 <to be read again> 
                    \relax 
-l.590   et~al.}]{sato2007stroke}
+l.615   et~al.}]{sato2007stroke}
                                 pdfTeX warning (ext4): destination with the sam
 e identifier (name{cite.schoch1985preliminary}) has been already used, duplicat
 e ignored
 <to be read again> 
                    \relax 
-l.596 ...em[{Schoch(1985)}]{schoch1985preliminary}
+l.621 ...em[{Schoch(1985)}]{schoch1985preliminary}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.schwartz2010visual}) has been already
  used, duplicate ignored
 <to be read again> 
                    \relax 
-l.601 ...rtz and Meese(2010)}]{schwartz2010visual}
+l.626 ...rtz and Meese(2010)}]{schwartz2010visual}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.shattuck2010arboreality}) has been al
 ready used, duplicate ignored
 <to be read again> 
                    \relax 
-l.605 ...Williams(2010)}]{shattuck2010arboreality}
+l.630 ...Williams(2010)}]{shattuck2010arboreality}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.shine1985prey}) has been already used
 , duplicate ignored
 <to be read again> 
                    \relax 
-l.610 ...Shine and Schwaner(1985)}]{shine1985prey}
+l.635 ...Shine and Schwaner(1985)}]{shine1985prey}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.sibly2012metabolic}) has been already
  used, duplicate ignored
 <to be read again> 
                    \relax 
-l.615   Kodric-Brown}]{sibly2012metabolic}
-                                          pdfTeX warning (ext4): destination wi
-th the same identifier (name{cite.stearns1992evolution}) has been already used,
- duplicate ignored
+l.640   Kodric-Brown}]{sibly2012metabolic}
+                                           [68]pdfTeX warning (ext4): destinati
+on with the same identifier (name{cite.stearns1992evolution}) has been already 
+used, duplicate ignored
 <to be read again> 
                    \relax 
-l.619 ...em[{Stearns(1992)}]{stearns1992evolution}
+l.644 ...em[{Stearns(1992)}]{stearns1992evolution}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.stevens2007predator}) has been alread
 y used, duplicate ignored
 <to be read again> 
                    \relax 
-l.623 ...tem[{Stevens(2007)}]{stevens2007predator}
+l.648 ...tem[{Stevens(2007)}]{stevens2007predator}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.tacutu2012human}) has been already us
 ed, duplicate ignored
 <to be read again> 
                    \relax 
-l.629   et~al.}]{tacutu2012human}
+l.654   et~al.}]{tacutu2012human}
                                  pdfTeX warning (ext4): destination with the sa
 me identifier (name{cite.tansley1965vision}) has been already used, duplicate i
 gnored
 <to be read again> 
                    \relax 
-l.634 ...Tansley et~al.(1965)}]{tansley1965vision}
+l.659 ...Tansley et~al.(1965)}]{tansley1965vision}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.tatler2000temperature}) has been alre
 ady used, duplicate ignored
 <to be read again> 
                    \relax 
-l.638   Laughlin}]{tatler2000temperature}
+l.663   Laughlin}]{tatler2000temperature}
                                          pdfTeX warning (ext4): destination wit
 h the same identifier (name{cite.therrien2007my}) has been already used, duplic
 ate ignored
 <to be read again> 
                    \relax 
-l.643 ...ien and Henderson(2007)}]{therrien2007my}
-                                                   [66]pdfTeX warning (ext4): d
-estination with the same identifier (name{cite.tosh2010modelling}) has been alr
-eady used, duplicate ignored
+l.668 ...ien and Henderson(2007)}]{therrien2007my}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.tosh2010modelling}) has been already 
+used, duplicate ignored
 <to be read again> 
                    \relax 
-l.648 ...osh and Ruxton(2010)}]{tosh2010modelling}
+l.673 ...osh and Ruxton(2010)}]{tosh2010modelling}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.vogel2008modes}) has been already use
 d, duplicate ignored
 <to be read again> 
                    \relax 
-l.652 \bibitem[{Vogel(2008)}]{vogel2008modes}
+l.677 \bibitem[{Vogel(2008)}]{vogel2008modes}
                                              
-Underfull \hbox (badness 2334) in paragraph at lines 653--655
+Underfull \hbox (badness 2334) in paragraph at lines 678--680
 []\T1/phv/m/n/12 Vogel S (2008) Modes and scal-ing in aquatic lo-co-mo-tion. In
 -te-gra-tive and
  []
@@ -3209,20 +3264,20 @@ pdfTeX warning (ext4): destination with the same identifier (name{cite.vonk2013
 king}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.657   et~al.}]{vonk2013king}
+l.682   et~al.}]{vonk2013king}
                               pdfTeX warning (ext4): destination with the same 
 identifier (name{cite.voris1981size}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.662 ...{Voris and Moffett(1981)}]{voris1981size}
+l.687 ...{Voris and Moffett(1981)}]{voris1981size}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.voss2013opossums}) has been already u
 sed, duplicate ignored
 <to be read again> 
                    \relax 
-l.666 \bibitem[{Voss(2013)}]{voss2013opossums}
+l.691 \bibitem[{Voss(2013)}]{voss2013opossums}
                                               
-Underfull \hbox (badness 2027) in paragraph at lines 667--670
+Underfull \hbox (badness 2027) in paragraph at lines 692--695
 \T1/phv/m/n/12 pitvipers (Ser-pentes: Cro-tali-nae): Ev-i-dence for al-ter-na-t
 ive co-evo-lu-tion-ary
  []
@@ -3231,15 +3286,21 @@ pdfTeX warning (ext4): destination with the same identifier (name{cite.watanabe
 2012slowest}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.672   Kovacs}]{watanabe2012slowest}
+l.697   Kovacs}]{watanabe2012slowest}
                                      pdfTeX warning (ext4): destination with th
-e same identifier (name{cite.white2006scaling}) has been already used, duplicat
-e ignored
+e same identifier (name{cite.Wegner15052015}) has been already used, duplicate 
+ignored
 <to be read again> 
                    \relax 
-l.677 ...Phillips, and Seymour}]{white2006scaling}
+l.703   Hyde}]{Wegner15052015}
+                               [69]pdfTeX warning (ext4): destination with the 
+same identifier (name{cite.white2006scaling}) has been already used, duplicate 
+ignored
+<to be read again> 
+                   \relax 
+l.708 ...Phillips, and Seymour}]{white2006scaling}
                                                   
-Underfull \hbox (badness 2600) in paragraph at lines 678--680
+Underfull \hbox (badness 2600) in paragraph at lines 709--711
 []\T1/phv/m/n/12 White CR, Phillips NF, Sey-mour RS (2006) The scal-ing and tem
 -per-a-ture
  []
@@ -3248,33 +3309,33 @@ pdfTeX warning (ext4): destination with the same identifier (name{cite.widder20
 10bioluminescence}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.681 ...Widder(2010)}]{widder2010bioluminescence}
+l.712 ...Widder(2010)}]{widder2010bioluminescence}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.wiens2006does}) has been already used
 , duplicate ignored
 <to be read again> 
                    \relax 
-l.685 ...ns, Brandley, and Reeder}]{wiens2006does}
+l.716 ...ns, Brandley, and Reeder}]{wiens2006does}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.wilkinson2002life}) has been already 
 used, duplicate ignored
 <to be read again> 
                    \relax 
-l.690 ...nson and South(2002)}]{wilkinson2002life}
+l.721 ...nson and South(2002)}]{wilkinson2002life}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.Williams1957}) has been already used,
  duplicate ignored
 <to be read again> 
                    \relax 
-l.694 \bibitem[{Williams(1957)}]{Williams1957}
+l.725 \bibitem[{Williams(1957)}]{Williams1957}
                                               pdfTeX warning (ext4): destinatio
 n with the same identifier (name{cite.williams2015ecology}) has been already us
 ed, duplicate ignored
 <to be read again> 
                    \relax 
-l.699 ...and Shattuck(2015)}]{williams2015ecology}
+l.730 ...and Shattuck(2015)}]{williams2015ecology}
                                                   
-Underfull \hbox (badness 2165) in paragraph at lines 700--703
+Underfull \hbox (badness 2165) in paragraph at lines 731--734
 []\T1/phv/m/n/12 Williams SA, Shat-tuck MR (2015) Ecol-ogy, longevity and naked
  mole-rats:
  []
@@ -3283,39 +3344,39 @@ pdfTeX warning (ext4): destination with the same identifier (name{cite.williams
 1995penguins}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.705   Stokes}]{williams1995penguins}
-                                       [67]pdfTeX warning (ext4): destination w
-ith the same identifier (name{cite.williams1988variation}) has been already use
-d, duplicate ignored
+l.736   Stokes}]{williams1995penguins}
+                                      pdfTeX warning (ext4): destination with t
+he same identifier (name{cite.williams1988variation}) has been already used, du
+plicate ignored
 <to be read again> 
                    \relax 
-l.710   Sparrow}]{williams1988variation}
+l.741   Sparrow}]{williams1988variation}
                                         pdfTeX warning (ext4): destination with
  the same identifier (name{cite.wilson2005mammal}) has been already used, dupli
 cate ignored
 <to be read again> 
                    \relax 
-l.715 ...lson and Reeder(2005)}]{wilson2005mammal}
+l.746 ...lson and Reeder(2005)}]{wilson2005mammal}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.woodward2005}) has been already used,
  duplicate ignored
 <to be read again> 
                    \relax 
-l.720   et~al.}]{woodward2005}
+l.751   et~al.}]{woodward2005}
                               
-Underfull \hbox (badness 1910) in paragraph at lines 721--724
+Underfull \hbox (badness 1910) in paragraph at lines 752--755
 []\T1/phv/m/n/12 Woodward G, Eben-man B, Em-mer-son M, Mon-toya JM, Ole-sen JM,
  et al.
  []
 
 
-Underfull \hbox (badness 2012) in paragraph at lines 721--724
+Underfull \hbox (badness 2012) in paragraph at lines 752--755
 \T1/phv/m/n/12 (2005) Body size in eco-log-i-cal net-works. Trends in Ecol-ogy 
 & Evo-lu-tion
  []
 
 
-Underfull \hbox (badness 3058) in paragraph at lines 721--724
+Underfull \hbox (badness 3058) in paragraph at lines 752--755
 \T1/phv/m/n/12 20: 402--409, URL [][]$\T1/cmtt/m/n/12 http : / / www . scienced
 irect . com / science / article / pii /
  []
@@ -3324,8 +3385,8 @@ pdfTeX warning (ext4): destination with the same identifier (name{cite.zhang201
 3comparative}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.726   et~al.}]{zhang2013comparative}
-                                      )) (./thesis.bbl [68]pdfTeX warning (ext4
+l.757   et~al.}]{zhang2013comparative}
+                                      )) (./thesis.bbl [70]pdfTeX warning (ext4
 ): destination with the same identifier (name{cite.albert2009effect}) has been 
 already used, duplicate ignored
 <to be read again> 
@@ -3373,241 +3434,252 @@ sed, duplicate ignored
                    \relax 
 l.36 ...hill and Baldwin(2004)}]{bahill2004rising}
                                                   pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.barlow2009coevolution}) has been alre
-ady used, duplicate ignored
+ation with the same identifier (name{cite.bar2015sensory}) has been already use
+d, duplicate ignored
 <to be read again> 
                    \relax 
-l.42   W{\"u}ster}]{barlow2009coevolution}
+l.42   Yovel}]{bar2015sensory}
+                              pdfTeX warning (ext4): destination with the same 
+identifier (name{cite.barlow2009coevolution}) has been already used, duplicate 
+ignored
+<to be read again> 
+                   \relax 
+l.48   W{\"u}ster}]{barlow2009coevolution}
                                           pdfTeX warning (ext4): destination wi
 th the same identifier (name{cite.benton2007paleontological}) has been already 
 used, duplicate ignored
 <to be read again> 
                    \relax 
-l.48 ...onoghue(2007)}]{benton2007paleontological}
+l.54 ...onoghue(2007)}]{benton2007paleontological}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.biewener2003animal}) has been already
  used, duplicate ignored
 <to be read again> 
                    \relax 
-l.52 ...item[{Biewener(2003)}]{biewener2003animal}
+l.58 ...item[{Biewener(2003)}]{biewener2003animal}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.bininda2007delayed}) has been already
  used, duplicate ignored
 <to be read again> 
                    \relax 
-l.56   Beck et~al.}]{bininda2007delayed}
+l.62   Beck et~al.}]{bininda2007delayed}
                                         pdfTeX warning (ext4): destination with
  the same identifier (name{cite.block1985warm}) has been already used, duplicat
 e ignored
 <to be read again> 
                    \relax 
-l.60 ...em[{Block and Carey(1985)}]{block1985warm}
+l.66 ...em[{Block and Carey(1985)}]{block1985warm}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.boback2003empirical}) has been alread
 y used, duplicate ignored
 <to be read again> 
                    \relax 
-l.64 ...ack and Guyer(2003)}]{boback2003empirical}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.brown2004}) has been already used, du
-plicate ignored
-<to be read again> 
-                   \relax 
-l.69   West}]{brown2004}
-                         [69
+l.70 ...ack and Guyer(2003)}]{boback2003empirical}
+                                                   [71
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{cite.brown20
-08strong}) has been already used, duplicate ignored
+04}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.75   Mindell}]{brown2008strong}
+l.75   West}]{brown2004}
+                        pdfTeX warning (ext4): destination with the same identi
+fier (name{cite.brown2008strong}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.81   Mindell}]{brown2008strong}
                                  pdfTeX warning (ext4): destination with the sa
 me identifier (name{cite.buffenstein2002naked}) has been already used, duplicat
 e ignored
 <to be read again> 
                    \relax 
-l.80 ...n and Jarvis(2002)}]{buffenstein2002naked}
+l.86 ...n and Jarvis(2002)}]{buffenstein2002naked}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.burnham2002model}) has been already u
 sed, duplicate ignored
 <to be read again> 
                    \relax 
-l.84 ...ham and Anderson(2002)}]{burnham2002model}
+l.90 ...ham and Anderson(2002)}]{burnham2002model}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.caldwell2015oldest}) has been already
  used, duplicate ignored
 <to be read again> 
                    \relax 
-l.89   Apestegu{\'\i}a}]{caldwell2015oldest}
+l.95   Apestegu{\'\i}a}]{caldwell2015oldest}
                                             pdfTeX warning (ext4): destination 
 with the same identifier (name{cite.carey1982brain}) has been already used, dup
 licate ignored
 <to be read again> 
                    \relax 
-l.94 \bibitem[{Carey(1982)}]{carey1982brain}
-                                            pdfTeX warning (ext4): destination 
-with the same identifier (name{cite.carwardine1995guinness}) has been already u
-sed, duplicate ignored
+l.100 \bibitem[{Carey(1982)}]{carey1982brain}
+                                             pdfTeX warning (ext4): destination
+ with the same identifier (name{cite.carwardine1995guinness}) has been already 
+used, duplicate ignored
 <to be read again> 
                    \relax 
-l.97 ...Carwardine(1995)}]{carwardine1995guinness}
+l.103 ...arwardine(1995)}]{carwardine1995guinness}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.casewell2013complex}) has been alread
 y used, duplicate ignored
 <to be read again> 
                    \relax 
-l.101   Fry}]{casewell2013complex}
+l.107   Fry}]{casewell2013complex}
                                   pdfTeX warning (ext4): destination with the s
 ame identifier (name{cite.chatterjee2007aerodynamics}) has been already used, d
 uplicate ignored
 <to be read again> 
                    \relax 
-l.107   Campbell}]{chatterjee2007aerodynamics}
+l.113   Campbell}]{chatterjee2007aerodynamics}
                                               pdfTeX warning (ext4): destinatio
 n with the same identifier (name{cite.clark2012field}) has been already used, d
 uplicate ignored
 <to be read again> 
                    \relax 
-l.112 ...rk, Tangco, and Barbour}]{clark2012field}
+l.118 ...rk, Tangco, and Barbour}]{clark2012field}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.cramp1977handbook}) has been already 
 used, duplicate ignored
 <to be read again> 
                    \relax 
-l.117 \bibitem[{Cramp(1977)}]{cramp1977handbook}
+l.123 \bibitem[{Cramp(1977)}]{cramp1977handbook}
                                                 pdfTeX warning (ext4): destinat
 ion with the same identifier (name{cite.crognale2008leatherback}) has been alre
 ady used, duplicate ignored
 <to be read again> 
                    \relax 
-l.123   Harms}]{crognale2008leatherback}
+l.129   Harms}]{crognale2008leatherback}
                                         pdfTeX warning (ext4): destination with
  the same identifier (name{cite.cronin2005role}) has been already used, duplica
 te ignored
 <to be read again> 
                    \relax 
-l.128 \bibitem[{Cronin(2005)}]{cronin2005role}
-                                              pdfTeX warning (ext4): destinatio
-n with the same identifier (name{cite.daltry1996diet}) has been already used, d
-uplicate ignored
+l.134 \bibitem[{Cronin(2005)}]{cronin2005role}
+                                               [72]pdfTeX warning (ext4): desti
+nation with the same identifier (name{cite.daltry1996diet}) has been already us
+ed, duplicate ignored
 <to be read again> 
                    \relax 
-l.132 ... W{\"u}ster, and Thorpe}]{daltry1996diet}
-                                                   [70]pdfTeX warning (ext4): d
-estination with the same identifier (name{cite.de2009database}) has been alread
-y used, duplicate ignored
+l.138 ... W{\"u}ster, and Thorpe}]{daltry1996diet}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.de2009database}) has been already use
+d, duplicate ignored
 <to be read again> 
                    \relax 
-l.136 ...galhaes and Costa(2009)}]{de2009database}
+l.142 ...galhaes and Costa(2009)}]{de2009database}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.de2007analysis}) has been already use
 d, duplicate ignored
 <to be read again> 
                    \relax 
-l.142   Church}]{de2007analysis}
+l.148   Church}]{de2007analysis}
                                 pdfTeX warning (ext4): destination with the sam
 e identifier (name{cite.d1998can}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.148 \bibitem[{D'EATH(1998)}]{d1998can}
+l.154 \bibitem[{D'EATH(1998)}]{d1998can}
                                         pdfTeX warning (ext4): destination with
  the same identifier (name{cite.depczynski2005shortest}) has been already used,
  duplicate ignored
 <to be read again> 
                    \relax 
-l.152 ... Bellwood(2005)}]{depczynski2005shortest}
+l.158 ... Bellwood(2005)}]{depczynski2005shortest}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.dessing2010bending}) has been already
  used, duplicate ignored
 <to be read again> 
                    \relax 
-l.156 ...ing and Craig(2010)}]{dessing2010bending}
+l.162 ...ing and Craig(2010)}]{dessing2010bending}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.dudley2002mechanisms}) has been alrea
 dy used, duplicate ignored
 <to be read again> 
                    \relax 
-l.160 ...tem[{Dudley(2002)}]{dudley2002mechanisms}
+l.166 ...tem[{Dudley(2002)}]{dudley2002mechanisms}
                                                   pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.ferry1892persistence}) has been alrea
+ation with the same identifier (name{cite.faulkes2015molecular}) has been alrea
 dy used, duplicate ignored
 <to be read again> 
                    \relax 
-l.164 ...item[{Ferry(1892)}]{ferry1892persistence}
+l.171   Bennett}]{faulkes2015molecular}
+                                       pdfTeX warning (ext4): destination with 
+the same identifier (name{cite.ferry1892persistence}) has been already used, du
+plicate ignored
+<to be read again> 
+                   \relax 
+l.176 ...item[{Ferry(1892)}]{ferry1892persistence}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.folkow2004distribution}) has been alr
 eady used, duplicate ignored
 <to be read again> 
                    \relax 
-l.169   Blix}]{folkow2004distribution}
+l.181   Blix}]{folkow2004distribution}
                                       pdfTeX warning (ext4): destination with t
 he same identifier (name{cite.frank1999comparative}) has been already used, dup
 licate ignored
 <to be read again> 
                    \relax 
-l.174 ...item[{Frank(1999)}]{frank1999comparative}
+l.186 ...item[{Frank(1999)}]{frank1999comparative}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.frank2012light}) has been already use
 d, duplicate ignored
 <to be read again> 
                    \relax 
-l.178 ...nk, Johnsen, and Cronin}]{frank2012light}
+l.190 ...nk, Johnsen, and Cronin}]{frank2012light}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.franz2002temperature}) has been alrea
 dy used, duplicate ignored
 <to be read again> 
                    \relax 
-l.183 ...nd Ronacher(2002)}]{franz2002temperature}
+l.195 ...nd Ronacher(2002)}]{franz2002temperature}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.freckleton2009seven}) has been alread
 y used, duplicate ignored
 <to be read again> 
                    \relax 
-l.187 ...[{Freckleton(2009)}]{freckleton2009seven}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.fritsches2005warm}) has been already 
-used, duplicate ignored
+l.199 ...[{Freckleton(2009)}]{freckleton2009seven}
+                                                   [73]pdfTeX warning (ext4): d
+estination with the same identifier (name{cite.fritsches2005warm}) has been alr
+eady used, duplicate ignored
 <to be read again> 
                    \relax 
-l.192   Warrant}]{fritsches2005warm}
+l.204   Warrant}]{fritsches2005warm}
                                     pdfTeX warning (ext4): destination with the
  same identifier (name{cite.froese2012fishbase}) has been already used, duplica
 te ignored
 <to be read again> 
                    \relax 
-l.196 ...ese and Pauly(2012)}]{froese2012fishbase}
-                                                   [71]pdfTeX warning (ext4): d
-estination with the same identifier (name{cite.fry2012structural}) has been alr
-eady used, duplicate ignored
+l.208 ...ese and Pauly(2012)}]{froese2012fishbase}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.fry2012structural}) has been already 
+used, duplicate ignored
 <to be read again> 
                    \relax 
-l.201   et~al.}]{fry2012structural}
+l.213   et~al.}]{fry2012structural}
                                    pdfTeX warning (ext4): destination with the 
 same identifier (name{cite.fry2010kingfishers}) has been already used, duplicat
 e ignored
 <to be read again> 
                    \relax 
-l.206 ...[{Fry and Fry(2010)}]{fry2010kingfishers}
+l.218 ...[{Fry and Fry(2010)}]{fry2010kingfishers}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.garamszegi2002coevolving}) has been a
 lready used, duplicate ignored
 <to be read again> 
                    \relax 
-l.210   Erritz{\o}e}]{garamszegi2002coevolving}
+l.222   Erritz{\o}e}]{garamszegi2002coevolving}
                                                pdfTeX warning (ext4): destinati
 on with the same identifier (name{cite.gelman1992inference}) has been already u
 sed, duplicate ignored
 <to be read again> 
                    \relax 
-l.215 ...an and Rubin(1992)}]{gelman1992inference}
+l.227 ...an and Rubin(1992)}]{gelman1992inference}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.gilbert1997visual}) has been already 
 used, duplicate ignored
 <to be read again> 
                    \relax 
-l.219 \bibitem[{Gilbert(1997)}]{gilbert1997visual}
+l.231 \bibitem[{Gilbert(1997)}]{gilbert1997visual}
                                                   
-Underfull \hbox (badness 2903) in paragraph at lines 220--222
+Underfull \hbox (badness 2903) in paragraph at lines 232--234
 []\T1/phv/m/n/12 Gilbert C (1997) Vi-sual con-trol of cur-so-rial prey pur-suit
  by tiger bee-tles
  []
@@ -3616,416 +3688,428 @@ pdfTeX warning (ext4): destination with the same identifier (name{cite.greene19
 97snakes}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.223 \bibitem[{Greene(1997)}]{greene1997snakes}
+l.235 \bibitem[{Greene(1997)}]{greene1997snakes}
                                                 pdfTeX warning (ext4): destinat
 ion with the same identifier (name{cite.haddock2005bioluminescent}) has been al
 ready used, duplicate ignored
 <to be read again> 
                    \relax 
-l.228   Schnitzler}]{haddock2005bioluminescent}
+l.240   Schnitzler}]{haddock2005bioluminescent}
                                                pdfTeX warning (ext4): destinati
 on with the same identifier (name{cite.hadfield2010mcmc}) has been already used
 , duplicate ignored
 <to be read again> 
                    \relax 
-l.232 ...Hadfield et~al.(2010)}]{hadfield2010mcmc}
+l.244 ...Hadfield et~al.(2010)}]{hadfield2010mcmc}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.hagura2012ready}) has been already us
 ed, duplicate ignored
 <to be read again> 
                    \relax 
-l.238   Haggard}]{hagura2012ready}
+l.250   Haggard}]{hagura2012ready}
                                   pdfTeX warning (ext4): destination with the s
 ame identifier (name{cite.harte2008maximum}) has been already used, duplicate i
 gnored
 <to be read again> 
                    \relax 
-l.244   Smith}]{harte2008maximum}
+l.256   Smith}]{harte2008maximum}
                                  pdfTeX warning (ext4): destination with the sa
 me identifier (name{cite.harvey1991comparative}) has been already used, duplica
 te ignored
 <to be read again> 
                    \relax 
-l.248 ... and Pagel(1991)}]{harvey1991comparative}
+l.260 ... and Pagel(1991)}]{harvey1991comparative}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.hayes1995venom}) has been already use
 d, duplicate ignored
 <to be read again> 
                    \relax 
-l.252 \bibitem[{HAYES(1995)}]{hayes1995venom}
-                                             pdfTeX warning (ext4): destination
- with the same identifier (name{cite.healy2014ecology}) has been already used, 
-duplicate ignored
+l.264 \bibitem[{HAYES(1995)}]{hayes1995venom}
+                                              [74]pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.healy2014ecology}) has been already u
+sed, duplicate ignored
 <to be read again> 
                    \relax 
-l.257   et~al.}]{healy2014ecology}
+l.269   et~al.}]{healy2014ecology}
                                   pdfTeX warning (ext4): destination with the s
-ame identifier (name{cite.hedges2006timetree}) has been already used, duplicate
+ame identifier (name{cite.healy2013metabolic}) has been already used, duplicate
  ignored
 <to be read again> 
                    \relax 
-l.262 ..., Dudley, and Kumar}]{hedges2006timetree}
-                                                   [72]pdfTeX warning (ext4): d
-estination with the same identifier (name{cite.hedrick2011damping}) has been al
-ready used, duplicate ignored
+l.275   Jackson}]{healy2013metabolic}
+                                     pdfTeX warning (ext4): destination with th
+e same identifier (name{cite.hedges2006timetree}) has been already used, duplic
+ate ignored
 <to be read again> 
                    \relax 
-l.266 ...item[{Hedrick(2011)}]{hedrick2011damping}
+l.280 ..., Dudley, and Kumar}]{hedges2006timetree}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.hedrick2011damping}) has been already
+ used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.284 ...item[{Hedrick(2011)}]{hedrick2011damping}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.heglund1988speed}) has been already u
 sed, duplicate ignored
 <to be read again> 
                    \relax 
-l.271 ...lund and Taylor(1988)}]{heglund1988speed}
+l.289 ...lund and Taylor(1988)}]{heglund1988speed}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.holmes2003birds}) has been already us
 ed, duplicate ignored
 <to be read again> 
                    \relax 
-l.276 ...mes and Ottinger(2003)}]{holmes2003birds}
+l.294 ...mes and Ottinger(2003)}]{holmes2003birds}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.holmes1994fly}) has been already used
 , duplicate ignored
 <to be read again> 
                    \relax 
-l.280 ...{Holmes and Austad(1994)}]{holmes1994fly}
+l.298 ...{Holmes and Austad(1994)}]{holmes1994fly}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.hornstein2000sexual}) has been alread
 y used, duplicate ignored
 <to be read again> 
                    \relax 
-l.285   Laughlin}]{hornstein2000sexual}
+l.303   Laughlin}]{hornstein2000sexual}
                                        pdfTeX warning (ext4): destination with 
 the same identifier (name{cite.hossie2013species}) has been already used, dupli
 cate ignored
 <to be read again> 
                    \relax 
-l.291   Sherratt}]{hossie2013species}
+l.309   Sherratt}]{hossie2013species}
                                      pdfTeX warning (ext4): destination with th
 e same identifier (name{cite.howland2004allometry}) has been already used, dupl
 icate ignored
 <to be read again> 
                    \relax 
-l.297   Basarab}]{howland2004allometry}
+l.315   Basarab}]{howland2004allometry}
                                        pdfTeX warning (ext4): destination with 
 the same identifier (name{cite.hoyo1992handbook}) has been already used, duplic
 ate ignored
 <to be read again> 
                    \relax 
-l.301 ...Elliott, and Sargatal}]{hoyo1992handbook}
+l.319 ...Elliott, and Sargatal}]{hoyo1992handbook}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.hulbert2007life}) has been already us
 ed, duplicate ignored
 <to be read again> 
                    \relax 
-l.306   Buttemer}]{hulbert2007life}
+l.324   Buttemer}]{hulbert2007life}
                                    pdfTeX warning (ext4): destination with the 
 same identifier (name{cite.inger2014potential}) has been already used, duplicat
 e ignored
 <to be read again> 
                    \relax 
-l.312   Gaston}]{inger2014potential}
-                                    pdfTeX warning (ext4): destination with the
- same identifier (name{cite.janossy2011pleistocene}) has been already used, dup
-licate ignored
+l.330   Gaston}]{inger2014potential}
+                                     [75]pdfTeX warning (ext4): destination wit
+h the same identifier (name{cite.janossy2011pleistocene}) has been already used
+, duplicate ignored
 <to be read again> 
                    \relax 
-l.316 ...\'a}nossy(2011)}]{janossy2011pleistocene}
+l.334 ...\'a}nossy(2011)}]{janossy2011pleistocene}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.jansa2011adaptive}) has been already 
 used, duplicate ignored
 <to be read again> 
                    \relax 
-l.319 ...Jansa and Voss(2011)}]{jansa2011adaptive}
+l.337 ...Jansa and Voss(2011)}]{jansa2011adaptive}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.jetz2012global}) has been already use
 d, duplicate ignored
 <to be read again> 
                    \relax 
-l.324   Mooers}]{jetz2012global}
+l.342   Mooers}]{jetz2012global}
                                 pdfTeX warning (ext4): destination with the sam
 e identifier (name{cite.jones1994foraging}) has been already used, duplicate ig
 nored
 <to be read again> 
                    \relax 
-l.328 ...nes and Rydell(1994)}]{jones1994foraging}
-                                                   [73]pdfTeX warning (ext4): d
-estination with the same identifier (name{cite.jordan2013linking}) has been alr
-eady used, duplicate ignored
+l.346 ...nes and Rydell(1994)}]{jones1994foraging}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.jordan2013linking}) has been already 
+used, duplicate ignored
 <to be read again> 
                    \relax 
-l.334   et~al.}]{jordan2013linking}
+l.352   et~al.}]{jordan2013linking}
                                    pdfTeX warning (ext4): destination with the 
-same identifier (name{cite.keller1997extraordinary}) has been already used, dup
-licate ignored
+same identifier (name{cite.kalinoski2014spectral}) has been already used, dupli
+cate ignored
 <to be read again> 
                    \relax 
-l.340 ...d Genoud(1997)}]{keller1997extraordinary}
+l.359   Brill}]{kalinoski2014spectral}
+                                      pdfTeX warning (ext4): destination with t
+he same identifier (name{cite.keller1997extraordinary}) has been already used, 
+duplicate ignored
+<to be read again> 
+                   \relax 
+l.365 ...d Genoud(1997)}]{keller1997extraordinary}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.kooijman2009dynamic}) has been alread
 y used, duplicate ignored
 <to be read again> 
                    \relax 
-l.344 ...em[{Kooijman(2009)}]{kooijman2009dynamic}
+l.369 ...em[{Kooijman(2009)}]{kooijman2009dynamic}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.kreysing2012photonic}) has been alrea
 dy used, duplicate ignored
 <to be read again> 
                    \relax 
-l.349   Engelmann et~al.}]{kreysing2012photonic}
+l.374   Engelmann et~al.}]{kreysing2012photonic}
                                                 pdfTeX warning (ext4): destinat
 ion with the same identifier (name{cite.kuhn2011simple}) has been already used,
  duplicate ignored
 <to be read again> 
                    \relax 
-l.354 ...uhn, Mooers, and Thomas}]{kuhn2011simple}
+l.379 ...uhn, Mooers, and Thomas}]{kuhn2011simple}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.land1974chasing}) has been already us
 ed, duplicate ignored
 <to be read again> 
                    \relax 
-l.358 ...Land and Collett(1974)}]{land1974chasing}
+l.383 ...Land and Collett(1974)}]{land1974chasing}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.landgren2014visual}) has been already
  used, duplicate ignored
 <to be read again> 
                    \relax 
-l.363   Warrant}]{landgren2014visual}
+l.388   Warrant}]{landgren2014visual}
                                      pdfTeX warning (ext4): destination with th
 e same identifier (name{cite.laughlin1993fast}) has been already used, duplicat
 e ignored
 <to be read again> 
                    \relax 
-l.369 ...d Weckstr{\"o}m(1993)}]{laughlin1993fast}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.laughlin2001energy}) has been already
- used, duplicate ignored
+l.394 ...d Weckstr{\"o}m(1993)}]{laughlin1993fast}
+                                                   [76]pdfTeX warning (ext4): d
+estination with the same identifier (name{cite.laughlin2001energy}) has been al
+ready used, duplicate ignored
 <to be read again> 
                    \relax 
-l.374 ...tem[{Laughlin(2001)}]{laughlin2001energy}
+l.399 ...tem[{Laughlin(2001)}]{laughlin2001energy}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.li2008optimal}) has been already used
 , duplicate ignored
 <to be read again> 
                    \relax 
-l.378 ...l.(2008)Li, Lu, and Orti}]{li2008optimal}
+l.403 ...l.(2008)Li, Lu, and Orti}]{li2008optimal}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.li2005eggs}) has been already used, d
 uplicate ignored
 <to be read again> 
                    \relax 
-l.383 ...~al.(2005)Li, Fry, and Kini}]{li2005eggs}
+l.408 ...~al.(2005)Li, Fry, and Kini}]{li2005eggs}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.lillywhite2002patterns}) has been alr
 eady used, duplicate ignored
 <to be read again> 
                    \relax 
-l.389 ..."o}ggren et~al.}]{lillywhite2002patterns}
-                                                   [74]pdfTeX warning (ext4): d
-estination with the same identifier (name{cite.lim2010phylogeny}) has been alre
-ady used, duplicate ignored
+l.414 ..."o}ggren et~al.}]{lillywhite2002patterns}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.lim2010phylogeny}) has been already u
+sed, duplicate ignored
 <to be read again> 
                    \relax 
-l.394 ...tta, Mara, and Martin}]{lim2010phylogeny}
+l.419 ...tta, Mara, and Martin}]{lim2010phylogeny}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.lindstedt1981body}) has been already 
 used, duplicate ignored
 <to be read again> 
                    \relax 
-l.399 ...and Calder~III(1981)}]{lindstedt1981body}
+l.424 ...and Calder~III(1981)}]{lindstedt1981body}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.lisney2011behavioural}) has been alre
 ady used, duplicate ignored
 <to be read again> 
                    \relax 
-l.404   et~al.}]{lisney2011behavioural}
+l.429   et~al.}]{lisney2011behavioural}
                                        pdfTeX warning (ext4): destination with 
 the same identifier (name{cite.little2010evolutionary}) has been already used, 
 duplicate ignored
 <to be read again> 
                    \relax 
-l.410   Moyes}]{little2010evolutionary}
+l.435   Moyes}]{little2010evolutionary}
                                        pdfTeX warning (ext4): destination with 
 the same identifier (name{cite.makarieva2008mean}) has been already used, dupli
 cate ignored
 <to be read again> 
                    \relax 
-l.417   et~al.}]{makarieva2008mean}
+l.442   et~al.}]{makarieva2008mean}
                                    pdfTeX warning (ext4): destination with the 
 same identifier (name{cite.mccue2006cost}) has been already used, duplicate ign
 ored
 <to be read again> 
                    \relax 
-l.423 \bibitem[{McCue(2006)}]{mccue2006cost}
+l.448 \bibitem[{McCue(2006)}]{mccue2006cost}
                                             pdfTeX warning (ext4): destination 
 with the same identifier (name{cite.mercer2003effects}) has been already used, 
 duplicate ignored
 <to be read again> 
                    \relax 
-l.427 ...ercer and Roth(2003)}]{mercer2003effects}
+l.452 ...ercer and Roth(2003)}]{mercer2003effects}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.mirtschin2002influences}) has been al
 ready used, duplicate ignored
 <to be read again> 
                    \relax 
-l.432   et~al.}]{mirtschin2002influences}
-                                         pdfTeX warning (ext4): destination wit
-h the same identifier (name{cite.moller2010up}) has been already used, duplicat
-e ignored
+l.457   et~al.}]{mirtschin2002influences}
+                                          [77]pdfTeX warning (ext4): destinatio
+n with the same identifier (name{cite.moller2010up}) has been already used, dup
+licate ignored
 <to be read again> 
                    \relax 
-l.437 \bibitem[{M{\o}ller(2010)}]{moller2010up}
+l.462 \bibitem[{M{\o}ller(2010)}]{moller2010up}
                                                pdfTeX warning (ext4): destinati
 on with the same identifier (name{cite.moorad2010evolution}) has been already u
 sed, duplicate ignored
 <to be read again> 
                    \relax 
-l.442 ...nd Promislow(2010)}]{moorad2010evolution}
+l.467 ...nd Promislow(2010)}]{moorad2010evolution}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.morgenstern2013venom}) has been alrea
 dy used, duplicate ignored
 <to be read again> 
                    \relax 
-l.446 ...rn and King(2013)}]{morgenstern2013venom}
+l.471 ...rn and King(2013)}]{morgenstern2013venom}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.murphy2007using}) has been already us
 ed, duplicate ignored
 <to be read again> 
                    \relax 
-l.451   Miller}]{murphy2007using}
-                                  [75]pdfTeX warning (ext4): destination with t
-he same identifier (name{cite.myers2006animal}) has been already used, duplicat
-e ignored
+l.476   Miller}]{murphy2007using}
+                                 pdfTeX warning (ext4): destination with the sa
+me identifier (name{cite.myers2006animal}) has been already used, duplicate ign
+ored
 <to be read again> 
                    \relax 
-l.457   et~al.}]{myers2006animal}
+l.482   et~al.}]{myers2006animal}
                                  pdfTeX warning (ext4): destination with the sa
 me identifier (name{cite.naro2008evolutionary}) has been already used, duplicat
 e ignored
 <to be read again> 
                    \relax 
-l.462   Amato}]{naro2008evolutionary}
+l.487   Amato}]{naro2008evolutionary}
                                      pdfTeX warning (ext4): destination with th
 e same identifier (name{cite.nowak1999walker}) has been already used, duplicate
  ignored
 <to be read again> 
                    \relax 
-l.467 \bibitem[{Nowak(1999)}]{nowak1999walker}
+l.492 \bibitem[{Nowak(1999)}]{nowak1999walker}
                                               pdfTeX warning (ext4): destinatio
 n with the same identifier (name{cite.orme2011caper}) has been already used, du
 plicate ignored
 <to be read again> 
                    \relax 
-l.471   et~al.}]{orme2011caper}
+l.496   et~al.}]{orme2011caper}
                                pdfTeX warning (ext4): destination with the same
  identifier (name{cite.pagel1999inferring}) has been already used, duplicate ig
 nored
 <to be read again> 
                    \relax 
-l.476 \bibitem[{Pagel(1999)}]{pagel1999inferring}
+l.501 \bibitem[{Pagel(1999)}]{pagel1999inferring}
                                                  pdfTeX warning (ext4): destina
 tion with the same identifier (name{cite.palmer2010art}) has been already used,
  duplicate ignored
 <to be read again> 
                    \relax 
-l.480 ...[{Palmer and Grant(2010)}]{palmer2010art}
+l.505 ...[{Palmer and Grant(2010)}]{palmer2010art}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.parham2011best}) has been already use
 d, duplicate ignored
 <to be read again> 
                    \relax 
-l.484   et~al.}]{parham2011best}
+l.509   et~al.}]{parham2011best}
                                 pdfTeX warning (ext4): destination with the sam
 e identifier (name{cite.parr2010parrots}) has been already used, duplicate igno
 red
 <to be read again> 
                    \relax 
-l.488 ...Parr and Juniper(2010)}]{parr2010parrots}
+l.513 ...Parr and Juniper(2010)}]{parr2010parrots}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.partridge1993optimality}) has been al
 ready used, duplicate ignored
 <to be read again> 
                    \relax 
-l.492 ...d Barton(1993)}]{partridge1993optimality}
+l.517 ...d Barton(1993)}]{partridge1993optimality}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.pawar2012dimensionality}) has been al
 ready used, duplicate ignored
 <to be read again> 
                    \relax 
-l.496 ...ll, and Savage}]{pawar2012dimensionality}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.perelman2011molecular}) has been alre
-ady used, duplicate ignored
+l.521 ...ll, and Savage}]{pawar2012dimensionality}
+                                                   [78]pdfTeX warning (ext4): d
+estination with the same identifier (name{cite.perelman2011molecular}) has been
+ already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.501   et~al.}]{perelman2011molecular}
+l.526   et~al.}]{perelman2011molecular}
                                        pdfTeX warning (ext4): destination with 
 the same identifier (name{cite.pintor2010costs}) has been already used, duplica
 te ignored
 <to be read again> 
                    \relax 
-l.506   Seymour}]{pintor2010costs}
+l.531   Seymour}]{pintor2010costs}
                                   pdfTeX warning (ext4): destination with the s
 ame identifier (name{cite.plummer2006coda}) has been already used, duplicate ig
 nored
 <to be read again> 
                    \relax 
-l.511   Vines}]{plummer2006coda}
+l.536   Vines}]{plummer2006coda}
                                 pdfTeX warning (ext4): destination with the sam
 e identifier (name{cite.pomeroy1990fly}) has been already used, duplicate ignor
 ed
 <to be read again> 
                    \relax 
-l.515 \bibitem[{Pomeroy(1990)}]{pomeroy1990fly}
+l.540 \bibitem[{Pomeroy(1990)}]{pomeroy1990fly}
                                                pdfTeX warning (ext4): destinati
 on with the same identifier (name{cite.poran1987resistance}) has been already u
 sed, duplicate ignored
 <to be read again> 
                    \relax 
-l.519 ...oss, and Benjamini}]{poran1987resistance}
+l.544 ...oss, and Benjamini}]{poran1987resistance}
                                                   
-Underfull \hbox (badness 1325) in paragraph at lines 520--524
+Underfull \hbox (badness 1325) in paragraph at lines 545--549
 \T1/phv/m/n/12 (Sper-mophilus beecheyi) to the venom of the north-ern Pa-cific 
 rat-tlesnake
  []
 
-[76]pdfTeX warning (ext4): destination with the same identifier (name{cite.port
-er1902contributions}) has been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{cite.porter19
+02contributions}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.525 ...[{Porter(1902)}]{porter1902contributions}
+l.550 ...[{Porter(1902)}]{porter1902contributions}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.promislow1993size}) has been already 
 used, duplicate ignored
 <to be read again> 
                    \relax 
-l.529 ...tem[{Promislow(1993)}]{promislow1993size}
+l.554 ...tem[{Promislow(1993)}]{promislow1993size}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.promislow1990living}) has been alread
 y used, duplicate ignored
 <to be read again> 
                    \relax 
-l.533 ...w and Harvey(1990)}]{promislow1990living}
+l.558 ...w and Harvey(1990)}]{promislow1990living}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.prugh2014does}) has been already used
 , duplicate ignored
 <to be read again> 
                    \relax 
-l.538 ...[{Prugh and Golden(2014)}]{prugh2014does}
+l.563 ...[{Prugh and Golden(2014)}]{prugh2014does}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.pyron2014early}) has been already use
 d, duplicate ignored
 <to be read again> 
                    \relax 
-l.543 ...yron and Burbrink(2014)}]{pyron2014early}
+l.568 ...yron and Burbrink(2014)}]{pyron2014early}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.RCran}) has been already used, duplic
 ate ignored
 <to be read again> 
                    \relax 
-l.547 \bibitem[{{R Core Team}(2014)}]{RCran}
+l.572 \bibitem[{{R Core Team}(2014)}]{RCran}
                                             
-Underfull \hbox (badness 1127) in paragraph at lines 548--551
+Underfull \hbox (badness 1127) in paragraph at lines 573--576
 \T1/phv/m/n/12 R Foun-da-tion for Sta-tis-ti-cal Com-put-ing, Vi-enna, Aus-tria
 , URL [][]$\T1/cmtt/m/n/12 http : / / www .
  []
@@ -4034,9 +4118,9 @@ pdfTeX warning (ext4): destination with the same identifier (name{cite.reisz200
 4molecular}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.552 ...nd M{\"u}ller(2004)}]{reisz2004molecular}
+l.577 ...nd M{\"u}ller(2004)}]{reisz2004molecular}
                                                   
-Underfull \hbox (badness 1838) in paragraph at lines 553--555
+Underfull \hbox (badness 1838) in paragraph at lines 578--580
 []\T1/phv/m/n/12 Reisz RR, Müller J (2004) Molec-u-lar timescales and the fos-s
 il record: a
  []
@@ -4045,21 +4129,21 @@ pdfTeX warning (ext4): destination with the same identifier (name{cite.richards
 2012venom}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.557   W{\"u}ster}]{richards2012venom}
-                                       pdfTeX warning (ext4): destination with 
-the same identifier (name{cite.ricklefs2010insights}) has been already used, du
-plicate ignored
+l.582   W{\"u}ster}]{richards2012venom}
+                                        [79]pdfTeX warning (ext4): destination 
+with the same identifier (name{cite.ricklefs2010insights}) has been already use
+d, duplicate ignored
 <to be read again> 
                    \relax 
-l.562 ...10{\natexlab{a}})}]{ricklefs2010insights}
+l.587 ...10{\natexlab{a}})}]{ricklefs2010insights}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.ricklefs2010life}) has been already u
 sed, duplicate ignored
 <to be read again> 
                    \relax 
-l.566 ...s(2010{\natexlab{b}})}]{ricklefs2010life}
+l.591 ...s(2010{\natexlab{b}})}]{ricklefs2010life}
                                                   
-Underfull \hbox (badness 1552) in paragraph at lines 567--570
+Underfull \hbox (badness 1552) in paragraph at lines 592--595
 []\T1/phv/m/n/12 Ricklefs RE (2010b) Life-history con-nec-tions to rates of ag-
 ing in ter-res-trial
  []
@@ -4068,111 +4152,111 @@ pdfTeX warning (ext4): destination with the same identifier (name{cite.ricklefs
 2001comparison}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.571 ...heuerlein(2001)}]{ricklefs2001comparison}
+l.596 ...heuerlein(2001)}]{ricklefs2001comparison}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.rodriguez1992venom}) has been already
  used, duplicate ignored
 <to be read again> 
                    \relax 
-l.575 ...es and Thomas(1992)}]{rodriguez1992venom}
+l.600 ...es and Thomas(1992)}]{rodriguez1992venom}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.rohlf2001comparative}) has been alrea
 dy used, duplicate ignored
 <to be read again> 
                    \relax 
-l.579 ...item[{Rohlf(2001)}]{rohlf2001comparative}
-                                                   [77]pdfTeX warning (ext4): d
-estination with the same identifier (name{cite.rubene2010presence}) has been al
-ready used, duplicate ignored
+l.604 ...item[{Rohlf(2001)}]{rohlf2001comparative}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.rubene2010presence}) has been already
+ used, duplicate ignored
 <to be read again> 
                    \relax 
-l.584   {\"O}deen}]{rubene2010presence}
+l.609   {\"O}deen}]{rubene2010presence}
                                        pdfTeX warning (ext4): destination with 
 the same identifier (name{cite.sato2007stroke}) has been already used, duplicat
 e ignored
 <to be read again> 
                    \relax 
-l.590   et~al.}]{sato2007stroke}
+l.615   et~al.}]{sato2007stroke}
                                 pdfTeX warning (ext4): destination with the sam
 e identifier (name{cite.schoch1985preliminary}) has been already used, duplicat
 e ignored
 <to be read again> 
                    \relax 
-l.596 ...em[{Schoch(1985)}]{schoch1985preliminary}
+l.621 ...em[{Schoch(1985)}]{schoch1985preliminary}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.schwartz2010visual}) has been already
  used, duplicate ignored
 <to be read again> 
                    \relax 
-l.601 ...rtz and Meese(2010)}]{schwartz2010visual}
+l.626 ...rtz and Meese(2010)}]{schwartz2010visual}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.shattuck2010arboreality}) has been al
 ready used, duplicate ignored
 <to be read again> 
                    \relax 
-l.605 ...Williams(2010)}]{shattuck2010arboreality}
+l.630 ...Williams(2010)}]{shattuck2010arboreality}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.shine1985prey}) has been already used
 , duplicate ignored
 <to be read again> 
                    \relax 
-l.610 ...Shine and Schwaner(1985)}]{shine1985prey}
+l.635 ...Shine and Schwaner(1985)}]{shine1985prey}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.sibly2012metabolic}) has been already
  used, duplicate ignored
 <to be read again> 
                    \relax 
-l.615   Kodric-Brown}]{sibly2012metabolic}
-                                          pdfTeX warning (ext4): destination wi
-th the same identifier (name{cite.stearns1992evolution}) has been already used,
- duplicate ignored
+l.640   Kodric-Brown}]{sibly2012metabolic}
+                                           [80]pdfTeX warning (ext4): destinati
+on with the same identifier (name{cite.stearns1992evolution}) has been already 
+used, duplicate ignored
 <to be read again> 
                    \relax 
-l.619 ...em[{Stearns(1992)}]{stearns1992evolution}
+l.644 ...em[{Stearns(1992)}]{stearns1992evolution}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.stevens2007predator}) has been alread
 y used, duplicate ignored
 <to be read again> 
                    \relax 
-l.623 ...tem[{Stevens(2007)}]{stevens2007predator}
+l.648 ...tem[{Stevens(2007)}]{stevens2007predator}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.tacutu2012human}) has been already us
 ed, duplicate ignored
 <to be read again> 
                    \relax 
-l.629   et~al.}]{tacutu2012human}
+l.654   et~al.}]{tacutu2012human}
                                  pdfTeX warning (ext4): destination with the sa
 me identifier (name{cite.tansley1965vision}) has been already used, duplicate i
 gnored
 <to be read again> 
                    \relax 
-l.634 ...Tansley et~al.(1965)}]{tansley1965vision}
+l.659 ...Tansley et~al.(1965)}]{tansley1965vision}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.tatler2000temperature}) has been alre
 ady used, duplicate ignored
 <to be read again> 
                    \relax 
-l.638   Laughlin}]{tatler2000temperature}
+l.663   Laughlin}]{tatler2000temperature}
                                          pdfTeX warning (ext4): destination wit
 h the same identifier (name{cite.therrien2007my}) has been already used, duplic
 ate ignored
 <to be read again> 
                    \relax 
-l.643 ...ien and Henderson(2007)}]{therrien2007my}
-                                                   [78]pdfTeX warning (ext4): d
-estination with the same identifier (name{cite.tosh2010modelling}) has been alr
-eady used, duplicate ignored
+l.668 ...ien and Henderson(2007)}]{therrien2007my}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.tosh2010modelling}) has been already 
+used, duplicate ignored
 <to be read again> 
                    \relax 
-l.648 ...osh and Ruxton(2010)}]{tosh2010modelling}
+l.673 ...osh and Ruxton(2010)}]{tosh2010modelling}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.vogel2008modes}) has been already use
 d, duplicate ignored
 <to be read again> 
                    \relax 
-l.652 \bibitem[{Vogel(2008)}]{vogel2008modes}
+l.677 \bibitem[{Vogel(2008)}]{vogel2008modes}
                                              
-Underfull \hbox (badness 2334) in paragraph at lines 653--655
+Underfull \hbox (badness 2334) in paragraph at lines 678--680
 []\T1/phv/m/n/12 Vogel S (2008) Modes and scal-ing in aquatic lo-co-mo-tion. In
 -te-gra-tive and
  []
@@ -4181,20 +4265,20 @@ pdfTeX warning (ext4): destination with the same identifier (name{cite.vonk2013
 king}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.657   et~al.}]{vonk2013king}
+l.682   et~al.}]{vonk2013king}
                               pdfTeX warning (ext4): destination with the same 
 identifier (name{cite.voris1981size}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.662 ...{Voris and Moffett(1981)}]{voris1981size}
+l.687 ...{Voris and Moffett(1981)}]{voris1981size}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.voss2013opossums}) has been already u
 sed, duplicate ignored
 <to be read again> 
                    \relax 
-l.666 \bibitem[{Voss(2013)}]{voss2013opossums}
+l.691 \bibitem[{Voss(2013)}]{voss2013opossums}
                                               
-Underfull \hbox (badness 2027) in paragraph at lines 667--670
+Underfull \hbox (badness 2027) in paragraph at lines 692--695
 \T1/phv/m/n/12 pitvipers (Ser-pentes: Cro-tali-nae): Ev-i-dence for al-ter-na-t
 ive co-evo-lu-tion-ary
  []
@@ -4203,15 +4287,21 @@ pdfTeX warning (ext4): destination with the same identifier (name{cite.watanabe
 2012slowest}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.672   Kovacs}]{watanabe2012slowest}
+l.697   Kovacs}]{watanabe2012slowest}
                                      pdfTeX warning (ext4): destination with th
-e same identifier (name{cite.white2006scaling}) has been already used, duplicat
-e ignored
+e same identifier (name{cite.Wegner15052015}) has been already used, duplicate 
+ignored
 <to be read again> 
                    \relax 
-l.677 ...Phillips, and Seymour}]{white2006scaling}
+l.703   Hyde}]{Wegner15052015}
+                               [81]pdfTeX warning (ext4): destination with the 
+same identifier (name{cite.white2006scaling}) has been already used, duplicate 
+ignored
+<to be read again> 
+                   \relax 
+l.708 ...Phillips, and Seymour}]{white2006scaling}
                                                   
-Underfull \hbox (badness 2600) in paragraph at lines 678--680
+Underfull \hbox (badness 2600) in paragraph at lines 709--711
 []\T1/phv/m/n/12 White CR, Phillips NF, Sey-mour RS (2006) The scal-ing and tem
 -per-a-ture
  []
@@ -4220,33 +4310,33 @@ pdfTeX warning (ext4): destination with the same identifier (name{cite.widder20
 10bioluminescence}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.681 ...Widder(2010)}]{widder2010bioluminescence}
+l.712 ...Widder(2010)}]{widder2010bioluminescence}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.wiens2006does}) has been already used
 , duplicate ignored
 <to be read again> 
                    \relax 
-l.685 ...ns, Brandley, and Reeder}]{wiens2006does}
+l.716 ...ns, Brandley, and Reeder}]{wiens2006does}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.wilkinson2002life}) has been already 
 used, duplicate ignored
 <to be read again> 
                    \relax 
-l.690 ...nson and South(2002)}]{wilkinson2002life}
+l.721 ...nson and South(2002)}]{wilkinson2002life}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.Williams1957}) has been already used,
  duplicate ignored
 <to be read again> 
                    \relax 
-l.694 \bibitem[{Williams(1957)}]{Williams1957}
+l.725 \bibitem[{Williams(1957)}]{Williams1957}
                                               pdfTeX warning (ext4): destinatio
 n with the same identifier (name{cite.williams2015ecology}) has been already us
 ed, duplicate ignored
 <to be read again> 
                    \relax 
-l.699 ...and Shattuck(2015)}]{williams2015ecology}
+l.730 ...and Shattuck(2015)}]{williams2015ecology}
                                                   
-Underfull \hbox (badness 2165) in paragraph at lines 700--703
+Underfull \hbox (badness 2165) in paragraph at lines 731--734
 []\T1/phv/m/n/12 Williams SA, Shat-tuck MR (2015) Ecol-ogy, longevity and naked
  mole-rats:
  []
@@ -4255,39 +4345,39 @@ pdfTeX warning (ext4): destination with the same identifier (name{cite.williams
 1995penguins}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.705   Stokes}]{williams1995penguins}
-                                       [79]pdfTeX warning (ext4): destination w
-ith the same identifier (name{cite.williams1988variation}) has been already use
-d, duplicate ignored
+l.736   Stokes}]{williams1995penguins}
+                                      pdfTeX warning (ext4): destination with t
+he same identifier (name{cite.williams1988variation}) has been already used, du
+plicate ignored
 <to be read again> 
                    \relax 
-l.710   Sparrow}]{williams1988variation}
+l.741   Sparrow}]{williams1988variation}
                                         pdfTeX warning (ext4): destination with
  the same identifier (name{cite.wilson2005mammal}) has been already used, dupli
 cate ignored
 <to be read again> 
                    \relax 
-l.715 ...lson and Reeder(2005)}]{wilson2005mammal}
+l.746 ...lson and Reeder(2005)}]{wilson2005mammal}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.woodward2005}) has been already used,
  duplicate ignored
 <to be read again> 
                    \relax 
-l.720   et~al.}]{woodward2005}
+l.751   et~al.}]{woodward2005}
                               
-Underfull \hbox (badness 1910) in paragraph at lines 721--724
+Underfull \hbox (badness 1910) in paragraph at lines 752--755
 []\T1/phv/m/n/12 Woodward G, Eben-man B, Em-mer-son M, Mon-toya JM, Ole-sen JM,
  et al.
  []
 
 
-Underfull \hbox (badness 2012) in paragraph at lines 721--724
+Underfull \hbox (badness 2012) in paragraph at lines 752--755
 \T1/phv/m/n/12 (2005) Body size in eco-log-i-cal net-works. Trends in Ecol-ogy 
 & Evo-lu-tion
  []
 
 
-Underfull \hbox (badness 3058) in paragraph at lines 721--724
+Underfull \hbox (badness 3058) in paragraph at lines 752--755
 \T1/phv/m/n/12 20: 402--409, URL [][]$\T1/cmtt/m/n/12 http : / / www . scienced
 irect . com / science / article / pii /
  []
@@ -4296,8 +4386,8 @@ pdfTeX warning (ext4): destination with the same identifier (name{cite.zhang201
 3comparative}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.726   et~al.}]{zhang2013comparative}
-                                      ) [80] (./ch2-time-appendix.tex
+l.757   et~al.}]{zhang2013comparative}
+                                      ) [82] (./ch2-time-appendix.tex
 Appendix \textsc {a}.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
@@ -4307,14 +4397,14 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\new@ifnextchar' on input line 1.
 
-[81
+[83
 
 
 ]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[82]) (./ch3-longevity-appendix.tex [83]
+[84]) (./ch3-longevity-appendix.tex [85]
 Appendix \textsc {b}.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
@@ -4324,7 +4414,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\new@ifnextchar' on input line 1.
 
-[84
+[86
 
 ]
 Overfull \hbox (149.36691pt too wide) in paragraph at lines 30--31
@@ -4350,7 +4440,7 @@ Overfull \hbox (63.13416pt too wide) in paragraph at lines 31--32
 sionally/infrequently/rarely
  []
 
-[85]
+[87]
 Overfull \hbox (109.57605pt too wide) in paragraph at lines 42--43
 []\T1/phv/b/n/12 Fossorial\T1/phv/m/n/12 : fos-so-rial, lives in bur-rows and r
 arely leaves them, mainly/predominantly/mostly/generally
@@ -4380,7 +4470,7 @@ Overfull \hbox (30.85367pt too wide) in paragraph at lines 44--45
 orial and of-ten/frequently
  []
 
-<ch3-longevity-appendix/Table_B1.pdf, id=2373, 597.23125pt x 845.1575pt>
+<ch3-longevity-appendix/Table_B1.pdf, id=2412, 597.23125pt x 845.1575pt>
 File: ch3-longevity-appendix/Table_B1.pdf Graphic file (type pdf)
 
 <use ch3-longevity-appendix/Table_B1.pdf>
@@ -4391,7 +4481,7 @@ Package pdftex.def Info: ch3-longevity-appendix/Table_B1.pdf used on input line
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<ch3-longevity-appendix/Table_B2.pdf, id=2374, 597.50829pt x 241.84856pt>
+<ch3-longevity-appendix/Table_B2.pdf, id=2413, 597.50829pt x 241.84856pt>
 File: ch3-longevity-appendix/Table_B2.pdf Graphic file (type pdf)
 
 <use ch3-longevity-appendix/Table_B2.pdf>
@@ -4402,7 +4492,7 @@ Package pdftex.def Info: ch3-longevity-appendix/Table_B2.pdf used on input line
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<ch3-longevity-appendix/Table_B3.pdf, id=2375, 597.50829pt x 369.8859pt>
+<ch3-longevity-appendix/Table_B3.pdf, id=2414, 597.50829pt x 369.8859pt>
 File: ch3-longevity-appendix/Table_B3.pdf Graphic file (type pdf)
 
 <use ch3-longevity-appendix/Table_B3.pdf>
@@ -4413,7 +4503,7 @@ Package pdftex.def Info: ch3-longevity-appendix/Table_B3.pdf used on input line
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<ch3-longevity-appendix/Table_B4.pdf, id=2376, 597.50829pt x 369.8859pt>
+<ch3-longevity-appendix/Table_B4.pdf, id=2415, 597.50829pt x 369.8859pt>
 File: ch3-longevity-appendix/Table_B4.pdf Graphic file (type pdf)
 
 <use ch3-longevity-appendix/Table_B4.pdf>
@@ -4424,7 +4514,7 @@ Package pdftex.def Info: ch3-longevity-appendix/Table_B4.pdf used on input line
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<ch3-longevity-appendix/Table_B5.pdf, id=2377, 597.50829pt x 369.8859pt>
+<ch3-longevity-appendix/Table_B5.pdf, id=2416, 597.50829pt x 369.8859pt>
 File: ch3-longevity-appendix/Table_B5.pdf Graphic file (type pdf)
 
 <use ch3-longevity-appendix/Table_B5.pdf>
@@ -4435,7 +4525,7 @@ Package pdftex.def Info: ch3-longevity-appendix/Table_B5.pdf used on input line
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<ch3-longevity-appendix/Table_B6.pdf, id=2378, 597.50829pt x 369.8859pt>
+<ch3-longevity-appendix/Table_B6.pdf, id=2417, 597.50829pt x 369.8859pt>
 File: ch3-longevity-appendix/Table_B6.pdf Graphic file (type pdf)
 
 <use ch3-longevity-appendix/Table_B6.pdf>
@@ -4451,10 +4541,10 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 Package natbib Warning: There were multiply defined citations.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 113.
-[86] [87 <./ch3-longevity-appendix/Table_B1.pdf>] [88 <./ch3-longevity-appendix
-/Table_B2.pdf>] [89 <./ch3-longevity-appendix/Table_B3.pdf>] [90 <./ch3-longevi
-ty-appendix/Table_B4.pdf>] [91 <./ch3-longevity-appendix/Table_B5.pdf>]
-[92 <./ch3-longevity-appendix/Table_B6.pdf>]
+[88] [89 <./ch3-longevity-appendix/Table_B1.pdf>] [90 <./ch3-longevity-appendix
+/Table_B2.pdf>] [91 <./ch3-longevity-appendix/Table_B3.pdf>] [92 <./ch3-longevi
+ty-appendix/Table_B4.pdf>] [93 <./ch3-longevity-appendix/Table_B5.pdf>]
+[94 <./ch3-longevity-appendix/Table_B6.pdf>]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 113.
  (./thesis.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 113.
@@ -4470,13 +4560,13 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 20176 strings out of 493315
- 332202 string characters out of 6137904
- 453895 words of memory out of 5000000
- 22861 multiletter control sequences out of 15000+600000
+ 20200 strings out of 493315
+ 332741 string characters out of 6137904
+ 454268 words of memory out of 5000000
+ 22876 multiletter control sequences out of 15000+600000
  72562 words of font info for 69 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 44i,12n,75p,1928b,745s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,12n,75p,1928b,741s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
 {/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/tex
 live/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texl
@@ -4487,10 +4577,10 @@ f-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2013/texmf-dist/
 fonts/type1/urw/helvetic/uhvro8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/
 type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/u
 rw/palatino/uplri8a.pfb>
-Output written on thesis.pdf (102 pages, 5767899 bytes).
+Output written on thesis.pdf (104 pages, 5777831 bytes).
 PDF statistics:
- 2733 PDF objects out of 2984 (max. 8388607)
- 2172 compressed objects within 22 object streams
- 342 named destinations out of 1000 (max. 500000)
+ 2775 PDF objects out of 2984 (max. 8388607)
+ 2211 compressed objects within 23 object streams
+ 351 named destinations out of 1000 (max. 500000)
  12714 words of extra memory for PDF output out of 14400 (max. 10000000)
 
