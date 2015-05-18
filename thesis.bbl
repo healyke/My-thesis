@@ -1,4 +1,4 @@
-\begin{thebibliography}{156}
+\begin{thebibliography}{162}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{{\tt #1}}\fi
@@ -120,6 +120,12 @@ Clark RW, Tangco S, Barbour MA (2012) Field video recordings reveal factors
   influencing predatory strike success of free-ranging rattlesnakes (Crotalus
   spp.). Animal Behaviour 84: 183--190.
 
+\bibitem[{Couzin et~al.(2002)Couzin, Krause, James, Ruxton, and
+  Franks}]{couzin2002collective}
+Couzin I, Krause J, James R, Ruxton G, Franks N (2002) The collective behaviour
+  of animal groups in three dimensional space. Journal of Theoretical Biology
+  218: 1--11.
+
 \bibitem[{Cramp(1977)}]{cramp1977handbook}
 Cramp S (1977) Handbook of the birds of Europe, the Middle East, and North
   Africa: the birds of the western Palearctic. Vol. 1, Ostrich to ducks. Oxford
@@ -163,9 +169,19 @@ Depczynski M, Bellwood DR (2005) Shortest recorded vertebrate lifespan found in
 Dessing JC, Craig CM (2010) Bending it like Beckham: how to visually fool the
   goalkeeper. PLoS One 5: e13161.
 
+\bibitem[{Domenici and Blake(1997)}]{domenici1997kinematics}
+Domenici P, Blake R (1997) The kinematics and performance of fish fast-start
+  swimming. Journal of Experimental Biology 200: 1165--1178.
+
 \bibitem[{Dudley(2002)}]{dudley2002mechanisms}
 Dudley R (2002) Mechanisms and implications of animal flight maneuverability.
   Integrative and Comparative Biology 42: 135--140.
+
+\bibitem[{Faria et~al.(2010)Faria, Dyer, Cl{\'e}ment, Couzin, Holt
+  et~al.}]{faria2010novel}
+Faria JJ, Dyer JR, Cl{\'e}ment RO, Couzin ID, Holt N, et~al. (2010) A novel
+  method for investigating the collective behaviour of fish: introducing
+  ‘Robofish’. Behavioral Ecology and Sociobiology 64: 1211--1218.
 
 \bibitem[{Faulkes et~al.(2015)Faulkes, Davies, Rossiter, and
   Bennett}]{faulkes2015molecular}
@@ -176,6 +192,10 @@ Faulkes CG, Davies KT, Rossiter SJ, Bennett NC (2015) Molecular evolution of
 \bibitem[{Ferry(1892)}]{ferry1892persistence}
 Ferry ES (1892) Persistence of vision. American Journal of Science pp.
   192--207.
+
+\bibitem[{Floreano and Keller(2010)}]{floreano2010evolution}
+Floreano D, Keller L (2010) Evolution of adaptive behaviour in robots by means
+  of Darwinian selection. PLoS biology 8: e1000292.
 
 \bibitem[{Folkow et~al.(2004)Folkow, Nord{\o}y, and
   Blix}]{folkow2004distribution}
@@ -311,6 +331,11 @@ Hossie TJ, Hassall C, Knee W, Sherratt TN (2013) Species with a chemical
   defence, but not chemical offence, live longer. Journal of evolutionary
   biology 26: 1598--1602.
 
+\bibitem[{Howland(1974)}]{howland1974optimal}
+Howland HC (1974) Optimal strategies for predator avoidance: the relative
+  importance of speed and manoeuvrability. Journal of theoretical Biology 47:
+  333--350.
+
 \bibitem[{Howland et~al.(2004)Howland, Merola, and
   Basarab}]{howland2004allometry}
 Howland HC, Merola S, Basarab JR (2004) The allometry and scaling of the size
@@ -390,6 +415,9 @@ Landgren E, Fritsches K, Brill R, Warrant E (2014) The visual ecology of a
   deep-sea fish, the escolar Lepidocybium flavobrunneum (Smith, 1843).
   Philosophical Transactions of the Royal Society B: Biological Sciences 369:
   20130039.
+
+\bibitem[{Lauder(2001)}]{lauder2001aerodynamics}
+Lauder GV (2001) Aerodynamics: Flight of the robofly. Nature 412: 688--689.
 
 \bibitem[{Laughlin and Weckstr{\"o}m(1993)}]{laughlin1993fast}
 Laughlin S, Weckstr{\"o}m M (1993) Fast and slow photoreceptors—a comparative
