@@ -14,6 +14,7 @@
 \usepackage{float}
 \usepackage{setspace} % new addition
 \usepackage[export]{adjustbox}
+\usepackage{wrapfig}
 
 \usepackage{geometry} % new addition 
  \geometry{
@@ -24,6 +25,14 @@
  top=20mm,
  bottom=20mm,
  }
+
+
+ \usepackage{caption}
+\DeclareCaptionLabelFormat{onlyname}{#1}
+\captionsetup{labelformat=onlyname,labelsep=period}
+\usepackage{sidecap}
+
+\captionsetup[figure]{name={}}
 
 
 \renewcommand*{\familydefault}{\sfdefault} %% I changed the font
@@ -49,7 +58,6 @@
 \newcommand{\nmax}{\ensuremath{n_\mathrm{max}}}
 
 \usepackage{natbib}
-
 
 %Information for the title page
 %Some of this is hard coded in mythesis.cls but you can over write if you need to

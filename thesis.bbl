@@ -1,4 +1,4 @@
-\begin{thebibliography}{162}
+\begin{thebibliography}{168}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{{\tt #1}}\fi
@@ -119,6 +119,9 @@ Chatterjee S, Templin RJ, Campbell KE (2007) The aerodynamics of Argentavis,
 Clark RW, Tangco S, Barbour MA (2012) Field video recordings reveal factors
   influencing predatory strike success of free-ranging rattlesnakes (Crotalus
   spp.). Animal Behaviour 84: 183--190.
+
+\bibitem[{Cohen et~al.(1990)Cohen, Briand, and Newman}]{cohen1990community}
+Cohen JE, Briand F, Newman CM (1990) Community food webs: data and theory.
 
 \bibitem[{Couzin et~al.(2002)Couzin, Krause, James, Ruxton, and
   Franks}]{couzin2002collective}
@@ -311,6 +314,10 @@ Heglund NC, Taylor CR (1988) Speed, stride frequency and energy cost per
   stride: how do they change with body size and gait? Journal of Experimental
   Biology 138: 301--318.
 
+\bibitem[{Heim et~al.(2015)Heim, Knope, Schaal, Wang, and Payne}]{heim2015cope}
+Heim NA, Knope ML, Schaal EK, Wang SC, Payne JL (2015) Cope’s rule in the
+  evolution of marine animals. Science 347: 867--870.
+
 \bibitem[{Holmes and Ottinger(2003)}]{holmes2003birds}
 Holmes D, Ottinger M (2003) Birds as long-lived animal models for the study of
   aging. Experimental gerontology 38: 1365--1375.
@@ -390,6 +397,9 @@ Kalinoski M, Hirons A, Horodysky A, Brill R (2014) Spectral sensitivity,
 \bibitem[{Keller and Genoud(1997)}]{keller1997extraordinary}
 Keller L, Genoud M (1997) Extraordinary lifespans in ants: a test of
   evolutionary theories of ageing. Nature 389: 958--960.
+
+\bibitem[{Kleiber(1947)}]{kleiber1947body}
+Kleiber M (1947) Body size and metabolic rate. Physiol rev 27: 511--541.
 
 \bibitem[{Kooijman(2009)}]{kooijman2009dynamic}
 Kooijman SALM (2009) Dynamic energy budget theory for metabolic organisation.
@@ -500,6 +510,12 @@ Moorad JA, Promislow DE (2010) Evolution: aging up a tree? Current Biology 20:
 Morgenstern D, King GF (2013) The venom optimization hypothesis revisited.
   Toxicon 63: 120--128.
 
+\bibitem[{Morse et~al.(1985)Morse, Lawton, Dodson, Williamson
+  et~al.}]{morse1985fractal}
+Morse D, Lawton J, Dodson M, Williamson M, et~al. (1985) Fractal dimension of
+  vegetation and the distribution of arthropod body lengths. Nature 314:
+  731--733.
+
 \bibitem[{Murphy et~al.(2007)Murphy, Pringle, Crider, Springer, and
   Miller}]{murphy2007using}
 Murphy WJ, Pringle TH, Crider TA, Springer MS, Miller W (2007) Using genomic
@@ -554,6 +570,10 @@ Pawar S, Dell AI, Savage VM (2012) Dimensionality of consumer search space
   et~al.}]{perelman2011molecular}
 Perelman P, Johnson WE, Roos C, Seu{\'a}nez HN, Horvath JE, et~al. (2011) A
   molecular phylogeny of living primates. PLoS genetics 7: e1001342.
+
+\bibitem[{Pimm(1984)}]{pimm1984complexity}
+Pimm SL (1984) The complexity and stability of ecosystems. Nature 307:
+  321--326.
 
 \bibitem[{Pintor et~al.(2010)Pintor, Krockenberger, and
   Seymour}]{pintor2010costs}
@@ -732,6 +752,10 @@ Watanabe YY, Lydersen C, Fisk AT, Kovacs KM (2012) The slowest fish: swim speed
 Wegner NC, Snodgrass OE, Dewar H, Hyde JR (2015) Whole-body endothermy in a
   mesopelagic fish, the opah, Lampris guttatus. Science 348: 786--789,
   \urlprefix\url{http://www.sciencemag.org/content/348/6236/786.abstract}.
+
+\bibitem[{West et~al.(1997)West, Brown, and Enquist}]{west1997general}
+West GB, Brown JH, Enquist BJ (1997) A general model for the origin of
+  allometric scaling laws in biology. Science 276: 122--126.
 
 \bibitem[{White et~al.(2006)White, Phillips, and Seymour}]{white2006scaling}
 White CR, Phillips NF, Seymour RS (2006) The scaling and temperature dependence
