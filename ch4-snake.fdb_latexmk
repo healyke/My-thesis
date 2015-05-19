@@ -1,13 +1,14 @@
 # Fdb version 3
-["bibtex ch4-snake"] 1431266669 "ch4-snake.aux" "ch4-snake.bbl" "ch4-snake" 1431266670
-  "ch4-snake.aux" 1431266668 8 a94a2480d3289e625eea47cd1b285758 ""
+["bibtex ch4-snake"] 1431266669 "ch4-snake.aux" "ch4-snake.bbl" "ch4-snake" 1432036152
+  "ch4-snake.aux" 1431359495 8 a94a2480d3289e625eea47cd1b285758 ""
   "ch4-snake.bcf" 0 -1 0 ""
   (generated)
   "ch4-snake.bbl"
-["pdflatex"] 1431266669 "ch4-snake.tex" "ch4-snake.pdf" "ch4-snake" 1431266670
-  "ch4-snake.aux" 1431266668 8 a94a2480d3289e625eea47cd1b285758 ""
-  "ch4-snake.bbl" 1431266669 0 d41d8cd98f00b204e9800998ecf8427e "bibtex ch4-snake"
-  "ch4-snake.tex" 1431266657 4705 19d4b2fba5832568b93fcf8b22bcdc46 ""
+  "ch4-snake.blg"
+["pdflatex"] 1432036149 "ch4-snake.tex" "ch4-snake.pdf" "ch4-snake" 1432036152
+  "ch4-snake.aux" 1431359495 8 a94a2480d3289e625eea47cd1b285758 ""
+  "ch4-snake.bbl" 1431359495 0 d41d8cd98f00b204e9800998ecf8427e "bibtex ch4-snake"
+  "ch4-snake.tex" 1432035840 29389 eaebd08949628f0098492b7364b892eb ""
   (generated)
   "ch4-snake.log"
   "ch4-snake.pdf"

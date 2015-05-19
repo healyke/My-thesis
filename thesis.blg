@@ -2,22 +2,6 @@ This is BibTeX, Version 0.99d (TeX Live 2013)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: thesis.aux
 The style file: PLoS-Biology.bst
-Illegal, another \bibstyle command---line 275 of file thesis.aux
- : \bibstyle
- :          {PLoS-Biology}
-I'm skipping whatever remains of this command
-Illegal, another \bibdata command---line 276 of file thesis.aux
- : \bibdata
- :         {bibfile}
-I'm skipping whatever remains of this command
-Illegal, another \bibstyle command---line 302 of file thesis.aux
- : \bibstyle
- :          {PLoS-Biology}
-I'm skipping whatever remains of this command
-Illegal, another \bibdata command---line 303 of file thesis.aux
- : \bibdata
- :         {bibfile}
-I'm skipping whatever remains of this command
 Database file #1: bibfile.bib
 Repeated entry---line 792 of file bibfile.bib
  : @article{folkow2004distribution
@@ -70,4 +54,4 @@ warning$ -- 1
 while$ -- 1397
 width$ -- 0
 write$ -- 1838
-(There were 6 error messages)
+(There were 2 error messages)
