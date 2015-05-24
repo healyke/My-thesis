@@ -1,4 +1,4 @@
-\begin{thebibliography}{168}
+\begin{thebibliography}{181}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{{\tt #1}}\fi
@@ -87,10 +87,6 @@ Brown JW, Rest JS, Garc{\'\i}a-Moreno J, Sorenson MD, Mindell DP (2008) Strong
 Buffenstein R, Jarvis JU (2002) The naked mole rat--a new record for the oldest
   living rodent. Science's SAGE KE 2002: 7.
 
-\bibitem[{Burnham and Anderson(2002)}]{burnham2002model}
-Burnham KP, Anderson DR (2002) Model selection and multimodel inference: a
-  practical information-theoretic approach. Springer Science \& Business Media.
-
 \bibitem[{Caldwell et~al.(2015)Caldwell, Nydam, Palci, and
   Apestegu{\'\i}a}]{caldwell2015oldest}
 Caldwell MW, Nydam RL, Palci A, Apestegu{\'\i}a S (2015) The oldest known
@@ -115,10 +111,19 @@ Chatterjee S, Templin RJ, Campbell KE (2007) The aerodynamics of Argentavis,
   the world's largest flying bird from the Miocene of Argentina. Proceedings of
   the National Academy of Sciences 104: 12398--12403.
 
+\bibitem[{Chippaux et~al.(1991)Chippaux, Williams, and
+  White}]{chippaux1991snake}
+Chippaux JP, Williams V, White J (1991) Snake venom variability: methods of
+  study, results and interpretation. Toxicon 29: 1279--1303.
+
 \bibitem[{Clark et~al.(2012)Clark, Tangco, and Barbour}]{clark2012field}
 Clark RW, Tangco S, Barbour MA (2012) Field video recordings reveal factors
   influencing predatory strike success of free-ranging rattlesnakes (Crotalus
   spp.). Animal Behaviour 84: 183--190.
+
+\bibitem[{Cohen(1995)}]{cohen1995marine}
+Cohen J (1995) Marine and continental food webs: three paradoxes? Oceanographic
+  Literature Review 12: 1094.
 
 \bibitem[{Cohen et~al.(1990)Cohen, Briand, and Newman}]{cohen1990community}
 Cohen JE, Briand F, Newman CM (1990) Community food webs: data and theory.
@@ -160,9 +165,9 @@ De~Magalh{\~a}es JP, Costa J, Church GM (2007) An analysis of the relationship
   independent contrasts. The Journals of Gerontology Series A: Biological
   Sciences and Medical Sciences 62: 149--160.
 
-\bibitem[{D'EATH(1998)}]{d1998can}
-D'EATH RB (1998) Can video images imitate real stimuli in animal behaviour
-  experiments? Biological Reviews 73: 267--292.
+\bibitem[{D'Eath(1998)}]{d1998can}
+D'Eath B Richard (1998) Can video images imitate real stimuli in animal
+  behaviour experiments? Biological Reviews 73: 267--292.
 
 \bibitem[{Depczynski and Bellwood(2005)}]{depczynski2005shortest}
 Depczynski M, Bellwood DR (2005) Shortest recorded vertebrate lifespan found in
@@ -247,6 +252,11 @@ Garamszegi LZ, M{\o}ller AP, Erritz{\o}e J (2002) Coevolving avian eye size and
   brain size in relation to prey capture and nocturnality. Proceedings of the
   Royal Society of London B: Biological Sciences 269: 961--967.
 
+\bibitem[{Gee and Warwick(1994)}]{gee1994body}
+Gee JM, Warwick RM (1994) Body-size distribution in a marine metazoan community
+  and the fractal dimensions of macroalgae. Journal of Experimental Marine
+  Biology and Ecology 178: 247--259.
+
 \bibitem[{Gelman and Rubin(1992)}]{gelman1992inference}
 Gelman A, Rubin DB (1992) Inference from iterative simulation using multiple
   sequences. Statistical science pp. 457--472.
@@ -258,6 +268,14 @@ Gilbert C (1997) Visual control of cursorial prey pursuit by tiger beetles
 \bibitem[{Greene(1997)}]{greene1997snakes}
 Greene HW (1997) Snakes: the evolution of mystery in nature. Univ of California
   Press.
+
+\bibitem[{Guillerme and Healy(2014)}]{MulTree}
+Guillerme T, Healy K (2014) mulTree: a package for running MCMCglmm analysis on
+  multiple trees. \urlprefix\url{doi:10.5281/zenodo.12902}.
+
+\bibitem[{Gunnarsson(1992)}]{gunnarsson1992fractal}
+Gunnarsson B (1992) Fractal dimension of plants and body size distribution in
+  spiders. Functional Ecology pp. 636--641.
 
 \bibitem[{Haddock et~al.(2005)Haddock, Dunn, Pugh, and
   Schnitzler}]{haddock2005bioluminescent}
@@ -284,8 +302,8 @@ Harte J, Zillio T, Conlisk E, Smith A (2008) Maximum entropy and the
 Harvey PH, Pagel MD (1991) The comparative method in evolutionary biology, vol.
   239. Oxford university press Oxford.
 
-\bibitem[{HAYES(1995)}]{hayes1995venom}
-HAYES WK (1995) Venom metering by juvenile prairie rattlesnakes, Crotalus v.
+\bibitem[{Hayes(1995)}]{hayes1995venom}
+Hayes WK (1995) Venom metering by juvenile prairie rattlesnakes, Crotalus v.
   viridis: effects of prey size and experience. Animal Behaviour 50: 33--40.
 
 \bibitem[{Healy et~al.(2014)Healy, Guillerme, Finlay, Kane, Kelly
@@ -317,6 +335,12 @@ Heglund NC, Taylor CR (1988) Speed, stride frequency and energy cost per
 \bibitem[{Heim et~al.(2015)Heim, Knope, Schaal, Wang, and Payne}]{heim2015cope}
 Heim NA, Knope ML, Schaal EK, Wang SC, Payne JL (2015) Cope’s rule in the
   evolution of marine animals. Science 347: 867--870.
+
+\bibitem[{Henderson and Magurran(2010)}]{henderson2010linking}
+Henderson PA, Magurran AE (2010) Linking species abundance distributions in
+  numerical abundance and biomass through simple assumptions about community
+  structure. Proceedings of the Royal Society B: Biological Sciences p.
+  rspb20092189.
 
 \bibitem[{Holmes and Ottinger(2003)}]{holmes2003birds}
 Holmes D, Ottinger M (2003) Birds as long-lived animal models for the study of
@@ -363,12 +387,21 @@ Hulbert A, Pamplona R, Buffenstein R, Buttemer W (2007) Life and death:
 Inger R, Bennie J, Davies TW, Gaston KJ (2014) Potential biological and
   ecological effects of flickering artificial light. PloS one 9: e98631.
 
+\bibitem[{Isaac and Carbone(2010)}]{isaac2010metabolic}
+Isaac NJ, Carbone C (2010) Why are metabolic scaling exponents so
+  controversial? Quantifying variance and testing hypotheses. Ecology Letters
+  13: 728--735.
+
 \bibitem[{J{\'a}nossy(2011)}]{janossy2011pleistocene}
 J{\'a}nossy D (2011) Pleistocene vertebrate faunas of Hungary. Elsevier.
 
 \bibitem[{Jansa and Voss(2011)}]{jansa2011adaptive}
 Jansa SA, Voss RS (2011) Adaptive evolution of the venom-targeted vWF protein
   in opossums that eat pitvipers. PLoS One 6: e20997.
+
+\bibitem[{Jeffries(1993)}]{jeffries1993invertebrate}
+Jeffries M (1993) Invertebrate colonization of artificial pondweeds of
+  differing fractal dimension. Oikos pp. 142--148.
 
 \bibitem[{Jetz et~al.(2012)Jetz, Thomas, Joy, Hartmann, and
   Mooers}]{jetz2012global}
@@ -397,6 +430,14 @@ Kalinoski M, Hirons A, Horodysky A, Brill R (2014) Spectral sensitivity,
 \bibitem[{Keller and Genoud(1997)}]{keller1997extraordinary}
 Keller L, Genoud M (1997) Extraordinary lifespans in ants: a test of
   evolutionary theories of ageing. Nature 389: 958--960.
+
+\bibitem[{Kenkel and Walker(1996)}]{kenkel1996fractals}
+Kenkel N, Walker D (1996) Fractals in the biological sciences. Coenoses 11:
+  77--100.
+
+\bibitem[{Kiltie(2000)}]{kiltie2000scaling}
+Kiltie R (2000) Scaling of visual acuity with body size in mammals and birds.
+  Functional Ecology 14: 226--234.
 
 \bibitem[{Kleiber(1947)}]{kleiber1947body}
 Kleiber M (1947) Body size and metabolic rate. Physiol rev 27: 511--541.
@@ -486,6 +527,13 @@ Makarieva AM, Gorshkov VG, Li BL, Chown SL, Reich PB, et~al. (2008) Mean
 \bibitem[{McCue(2006)}]{mccue2006cost}
 McCue MD (2006) Cost of producing venom in three North American pitviper
   species. Journal Information 2006.
+
+\bibitem[{McGill and Mittelbach(2006)}]{mcgill2006allometric}
+McGill BJ, Mittelbach GG (2006) An allometric vision and motion model to
+  predict prey encounter rates. Evolutionary Ecology Research 8: 691--701.
+
+\bibitem[{Mebs(2001)}]{mebs2001toxicity}
+Mebs D (2001) Toxicity in animals. Trends in evolution? Toxicon 39: 87--96.
 
 \bibitem[{Mercer and Roth(2003)}]{mercer2003effects}
 Mercer JM, Roth VL (2003) The effects of Cenozoic global change on squirrel
@@ -659,6 +707,10 @@ Rubene D, H{\aa}stad O, Tauson R, Wall H, {\"O}deen A (2010) The presence of UV
   wavelengths improves the temporal resolution of the avian visual system. The
   Journal of experimental biology 213: 3357--3363.
 
+\bibitem[{Sasa(1999)}]{sasa1999diet}
+Sasa M (1999) Diet and snake venom evolution: can local selection alone explain
+  intraspecific venom variation? TOXICON-OXFORD- 37: 249--252.
+
 \bibitem[{Sato et~al.(2007)Sato, Watanuki, Takahashi, Miller, Tanaka
   et~al.}]{sato2007stroke}
 Sato K, Watanuki Y, Takahashi A, Miller PJ, Tanaka H, et~al. (2007) Stroke
@@ -683,6 +735,12 @@ Shattuck MR, Williams SA (2010) Arboreality has allowed for the evolution of
 \bibitem[{Shine and Schwaner(1985)}]{shine1985prey}
 Shine R, Schwaner T (1985) Prey constriction by venomous snakes: a review, and
   new data on Australian species. Copeia pp. 1067--1071.
+
+\bibitem[{Shorrocks et~al.(1991)Shorrocks, Marsters, Ward, and
+  Evennett}]{shorrocks1991fractal}
+Shorrocks B, Marsters J, Ward I, Evennett P (1991) The fractal dimension of
+  lichens and the distribution of arthropod body lengths. Functional Ecology
+  pp. 457--460.
 
 \bibitem[{Sibly et~al.(2012)Sibly, Brown, and
   Kodric-Brown}]{sibly2012metabolic}

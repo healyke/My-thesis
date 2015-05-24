@@ -6,49 +6,49 @@
 \contentsline {chapter}{Acknowledgements}{ix}{chapter*.7}
 \contentsline {chapter}{\numberline {1}General Introduction}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}\uppercase {R}esearch outline}{3}{section.1.1}
-\contentsline {section}{\numberline {1.2}\uppercase {A}dditional work}{4}{section.1.2}
-\contentsline {chapter}{\numberline {2}Temporal perception, body size and metabolic rate}{6}{chapter.2}
-\contentsline {section}{\numberline {2.1}Summary}{6}{section.2.1}
-\contentsline {section}{\numberline {2.2}Introduction}{7}{section.2.2}
-\contentsline {section}{\numberline {2.3}Methods}{9}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}Data Collection}{9}{subsection.2.3.1}
-\contentsline {subsection}{\numberline {2.3.2}Statistical Analyses}{12}{subsection.2.3.2}
-\contentsline {section}{\numberline {2.4}Results}{13}{section.2.4}
-\contentsline {section}{\numberline {2.5}Discussion}{13}{section.2.5}
-\contentsline {chapter}{\numberline {3}Lifespan evolution in endotherms}{19}{chapter.3}
-\contentsline {section}{\numberline {3.1}Summary}{19}{section.3.1}
-\contentsline {section}{\numberline {3.2}Introduction}{20}{section.3.2}
-\contentsline {section}{\numberline {3.3}Materials and Methods}{22}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Data}{22}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}Analyses}{24}{subsection.3.3.2}
-\contentsline {section}{\numberline {3.4}Results}{25}{section.3.4}
-\contentsline {section}{\numberline {3.5}Discussion}{28}{section.3.5}
-\contentsline {chapter}{\numberline {4}Evolution of venom loss in snakes}{33}{chapter.4}
-\contentsline {section}{\numberline {4.1}Summary}{33}{section.4.1}
-\contentsline {section}{\numberline {4.2}Introduction}{34}{section.4.2}
-\contentsline {section}{\numberline {4.3}Materials and Methods}{37}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}Data}{37}{subsection.4.3.1}
-\contentsline {subsection}{\numberline {4.3.2}Analyses}{39}{subsection.4.3.2}
-\contentsline {section}{\numberline {4.4}Results}{40}{section.4.4}
-\contentsline {section}{\numberline {4.5}Discussion}{41}{section.4.5}
-\contentsline {chapter}{\numberline {5}Discussion}{46}{chapter.5}
-\contentsline {section}{\numberline {5.1}Considering dimensions}{46}{section.5.1}
-\contentsline {section}{\numberline {5.2}\uppercase {F}uture directions}{47}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}Comparative methods}{47}{subsection.5.2.1}
-\contentsline {subsection}{\numberline {5.2.2}Other approaches}{48}{subsection.5.2.2}
-\contentsline {chapter}{Bibliography}{51}{chapter*.31}
-\contentsline {chapter}{Appendices}{64}{section*.32}
-\contentsline {chapter}{\numberline {\textsc {a}}Supplementary Information to \Chapref {CFF}}{64}{appendix.A}
-\contentsline {section}{\numberline {\textsc {a}.1}Phylogeny reconstruction}{64}{section.A.1}
-\contentsline {section}{\numberline {\textsc {a}.2}Sensitivity analyses}{65}{section.A.2}
-\contentsline {subsection}{\numberline {\textsc {a}.2.1}Ectotherm temperature sensitivity}{65}{subsection.A.2.1}
-\contentsline {subsection}{\numberline {\textsc {a}.2.2}Brain Mass analysis}{65}{subsection.A.2.2}
-\contentsline {chapter}{\numberline {\textsc {b}}Supplementary Information to \Chapref {Longevity}}{67}{appendix.B}
-\contentsline {section}{\numberline {\textsc {b}.1}Additional details of data collection and sources}{67}{section.B.1}
-\contentsline {subsection}{\numberline {\textsc {b}.1.1}Flight capability}{67}{subsection.B.1.1}
-\contentsline {subsection}{\numberline {\textsc {b}.1.2}Activity period}{67}{subsection.B.1.2}
-\contentsline {subsection}{\numberline {\textsc {b}.1.3}Foraging environment}{68}{subsection.B.1.3}
-\contentsline {subsection}{\numberline {\textsc {b}.1.4}Fossoriality}{69}{subsection.B.1.4}
-\contentsline {subsection}{\numberline {\textsc {b}.1.5}Chronogram calibration diagnosis}{69}{subsection.B.1.5}
-\contentsline {section}{\numberline {\textsc {b}.2}Supplementary tables}{69}{section.B.2}
+\contentsline {section}{\numberline {1.2}\uppercase {A}dditional work}{6}{section.1.2}
+\contentsline {chapter}{\numberline {2}Temporal perception, body size and metabolic rate}{7}{chapter.2}
+\contentsline {section}{\numberline {2.1}Summary}{7}{section.2.1}
+\contentsline {section}{\numberline {2.2}Introduction}{8}{section.2.2}
+\contentsline {section}{\numberline {2.3}Methods}{11}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Data Collection}{11}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Statistical Analyses}{13}{subsection.2.3.2}
+\contentsline {section}{\numberline {2.4}Results}{16}{section.2.4}
+\contentsline {section}{\numberline {2.5}Discussion}{17}{section.2.5}
+\contentsline {chapter}{\numberline {3}Lifespan evolution in endotherms}{21}{chapter.3}
+\contentsline {section}{\numberline {3.1}Summary}{21}{section.3.1}
+\contentsline {section}{\numberline {3.2}Introduction}{22}{section.3.2}
+\contentsline {section}{\numberline {3.3}Materials and Methods}{24}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Data}{24}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Analyses}{26}{subsection.3.3.2}
+\contentsline {section}{\numberline {3.4}Results}{28}{section.3.4}
+\contentsline {section}{\numberline {3.5}Discussion}{32}{section.3.5}
+\contentsline {chapter}{\numberline {4}Evolution of venom loss in snakes}{36}{chapter.4}
+\contentsline {section}{\numberline {4.1}Summary}{36}{section.4.1}
+\contentsline {section}{\numberline {4.2}Introduction}{37}{section.4.2}
+\contentsline {section}{\numberline {4.3}Materials and Methods}{40}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Data}{40}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Analyses}{42}{subsection.4.3.2}
+\contentsline {section}{\numberline {4.4}Results}{43}{section.4.4}
+\contentsline {section}{\numberline {4.5}Discussion}{49}{section.4.5}
+\contentsline {chapter}{\numberline {5}Discussion}{52}{chapter.5}
+\contentsline {section}{\numberline {5.1}Considering dimensions}{52}{section.5.1}
+\contentsline {section}{\numberline {5.2}\uppercase {F}uture directions}{53}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Comparative methods}{53}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Other approaches}{54}{subsection.5.2.2}
+\contentsline {chapter}{Bibliography}{57}{chapter*.31}
+\contentsline {chapter}{Appendices}{71}{section*.32}
+\contentsline {chapter}{\numberline {\textsc {a}}Supplementary Information to \Chapref {CFF}}{71}{appendix.A}
+\contentsline {section}{\numberline {\textsc {a}.1}Phylogeny reconstruction}{71}{section.A.1}
+\contentsline {section}{\numberline {\textsc {a}.2}Sensitivity analyses}{72}{section.A.2}
+\contentsline {subsection}{\numberline {\textsc {a}.2.1}Ectotherm temperature sensitivity}{72}{subsection.A.2.1}
+\contentsline {subsection}{\numberline {\textsc {a}.2.2}Brain Mass analysis}{72}{subsection.A.2.2}
+\contentsline {chapter}{\numberline {\textsc {b}}Supplementary Information to \Chapref {Longevity}}{74}{appendix.B}
+\contentsline {section}{\numberline {\textsc {b}.1}Additional details of data collection and sources}{74}{section.B.1}
+\contentsline {subsection}{\numberline {\textsc {b}.1.1}Flight capability}{74}{subsection.B.1.1}
+\contentsline {subsection}{\numberline {\textsc {b}.1.2}Activity period}{74}{subsection.B.1.2}
+\contentsline {subsection}{\numberline {\textsc {b}.1.3}Foraging environment}{75}{subsection.B.1.3}
+\contentsline {subsection}{\numberline {\textsc {b}.1.4}Fossoriality}{76}{subsection.B.1.4}
+\contentsline {subsection}{\numberline {\textsc {b}.1.5}Chronogram calibration diagnosis}{76}{subsection.B.1.5}
+\contentsline {section}{\numberline {\textsc {b}.2}Supplementary tables}{76}{section.B.2}
 \contentsfinish 

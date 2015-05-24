@@ -1,7 +1,14 @@
 # Fdb version 3
-["pdflatex"] 1432047728 "ch1-introduction.tex" "ch1-introduction.pdf" "ch1-introduction" 1432047729
+["bibtex ch1-introduction"] 1432311746 "ch1-introduction.aux" "ch1-introduction.bbl" "ch1-introduction" 1432337455
   "ch1-introduction.aux" 1432047728 8 a94a2480d3289e625eea47cd1b285758 ""
-  "ch1-introduction.tex" 1432047720 9091 cf4b48b84f0e10af97be263bb91d3427 ""
+  "ch1-introduction.bcf" 0 -1 0 ""
+  (generated)
+  "ch1-introduction.blg"
+  "ch1-introduction.bbl"
+["pdflatex"] 1432337455 "ch1-introduction.tex" "ch1-introduction.pdf" "ch1-introduction" 1432337455
+  "ch1-introduction.aux" 1432047728 8 a94a2480d3289e625eea47cd1b285758 ""
+  "ch1-introduction.bbl" 1432311746 0 d41d8cd98f00b204e9800998ecf8427e "bibtex ch1-introduction"
+  "ch1-introduction.tex" 1432312947 11411 548a33606b6fa498dff8df2827b73884 ""
   (generated)
   "ch1-introduction.log"
   "ch1-introduction.pdf"

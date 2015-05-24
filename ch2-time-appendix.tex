@@ -2,7 +2,7 @@
 \label{chap:Appendix A}
 \section{Phylogeny reconstruction}
 
-Divergence times and phylogenies from the literature were used to produce a composite phylogeny of the vertebrate species used in our analyses (Figure \ref{fig:Figure 2.}). For species with no available divergence dates based on molecular data or available published trees, conservatively estimated first appearance dates from the Paleobiology database (PBDB) were used as an estimate of divergence time \citep{alroy2008phanerozoic}. 
+Divergence times and phylogenies from the literature were used to produce a composite phylogeny of the vertebrate species used in our analyses (Figure \ref{fig:Figure 2.}). For species with no available divergence dates based on molecular data or available published trees, conservatively estimated first appearance dates from the Paleobiology database were used as an estimate of divergence time \citep{alroy2008phanerozoic}. 
 Divergence dates for the major groups Batoidea, Actinopterygii and Amphibia were taken from the TimeTree database \citep{hedges2006timetree}. For divergence dates of Carcharinus and Sphyna \cite{lim2010phylogeny} was used, while the divergence time between Negaprion brevirostris and Carcharchinus acrontus was estimated based on the first appearance in the fossil record of \textit{Negaprion brevirostris}, the younger of the of the two species (Negaprion spp - 40.3mya, Carcharchinus - 46.2). \cite{li2008optimal} were used to infer phylogenetic relationships and divergence times in Actinopterygii, and \cite{little2010evolutionary} was used for perciform divergence times. For divergence time between anopsids (turtles and birds) and suarapids (Squamata and Sphenodon) the estimation from \cite{benton2007paleontological} was use while \cite{perelman2011molecular} was used for the divergence and phylogenetic relationships among Squamata, Sphenodon, turtles and Aves. For divergence times within the Squamata \cite{wiens2006does} was used, while for turtle species I used \cite{naro2008evolutionary}. I used \cite{brown2008strong} for the Aves phylogeny with divergence times between Asio flammeus and Bubo virginianus estimated using an estimate of the first appearance \citep{janossy2011pleistocene}. \citep{murphy2007using} was used for divergence dates of mammalian orders, while for primates I used \cite{perelman2011molecular}. Rodent divergence times were taken from \cite{murphy2007using}.
 
 
@@ -14,50 +14,49 @@ A series of sensitivity analyses was performed to test if the results of the mai
 \subsection{Ectotherm temperature sensitivity} 
 I used Q10 values, the fold change in metabolic rate over a temperature change of 10$^{\circ}$C, as defined for each of the major groups (i.e. reptilian, amphibian egtc; See Methods in main text) to correct ectotherm mass specific metabolism (qWg) over a temperature range of 5$^{\circ}$C to 35$^{\circ}$C. This analysis was performed by re-running the main analysis with qWg corrected to 5$^{\circ}$C and then corrected to 35$^{\circ}$C. The resulting set of models and the terms which they included are given in Tables S2 and S3. In both analyses the model with the lowest AIC includes the same terms as found in the main analysis, i.e., body mass (Mg), temperature corrected mass-specific resting metabolic rate (qWg) and light levels, with qualitatively the same significant affects (Tables S6  and S7). 
 
-
+%need to fill in these tables
 \begin{table}[h!]
   \centering
-    \caption[Table 2.]{Coefficients of the model with all factors included. Mg = body mass (grams), qWg = Temperature corrected mass-specific resting metabolic rate Wg-1, Light.l (low) = effect of low light levels on CFF in comparison to high light levels, exp = effect of experimental type (ERG = electroretinogram) in comparison to behavior based CFF measures.}
+    \caption[ ]{Table A1. Coefficients of the model with all factors included and mass specific metabolic rate corrected to 5$^{\circ}$C. Mg = body mass (grams), qWg = Temperature corrected mass-specific resting metabolic rate Wg-1, Light.l (low) = effect of low light levels on CFF in comparison to high light levels, exp = effect of experimental type (ERG = electroretinogram) in comparison to behavior based CFF measures.}
 
 \begin{tabular}{*5l}    \toprule
 \emph{Variable} & \emph{Estimate} & \emph{S.E} & \emph{t-value}&  \emph{P-value}\\\midrule
-Intercept    & 141.48  & 15.15  & 9.34  &  {\ensuremath{4^{-10}}}\\ 
-Mg & -4.40 & 2.01 & -2.18 & 0.038\\
-qWg & 16.89 & 4.31 & 3.92 & {\ensuremath{5^{-4}}}\\
-Light levels (low) & -37.74 & 5.94 & -6.36 & {\ensuremath{7^{-7}}}\\
-Measurement type (exp) & -3.66 & 6.24 & -0.59 & 0.56\\
-Data quality (high) & -3.86 & 6.14 & -0.63 & 0.53\\
+Intercept    & 129.47  & 11.79  & 10.99  &  {\ensuremath{7.5^{-12}}}\\ 
+Mg & -4.18 & 1.91 & -2.18 & 0.037\\
+qWg & 12.96 & 3.13 & 4.15 & {\ensuremath{3^{-4}}}\\
+Light levels (low) & -37.25 & 5.62 & -6.63 & {\ensuremath{3^{-7}}}\\
+Measurement type (exp) & -2.57 & 6.05 & -0.42 & 0.68\\
  &  & & & \\
  & Mode & Lower 95\% C.I & Upper 95\% C.I\\ 
-Lambda  (Low) & 0 & 0 & 0.34 &\\
-&  &  &  &{\ensuremath{R^2}= 0.69}\\\bottomrule
+Lambda  (Low) & 0 & 0 & 0.26 &\\
+&  &  &  &{\ensuremath{R^2}= 0.71}\\\bottomrule
  \hline
 \end{tabular}
-  \label{tbl:Table 2.}
+  \label{tbl:Table A1.}
 \end{table}
 
 
 
+%need to fill in these tables
 
 \begin{table}[h!]
   \centering
-    \caption[Table 2.]{Coefficients of the model with all factors included. Mg = body mass (grams), qWg = Temperature corrected mass-specific resting metabolic rate Wg-1, Light.l (low) = effect of low light levels on CFF in comparison to high light levels, exp = effect of experimental type (ERG = electroretinogram) in comparison to behavior based CFF measures.}
+    \caption[ ]{Table a2. Coefficients of the model with all factors included  and mass specific metabolic rate corrected to 35$^{\circ}$C. Mg = body mass (grams), qWg = Temperature corrected mass-specific resting metabolic rate Wg-1, Light.l (low) = effect of low light levels on CFF in comparison to high light levels, exp = effect of experimental type (ERG = electroretinogram) in comparison to behavior based CFF measures.}
 
 \begin{tabular}{*5l}    \toprule
 \emph{Variable} & \emph{Estimate} & \emph{S.E} & \emph{t-value}&  \emph{P-value}\\\midrule
-Intercept    & 141.48  & 15.15  & 9.34  &  {\ensuremath{4^{-10}}}\\ 
-Mg & -4.40 & 2.01 & -2.18 & 0.038\\
-qWg & 16.89 & 4.31 & 3.92 & {\ensuremath{5^{-4}}}\\
-Light levels (low) & -37.74 & 5.94 & -6.36 & {\ensuremath{7^{-7}}}\\
-Measurement type (exp) & -3.66 & 6.24 & -0.59 & 0.56\\
-Data quality (high) & -3.86 & 6.14 & -0.63 & 0.53\\
+Intercept    & 147.65  & 18.22  & 8.11 &  {\ensuremath{6^{-9}}}\\ 
+Mg & -4.20 & 2.06 & -2.03 & 0.05\\
+qWg & 20.55 & 6.21 & 3.31 & {\ensuremath{3^{-3}}}\\
+Light levels (low) & -37.11 & 6.11 & -6.07 & {\ensuremath{1^{-6}}}\\
+Measurement type (exp) & -6.60 & 6.46 & -1.02 & 0.32\\
  &  & & & \\
  & Mode & Lower 95\% C.I & Upper 95\% C.I\\ 
-Lambda  (Low) & 0 & 0 & 0.34 &\\
-&  &  &  &{\ensuremath{R^2}= 0.69}\\\bottomrule
+Lambda  (Low) & 0 & 0 & 0.37 &\\
+&  &  &  &{\ensuremath{R^2}= 0.66}\\\bottomrule
  \hline
 \end{tabular}
-  \label{tbl:Table 2.}
+  \label{tbl:Table A2.}
 \end{table}
 
 
@@ -68,13 +67,13 @@ As the amount of sensory tissue available to an organism may aid in its ability 
 
 \begin{table}[h!]
   \centering
-    \caption[Table 2.]{Coefficients of the model with all factors included. Mg = body mass (grams), qWg = Temperature corrected mass-specific resting metabolic rate Wg-1, Light.l (low) = effect of low light levels on CFF in comparison to high light levels, exp = effect of experimental type (ERG = electroretinogram) in comparison to behavior based CFF measures.}
+    \caption[ ]{Table A3.Coefficients of analysis using the reduced dataset including brain mass. Mg = body mass (grams); qWg = Temperature corrected mass-specific resting metabolic rate Wg-1; Light.l (low) = effect of low light levels on CFF in comparison to high light levels; exp = effect of experimental type (ERG = electroretinogram) in comparison to behavior based CFF measures; Brain Mass (g).}
 
 \begin{tabular}{*5l}    \toprule
 \emph{Variable} & \emph{Estimate} & \emph{S.E} & \emph{t-value}&  \emph{P-value}\\\midrule
-Intercept    & 141.48  & 15.15  & 9.34  &  {\ensuremath{4^{-10}}}\\ 
-Mg & -4.40 & 2.01 & -2.18 & 0.038\\
-qWg & 16.89 & 4.31 & 3.92 & {\ensuremath{5^{-4}}}\\
+Intercept    & 120.30  & 1.27  & 9.47  &  {\ensuremath{5^{-9}}}\\ 
+Mg & -1.6 & 3.96 & -4.15 & 0.01\\
+qWg & 13.00 & 4.46 & 2.92 & {\ensuremath{8^{-3}}}\\
 Light levels (low) & -37.74 & 5.94 & -6.36 & {\ensuremath{7^{-7}}}\\
 Measurement type (exp) & -3.66 & 6.24 & -0.59 & 0.56\\
 Data quality (high) & -3.86 & 6.14 & -0.63 & 0.53\\
@@ -84,7 +83,7 @@ Lambda  (Low) & 0 & 0 & 0.34 &\\
 &  &  &  &{\ensuremath{R^2}= 0.69}\\\bottomrule
  \hline
 \end{tabular}
-  \label{tbl:Table 2.}
+  \label{tbl:Table A3.}
 \end{table}
 
 

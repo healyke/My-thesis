@@ -3,55 +3,55 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: thesis.aux
 The style file: PLoS-Biology.bst
 Database file #1: bibfile.bib
-Repeated entry---line 792 of file bibfile.bib
+Repeated entry---line 815 of file bibfile.bib
  : @article{folkow2004distribution
  :                                ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 816 of file bibfile.bib
+Repeated entry---line 839 of file bibfile.bib
  : @article{frank1999comparative
  :                              ,
 I'm skipping whatever remains of this entry
 Warning--missing publisher in cohen1990community
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-You've used 168 entries,
+You've used 181 entries,
             3003 wiz_defined-function locations,
-            1577 strings with 34545 characters,
-and the built_in function-call counts, 178823 in all, are:
-= -- 17565
-> -- 5206
-< -- 107
-+ -- 2609
-- -- 1437
-* -- 15214
-:= -- 24614
-add.period$ -- 335
-call.type$ -- 168
-change.case$ -- 1130
-chr.to.int$ -- 167
-cite$ -- 169
-duplicate$ -- 14580
-empty$ -- 15540
-format.name$ -- 1959
-if$ -- 37888
+            1643 strings with 36331 characters,
+and the built_in function-call counts, 190871 in all, are:
+= -- 18803
+> -- 5453
+< -- 122
++ -- 2725
+- -- 1506
+* -- 16175
+:= -- 26285
+add.period$ -- 361
+call.type$ -- 181
+change.case$ -- 1205
+chr.to.int$ -- 180
+cite$ -- 182
+duplicate$ -- 15592
+empty$ -- 16599
+format.name$ -- 2065
+if$ -- 40471
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 1492
-newline$ -- 511
-num.names$ -- 672
-pop$ -- 3548
+missing$ -- 1586
+newline$ -- 550
+num.names$ -- 724
+pop$ -- 3759
 preamble$ -- 1
-purify$ -- 1128
+purify$ -- 1203
 quote$ -- 0
-skip$ -- 3529
+skip$ -- 3799
 stack$ -- 0
-substring$ -- 21248
-swap$ -- 3301
-text.length$ -- 17
+substring$ -- 22700
+swap$ -- 3570
+text.length$ -- 21
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1449
+type$ -- 1569
 warning$ -- 1
-while$ -- 1397
+while$ -- 1499
 width$ -- 0
-write$ -- 1838
+write$ -- 1981
 (There were 2 error messages)
