@@ -2,72 +2,64 @@ This is BibTeX, Version 0.99d (TeX Live 2013)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: thesis.aux
 The style file: PLoS-Biology.bst
-Illegal, another \bibstyle command---line 501 of file thesis.aux
+Illegal, another \bibstyle command---line 526 of file thesis.aux
  : \bibstyle
  :          {PLoS-Biology}
 I'm skipping whatever remains of this command
-Illegal, another \bibdata command---line 502 of file thesis.aux
- : \bibdata
- :         {bibfile}
-I'm skipping whatever remains of this command
-Illegal, another \bibstyle command---line 695 of file thesis.aux
- : \bibstyle
- :          {PLoS-Biology}
-I'm skipping whatever remains of this command
-Illegal, another \bibdata command---line 696 of file thesis.aux
+Illegal, another \bibdata command---line 527 of file thesis.aux
  : \bibdata
  :         {bibfile}
 I'm skipping whatever remains of this command
 Database file #1: bibfile.bib
-Repeated entry---line 874 of file bibfile.bib
+Repeated entry---line 886 of file bibfile.bib
  : @article{folkow2004distribution
  :                                ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 898 of file bibfile.bib
+Repeated entry---line 910 of file bibfile.bib
  : @article{frank1999comparative
  :                              ,
 I'm skipping whatever remains of this entry
 Warning--missing publisher in cohen1990community
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-You've used 191 entries,
+You've used 195 entries,
             3003 wiz_defined-function locations,
-            1697 strings with 38032 characters,
-and the built_in function-call counts, 201911 in all, are:
-= -- 19888
-> -- 5786
-< -- 129
-+ -- 2897
-- -- 1599
-* -- 17096
-:= -- 27819
-add.period$ -- 381
-call.type$ -- 191
-change.case$ -- 1274
-chr.to.int$ -- 190
-cite$ -- 192
-duplicate$ -- 16483
-empty$ -- 17552
-format.name$ -- 2182
-if$ -- 42813
+            1719 strings with 38694 characters,
+and the built_in function-call counts, 206413 in all, are:
+= -- 20348
+> -- 5862
+< -- 134
++ -- 2931
+- -- 1620
+* -- 17492
+:= -- 28419
+add.period$ -- 389
+call.type$ -- 195
+change.case$ -- 1299
+chr.to.int$ -- 194
+cite$ -- 196
+duplicate$ -- 16882
+empty$ -- 17977
+format.name$ -- 2219
+if$ -- 43780
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 1677
-newline$ -- 580
-num.names$ -- 764
-pop$ -- 3934
+missing$ -- 1708
+newline$ -- 592
+num.names$ -- 780
+pop$ -- 4005
 preamble$ -- 1
-purify$ -- 1270
+purify$ -- 1293
 quote$ -- 0
-skip$ -- 4058
+skip$ -- 4131
 stack$ -- 0
-substring$ -- 24010
-swap$ -- 3776
-text.length$ -- 23
+substring$ -- 24632
+swap$ -- 3854
+text.length$ -- 24
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1659
+type$ -- 1695
 warning$ -- 1
-while$ -- 1591
+while$ -- 1621
 width$ -- 0
-write$ -- 2092
-(There were 6 error messages)
+write$ -- 2136
+(There were 4 error messages)
