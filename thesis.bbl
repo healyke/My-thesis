@@ -1,4 +1,4 @@
-\begin{thebibliography}{181}
+\begin{thebibliography}{191}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{{\tt #1}}\fi
@@ -24,6 +24,11 @@ Allen WL, Baddeley R, Scott-Samuel NE, Cuthill IC (2013) The evolution and
 Alroy J, Aberhan M, Bottjer DJ, Foote M, F{\"u}rsich FT, et~al. (2008)
   Phanerozoic trends in the global diversity of marine invertebrates. Science
   321: 97--100.
+
+\bibitem[{Arnold et~al.(2010)Arnold, Matthews, and Nunn}]{arnold201010ktrees}
+Arnold C, Matthews LJ, Nunn CL (2010) The 10kTrees website: a new online
+  resource for primate phylogeny. Evolutionary Anthropology: Issues, News, and
+  Reviews 19: 114--118.
 
 \bibitem[{Austad and Fischer(1991)}]{austad1991mammalian}
 Austad SN, Fischer KE (1991) Mammalian aging, metabolism, and ecology: evidence
@@ -71,6 +76,10 @@ Block BA, Carey FG (1985) Warm brain and eye temperatures in sharks. Journal of
 Boback SM, Guyer C (2003) Empirical evidence for an optimal body size in
   snakes. Evolution 57: 345--451.
 
+\bibitem[{Braam(2005)}]{braam2005touch}
+Braam J (2005) In touch: plant responses to mechanical stimuli. New Phytologist
+  165: 373--389.
+
 \bibitem[{Brown et~al.(2004)Brown, Gillooly, Allen, Savage, and
   West}]{brown2004}
 Brown JH, Gillooly JF, Allen AP, Savage VM, West GB (2004) TOWARD A METABOLIC
@@ -86,6 +95,12 @@ Brown JW, Rest JS, Garc{\'\i}a-Moreno J, Sorenson MD, Mindell DP (2008) Strong
 \bibitem[{Buffenstein and Jarvis(2002)}]{buffenstein2002naked}
 Buffenstein R, Jarvis JU (2002) The naked mole rat--a new record for the oldest
   living rodent. Science's SAGE KE 2002: 7.
+
+\bibitem[{Burleigh et~al.(2015)Burleigh, Kimball, and
+  Braun}]{burleigh2015building}
+Burleigh JG, Kimball RT, Braun EL (2015) Building the avian tree of life using
+  a large-scale, sparse supermatrix. Molecular phylogenetics and evolution 84:
+  53--63.
 
 \bibitem[{Caldwell et~al.(2015)Caldwell, Nydam, Palci, and
   Apestegu{\'\i}a}]{caldwell2015oldest}
@@ -149,6 +164,12 @@ Crognale MA, Eckert SA, Levenson DH, Harms CA (2008) Leatherback sea turtle
 Cronin T (2005) The role of vision in predatore prey interactions. Ecology of
   Predator p.~1.
 
+\bibitem[{Currier et~al.(2012)Currier, Calvete, Sanz, Harrison, Rowley
+  et~al.}]{currier2012unusual}
+Currier RB, Calvete JJ, Sanz L, Harrison RA, Rowley PD, et~al. (2012) Unusual
+  stability of messenger RNA in snake venom reveals gene expression dynamics of
+  venom replenishment. PloS one 7: e41888.
+
 \bibitem[{Daltry et~al.(1996)Daltry, W{\"u}ster, and Thorpe}]{daltry1996diet}
 Daltry JC, W{\"u}ster W, Thorpe RS (1996) Diet and snake venom evolution.
   Nature 379: 537--540.
@@ -181,6 +202,11 @@ Dessing JC, Craig CM (2010) Bending it like Beckham: how to visually fool the
 Domenici P, Blake R (1997) The kinematics and performance of fish fast-start
   swimming. Journal of Experimental Biology 200: 1165--1178.
 
+\bibitem[{Donohue et~al.(2013)Donohue, Petchey, Montoya, Jackson, McNally
+  et~al.}]{donohue2013dimensionality}
+Donohue I, Petchey OL, Montoya JM, Jackson AL, McNally L, et~al. (2013) On the
+  dimensionality of ecological stability. Ecology letters 16: 421--429.
+
 \bibitem[{Dudley(2002)}]{dudley2002mechanisms}
 Dudley R (2002) Mechanisms and implications of animal flight maneuverability.
   Integrative and Comparative Biology 42: 135--140.
@@ -190,12 +216,6 @@ Dudley R (2002) Mechanisms and implications of animal flight maneuverability.
 Faria JJ, Dyer JR, Cl{\'e}ment RO, Couzin ID, Holt N, et~al. (2010) A novel
   method for investigating the collective behaviour of fish: introducing
   ‘Robofish’. Behavioral Ecology and Sociobiology 64: 1211--1218.
-
-\bibitem[{Faulkes et~al.(2015)Faulkes, Davies, Rossiter, and
-  Bennett}]{faulkes2015molecular}
-Faulkes CG, Davies KT, Rossiter SJ, Bennett NC (2015) Molecular evolution of
-  the hyaluronan synthase 2 gene in mammals: implications for adaptations to
-  the subterranean niche and cancer resistance. Biology letters 11: 20150185.
 
 \bibitem[{Ferry(1892)}]{ferry1892persistence}
 Ferry ES (1892) Persistence of vision. American Journal of Science pp.
@@ -242,6 +262,13 @@ Froese R, Pauly D (2012) FishBase (www. fishbase. org). World wide web
 Fry BG, Casewell NR, W{\"u}ster W, Vidal N, Young B, et~al. (2012) The
   structural and functional diversification of the Toxicofera reptile venom
   system. Toxicon 60: 434--448.
+
+\bibitem[{Fry et~al.(2008)Fry, Scheib, van~der Weerd, Young, McNaughtan
+  et~al.}]{fry2008evolution}
+Fry BG, Scheib H, van~der Weerd L, Young B, McNaughtan J, et~al. (2008)
+  Evolution of an arsenal structural and functional diversification of the
+  venom system in the advanced snakes (Caenophidia). Molecular \& Cellular
+  Proteomics 7: 215--246.
 
 \bibitem[{Fry and Fry(2010)}]{fry2010kingfishers}
 Fry CH, Fry K (2010) Kingfishers, bee-eaters and rollers. A\&C Black.
@@ -292,11 +319,6 @@ Hadfield JD, et~al. (2010) MCMC methods for multi-response generalized linear
 Hagura N, Kanai R, Orgs G, Haggard P (2012) Ready steady slow: action
   preparation slows the subjective passage of time. Proceedings of the Royal
   Society B: Biological Sciences p. rspb20121339.
-
-\bibitem[{Harte et~al.(2008)Harte, Zillio, Conlisk, and
-  Smith}]{harte2008maximum}
-Harte J, Zillio T, Conlisk E, Smith A (2008) Maximum entropy and the
-  state-variable approach to macroecology. Ecology 89: 2700--2711.
 
 \bibitem[{Harvey and Pagel(1991)}]{harvey1991comparative}
 Harvey PH, Pagel MD (1991) The comparative method in evolutionary biology, vol.
@@ -427,6 +449,10 @@ Kalinoski M, Hirons A, Horodysky A, Brill R (2014) Spectral sensitivity,
   sympatric temperate coastal shark species. Journal of Comparative Physiology
   A 200: 997--1013.
 
+\bibitem[{Kardong(1982)}]{kardong1982evolution}
+Kardong KV (1982) The evolution of the venom apparatus in snakes from colubrids
+  to viperids and elapids. Mem Inst Butantan 46: 105--118.
+
 \bibitem[{Keller and Genoud(1997)}]{keller1997extraordinary}
 Keller L, Genoud M (1997) Extraordinary lifespans in ants: a test of
   evolutionary theories of ageing. Nature 389: 958--960.
@@ -441,6 +467,12 @@ Kiltie R (2000) Scaling of visual acuity with body size in mammals and birds.
 
 \bibitem[{Kleiber(1947)}]{kleiber1947body}
 Kleiber M (1947) Body size and metabolic rate. Physiol rev 27: 511--541.
+
+\bibitem[{Kochva et~al.(1980)Kochva, Oron, Ovadia, Simon, Bdolah
+  et~al.}]{kochva1980venom}
+Kochva E, Oron U, Ovadia M, Simon T, Bdolah A, et~al. (1980) Venom glands,
+  venom synthesis, venom secretion and evolution. In: Natural toxins, pp.
+  3--12, Pergamon Press Oxford.
 
 \bibitem[{Kooijman(2009)}]{kooijman2009dynamic}
 Kooijman SALM (2009) Dynamic energy budget theory for metabolic organisation.
@@ -523,6 +555,9 @@ Makarieva AM, Gorshkov VG, Li BL, Chown SL, Reich PB, et~al. (2008) Mean
   mass-specific metabolic rates are strikingly similar across life's major
   domains: evidence for life's metabolic optimum. Proceedings of the National
   Academy of Sciences 105: 16994--16999.
+
+\bibitem[{May(1972)}]{may1972will}
+May RM (1972) Will a large complex system be stable? Nature 238: 413--414.
 
 \bibitem[{McCue(2006)}]{mccue2006cost}
 McCue MD (2006) Cost of producing venom in three North American pitviper
@@ -646,6 +681,10 @@ Poran NS, Coss RG, Benjamini E (1987) Resistance of California ground squirrels
 \bibitem[{Porter(1902)}]{porter1902contributions}
 Porter TC (1902) Contributions to the study of flicker. Paper II. Proceedings
   of the Royal Society of London 70: 313--329.
+
+\bibitem[{Pough(1980)}]{pough1980advantages}
+Pough FH (1980) The advantages of ectothermy for tetrapods. American Naturalist
+  pp. 92--112.
 
 \bibitem[{Promislow(1993)}]{promislow1993size}
 Promislow DE (1993) On size and survival: progress and pitfalls in the
@@ -780,6 +819,10 @@ Therrien F, Henderson DM (2007) My theropod is bigger than yours… or not:
 Tosh CR, Ruxton GD (2010) Modelling perception with artificial neural networks.
   Cambridge University Press.
 
+\bibitem[{Uchida and Mainen(2003)}]{uchida2003speed}
+Uchida N, Mainen ZF (2003) Speed and accuracy of olfactory discrimination in
+  the rat. Nature neuroscience 6: 1224--1229.
+
 \bibitem[{Vogel(2008)}]{vogel2008modes}
 Vogel S (2008) Modes and scaling in aquatic locomotion. Integrative and
   Comparative Biology 48: 702--712.
@@ -862,6 +905,10 @@ Wilson DE, Reeder DM (2005) Mammal species of the world: a taxonomic and
 Woodward G, Ebenman B, Emmerson M, Montoya JM, Olesen JM, et~al. (2005) Body
   size in ecological networks. Trends in Ecology \& Evolution 20: 402--409,
   \urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0169534705000893}.
+
+\bibitem[{Young et~al.(2002)Young, Lee, and Daley}]{young2002snakes}
+Young BA, Lee CE, Daley KM (2002) Do snakes meter venom? BioScience 52:
+  1121--1126.
 
 \bibitem[{Zhang et~al.(2013)Zhang, Cowled, Shi, Huang, Bishop-Lilly
   et~al.}]{zhang2013comparative}
