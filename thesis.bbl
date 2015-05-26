@@ -1,4 +1,4 @@
-\begin{thebibliography}{191}
+\begin{thebibliography}{195}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{{\tt #1}}\fi
@@ -170,6 +170,11 @@ Currier RB, Calvete JJ, Sanz L, Harrison RA, Rowley PD, et~al. (2012) Unusual
   stability of messenger RNA in snake venom reveals gene expression dynamics of
   venom replenishment. PloS one 7: e41888.
 
+\bibitem[{da~Silva and Aird(2001)}]{da2001prey}
+da~Silva NJ, Aird SD (2001) Prey specificity, comparative lethality and
+  compositional differences of coral snake venoms. Comparative Biochemistry and
+  Physiology Part C: Toxicology \& Pharmacology 128: 425--456.
+
 \bibitem[{Daltry et~al.(1996)Daltry, W{\"u}ster, and Thorpe}]{daltry1996diet}
 Daltry JC, W{\"u}ster W, Thorpe RS (1996) Diet and snake venom evolution.
   Nature 379: 537--540.
@@ -185,6 +190,11 @@ De~Magalh{\~a}es JP, Costa J, Church GM (2007) An analysis of the relationship
   between metabolism, developmental schedules, and longevity using phylogenetic
   independent contrasts. The Journals of Gerontology Series A: Biological
   Sciences and Medical Sciences 62: 149--160.
+
+\bibitem[{de~Queiroz and Rodr{\'\i}guez-Robles(2006)}]{de2006historical}
+de~Queiroz A, Rodr{\'\i}guez-Robles JA (2006) Historical contingency and animal
+  diets: the origins of egg eating in snakes. The American Naturalist 167:
+  684--694.
 
 \bibitem[{D'Eath(1998)}]{d1998can}
 D'Eath B Richard (1998) Can video images imitate real stimuli in animal
@@ -327,6 +337,11 @@ Harvey PH, Pagel MD (1991) The comparative method in evolutionary biology, vol.
 \bibitem[{Hayes(1995)}]{hayes1995venom}
 Hayes WK (1995) Venom metering by juvenile prairie rattlesnakes, Crotalus v.
   viridis: effects of prey size and experience. Animal Behaviour 50: 33--40.
+
+\bibitem[{Healy(2015)}]{healy2015eusociality}
+Healy K (2015) Eusociality but not fossoriality drives longevity in small
+  mammals. Proceedings of the Royal Society of London B: Biological Sciences
+  282: 20142917.
 
 \bibitem[{Healy et~al.(2014)Healy, Guillerme, Finlay, Kane, Kelly
   et~al.}]{healy2014ecology}
@@ -814,6 +829,10 @@ Tatler B, O'Carroll D, Laughlin S (2000) Temperature and the temporal resolving
 Therrien F, Henderson DM (2007) My theropod is bigger than yours… or not:
   estimating body size from skull length in theropods. Journal of Vertebrate
   Paleontology 27: 108--115.
+
+\bibitem[{Tisue and Wilensky(2004)}]{tisue2004netlogo}
+Tisue S, Wilensky U (2004) Netlogo: A simple environment for modeling
+  complexity. In: International Conference on Complex Systems, pp. 16--21.
 
 \bibitem[{Tosh and Ruxton(2010)}]{tosh2010modelling}
 Tosh CR, Ruxton GD (2010) Modelling perception with artificial neural networks.
