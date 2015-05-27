@@ -2,14 +2,6 @@ This is BibTeX, Version 0.99d (TeX Live 2013)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: thesis.aux
 The style file: PLoS-Biology.bst
-Illegal, another \bibstyle command---line 526 of file thesis.aux
- : \bibstyle
- :          {PLoS-Biology}
-I'm skipping whatever remains of this command
-Illegal, another \bibdata command---line 527 of file thesis.aux
- : \bibdata
- :         {bibfile}
-I'm skipping whatever remains of this command
 Database file #1: bibfile.bib
 Repeated entry---line 886 of file bibfile.bib
  : @article{folkow2004distribution
@@ -21,45 +13,45 @@ Repeated entry---line 910 of file bibfile.bib
 I'm skipping whatever remains of this entry
 Warning--missing publisher in cohen1990community
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-You've used 195 entries,
+You've used 196 entries,
             3003 wiz_defined-function locations,
-            1719 strings with 38694 characters,
-and the built_in function-call counts, 206413 in all, are:
-= -- 20348
-> -- 5862
-< -- 134
-+ -- 2931
-- -- 1620
-* -- 17492
-:= -- 28419
-add.period$ -- 389
-call.type$ -- 195
-change.case$ -- 1299
-chr.to.int$ -- 194
-cite$ -- 196
-duplicate$ -- 16882
-empty$ -- 17977
-format.name$ -- 2219
-if$ -- 43780
+            1724 strings with 38773 characters,
+and the built_in function-call counts, 206866 in all, are:
+= -- 20391
+> -- 5872
+< -- 135
++ -- 2935
+- -- 1623
+* -- 17520
+:= -- 28497
+add.period$ -- 391
+call.type$ -- 196
+change.case$ -- 1304
+chr.to.int$ -- 195
+cite$ -- 197
+duplicate$ -- 16920
+empty$ -- 18015
+format.name$ -- 2223
+if$ -- 43871
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 1708
-newline$ -- 592
-num.names$ -- 780
-pop$ -- 4005
+missing$ -- 1713
+newline$ -- 595
+num.names$ -- 784
+pop$ -- 4018
 preamble$ -- 1
-purify$ -- 1293
+purify$ -- 1298
 quote$ -- 0
-skip$ -- 4131
+skip$ -- 4143
 stack$ -- 0
-substring$ -- 24632
-swap$ -- 3854
+substring$ -- 24661
+swap$ -- 3864
 text.length$ -- 24
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1695
+type$ -- 1704
 warning$ -- 1
-while$ -- 1621
+while$ -- 1625
 width$ -- 0
-write$ -- 2136
-(There were 4 error messages)
+write$ -- 2147
+(There were 2 error messages)

@@ -1,4 +1,4 @@
-\begin{thebibliography}{195}
+\begin{thebibliography}{196}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{{\tt #1}}\fi
@@ -581,6 +581,10 @@ McCue MD (2006) Cost of producing venom in three North American pitviper
 \bibitem[{McGill and Mittelbach(2006)}]{mcgill2006allometric}
 McGill BJ, Mittelbach GG (2006) An allometric vision and motion model to
   predict prey encounter rates. Evolutionary Ecology Research 8: 691--701.
+
+\bibitem[{McNally(2013)}]{LukeM}
+McNally L (2013) {The Social Evolution of Intellect}. Ph.D. thesis, Trinity
+  College Dublin.
 
 \bibitem[{Mebs(2001)}]{mebs2001toxicity}
 Mebs D (2001) Toxicity in animals. Trends in evolution? Toxicon 39: 87--96.

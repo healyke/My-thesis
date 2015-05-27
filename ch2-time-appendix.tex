@@ -3,16 +3,16 @@
 \section{Phylogeny reconstruction}
 
 Divergence times and phylogenies from the literature were used to produce a composite phylogeny of the vertebrate species used in our analyses (Figure \ref{fig:Figure 2.}). For species with no available divergence dates based on molecular data or available published trees, conservatively estimated first appearance dates from the Paleobiology database were used as an estimate of divergence time \citep{alroy2008phanerozoic}. 
-Divergence dates for the major groups Batoidea, Actinopterygii and Amphibia were taken from the TimeTree database \citep{hedges2006timetree}. For divergence dates of Carcharinus and Sphyna \cite{lim2010phylogeny} was used, while the divergence time between Negaprion brevirostris and Carcharchinus acrontus was estimated based on the first appearance in the fossil record of \textit{Negaprion brevirostris}, the younger of the of the two species (Negaprion spp - 40.3mya, Carcharchinus - 46.2). \cite{li2008optimal} were used to infer phylogenetic relationships and divergence times in Actinopterygii, and \cite{little2010evolutionary} was used for perciform divergence times. For divergence time between anopsids (turtles and birds) and suarapids (Squamata and Sphenodon) the estimation from \cite{benton2007paleontological} was use while \cite{perelman2011molecular} was used for the divergence and phylogenetic relationships among Squamata, Sphenodon, turtles and Aves. For divergence times within the Squamata \cite{wiens2006does} was used, while for turtle species I used \cite{naro2008evolutionary}. I used \cite{brown2008strong} for the Aves phylogeny with divergence times between Asio flammeus and Bubo virginianus estimated using an estimate of the first appearance \citep{janossy2011pleistocene}. \citep{murphy2007using} was used for divergence dates of mammalian orders, while for primates I used \cite{perelman2011molecular}. Rodent divergence times were taken from \cite{murphy2007using}.
+Divergence dates for the major groups Batoidea, Actinopterygii and Amphibia were taken from the TimeTree database \citep{hedges2006timetree}. For divergence dates of Carcharinus and Sphyna \cite{lim2010phylogeny} was used, while the divergence time between \textit{Negaprion brevirostris} and \textit{Carcharchinus acrontus} was estimated based on the first appearance in the fossil record of \textit{Negaprion brevirostris}, the younger of the of the two species (Negaprion spp - 40.3mya, Carcharchinus - 46.2). \cite{li2008optimal} were used to infer phylogenetic relationships and divergence times in Actinopterygii, and \cite{little2010evolutionary} was used for perciform divergence times. For divergence time between anopsids (turtles and birds) and suarapids (Squamata and Sphenodon) the estimation from \cite{benton2007paleontological} was use while \cite{perelman2011molecular} was used for the divergence and phylogenetic relationships among Squamata, Sphenodon, turtles and Aves. For divergence times within the Squamata \cite{wiens2006does} was used, while for turtle species I used \cite{naro2008evolutionary}. I used \cite{brown2008strong} for the Aves phylogeny with divergence times between \textit{Asio flammeus} and \textit{Bubo virginianus} estimated using an estimate of the first appearance \citep{janossy2011pleistocene}. \cite{murphy2007using} was used for divergence dates of mammalian orders, while for primates I used \cite{perelman2011molecular}. Rodent divergence times were taken from \cite{murphy2007using}.
 
 
 
 \section{Sensitivity analyses}
 
-A series of sensitivity analyses was performed to test if the results of the main analysis were affected by (1) the temperature that ectoderm species metabolic rates were corrected to, (2) the inclusion of brain mass as a control for information processing abilities and (3) the quality of the data used in the analysis.
+A series of sensitivity analyses were performed to test if the results of the main analysis were affected by (1) the temperature that ectoderm species metabolic rates were corrected too, and (2) the inclusion of brain mass as a control for information processing abilities .
 
 \subsection{Ectotherm temperature sensitivity} 
-I used Q10 values, the fold change in metabolic rate over a temperature change of 10$^{\circ}$C, as defined for each of the major groups (i.e. reptilian, amphibian egtc; See Methods in main text) to correct ectotherm mass specific metabolism (qWg) over a temperature range of 5$^{\circ}$C to 35$^{\circ}$C. This analysis was performed by re-running the main analysis with qWg corrected to 5$^{\circ}$C and then corrected to 35$^{\circ}$C. The resulting set of models and the terms which they included are given in Tables S2 and S3. In both analyses the model with the lowest AIC includes the same terms as found in the main analysis, i.e., body mass (Mg), temperature corrected mass-specific resting metabolic rate (qWg) and light levels, with qualitatively the same significant affects (Tables S6  and S7). 
+I used Q10 values, the fold change in metabolic rate over a temperature change of 10$^{\circ}$C, as defined for each of the major groups (i.e. reptilian, amphibian egtc; See Methods in main text) to correct ectotherm mass specific metabolism (qWg) over a temperature range of 5$^{\circ}$C to 35$^{\circ}$C. This analysis was performed by re-running the main analysis with qWg corrected to 5$^{\circ}$C and then corrected to 35$^{\circ}$C. In both analyses the same trends were found with decreased CFF associated with body mass and light levels and increased CFF associated with metabolic rate. Measurment type was not found to affect CFF in either model (Tables A1  and A2). 
 
 %need to fill in these tables
 \begin{table}[h!]
@@ -21,10 +21,10 @@ I used Q10 values, the fold change in metabolic rate over a temperature change o
 
 \begin{tabular}{*5l}    \toprule
 \emph{Variable} & \emph{Estimate} & \emph{S.E} & \emph{t-value}&  \emph{P-value}\\\midrule
-Intercept    & 129.47  & 11.79  & 10.99  &  {\ensuremath{7.5^{-12}}}\\ 
+Intercept    & 129.47  & 11.79  & 10.99  &  {\ensuremath{7.5\e{-12}}}\\ 
 Mg & -4.18 & 1.91 & -2.18 & 0.037\\
-qWg & 12.96 & 3.13 & 4.15 & {\ensuremath{3^{-4}}}\\
-Light levels (low) & -37.25 & 5.62 & -6.63 & {\ensuremath{3^{-7}}}\\
+qWg & 12.96 & 3.13 & 4.15 & {\ensuremath{3\e{-4}}}\\
+Light levels (low) & -37.25 & 5.62 & -6.63 & {\ensuremath{3\e{-7}}}\\
 Measurement type (exp) & -2.57 & 6.05 & -0.42 & 0.68\\
  &  & & & \\
  & Mode & Lower 95\% C.I & Upper 95\% C.I\\ 
@@ -45,10 +45,10 @@ Lambda  (Low) & 0 & 0 & 0.26 &\\
 
 \begin{tabular}{*5l}    \toprule
 \emph{Variable} & \emph{Estimate} & \emph{S.E} & \emph{t-value}&  \emph{P-value}\\\midrule
-Intercept    & 147.65  & 18.22  & 8.11 &  {\ensuremath{6^{-9}}}\\ 
+Intercept    & 147.65  & 18.22  & 8.11 &  {\ensuremath{6\e{-9}}}\\ 
 Mg & -4.20 & 2.06 & -2.03 & 0.05\\
-qWg & 20.55 & 6.21 & 3.31 & {\ensuremath{3^{-3}}}\\
-Light levels (low) & -37.11 & 6.11 & -6.07 & {\ensuremath{1^{-6}}}\\
+qWg & 20.55 & 6.21 & 3.31 & {\ensuremath{3\e{-3}}}\\
+Light levels (low) & -37.11 & 6.11 & -6.07 & {\ensuremath{1\e{-6}}}\\
 Measurement type (exp) & -6.60 & 6.46 & -1.02 & 0.32\\
  &  & & & \\
  & Mode & Lower 95\% C.I & Upper 95\% C.I\\ 
@@ -62,7 +62,7 @@ Lambda  (Low) & 0 & 0 & 0.37 &\\
 
 \subsection{Brain Mass analysis} 
 
-As the amount of sensory tissue available to an organism may aid in its ability to perceive and process information, brain mass values, measured as wet weight (g), were taken from the literature (Table 1, Methods). As data on brain mass was available for only a subset of twenty-eight species, the term brain mass was included along with the terms used in the main analysis (light levels, qWg, experimental design and body mass) in a series of models performed on the restricted data set (Table S4). While a similar trend to the first analysis was found, a positive effect of mass specific resting metabolic rate () and negative effects of low light levels () and body mass (), brain mass was found to have no significant effect on CFF levels ().
+As the amount of sensory tissue available to an organism may aid in its ability to perceive and process information, brain mass values, measured as wet weight (g), were taken from the literature (Table 1, Methods). As data on brain mass was available for only a subset of twenty-eight species, the term brain mass was included along with the terms used in the main analysis (light levels, qWg, experimental design and body mass) in a series of models performed on the restricted data set (Table A3). While a similar trend to the first analysis was found, a positive effect of mass specific resting metabolic rate and negative effect of low light levels and body mass, brain mass was found to have no significant effect on CFF levels.
 
 
 \begin{table}[h!]
@@ -71,10 +71,10 @@ As the amount of sensory tissue available to an organism may aid in its ability 
 
 \begin{tabular}{*5l}    \toprule
 \emph{Variable} & \emph{Estimate} & \emph{S.E} & \emph{t-value}&  \emph{P-value}\\\midrule
-Intercept    & 120.30  & 1.27  & 9.47  &  {\ensuremath{5^{-9}}}\\ 
+Intercept    & 120.30  & 1.27  & 9.47  &  {\ensuremath{5\e{-9}}}\\ 
 Mg & -1.6 & 3.96 & -4.15 & 0.01\\
-qWg & 13.00 & 4.46 & 2.92 & {\ensuremath{8^{-3}}}\\
-Light levels (low) & -37.74 & 5.94 & -6.36 & {\ensuremath{7^{-7}}}\\
+qWg & 13.00 & 4.46 & 2.92 & {\ensuremath{8\e{-3}}}\\
+Light levels (low) & -37.74 & 5.94 & -6.36 & {\ensuremath{7\e{-7}}}\\
 Measurement type (exp) & -3.66 & 6.24 & -0.59 & 0.56\\
 Data quality (high) & -3.86 & 6.14 & -0.63 & 0.53\\
  &  & & & \\

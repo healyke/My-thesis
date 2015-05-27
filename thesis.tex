@@ -18,7 +18,7 @@
 
 %\usepackage{tikz}
 
-
+\providecommand{\e}[1]{\ensuremath{\times 10^{#1}}}
 \usepackage{geometry} % new addition 
  \geometry{
  a4paper,
@@ -31,10 +31,10 @@
 
 
  \usepackage{caption}
-\DeclareCaptionLabelFormat{onlyname}{#1}
+\DeclareCaptionLabelFormat{}{#1}
 \usepackage{sidecap}
-\captionsetup[table]{name={}}
-\captionsetup[figure]{name={}}
+%\captionsetup[table]{name={}}
+%\captionsetup[figure]{name={}}
 \sidecaptionvpos{figure}{c}
 
 \renewcommand*{\familydefault}{\sfdefault} %% I changed the font
