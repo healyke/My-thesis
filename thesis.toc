@@ -18,7 +18,7 @@
 \contentsline {chapter}{\numberline {3}Lifespan evolution in endotherms}{20}{chapter.3}
 \contentsline {section}{\numberline {3.1}Summary}{20}{section.3.1}
 \contentsline {section}{\numberline {3.2}Introduction}{21}{section.3.2}
-\contentsline {section}{\numberline {3.3}Materials and Methods}{23}{section.3.3}
+\contentsline {section}{\numberline {3.3}Methods}{23}{section.3.3}
 \contentsline {subsection}{\numberline {3.3.1}Data}{23}{subsection.3.3.1}
 \contentsline {subsection}{\numberline {3.3.2}Analyses}{25}{subsection.3.3.2}
 \contentsline {section}{\numberline {3.4}Results}{27}{section.3.4}
@@ -26,7 +26,7 @@
 \contentsline {chapter}{\numberline {4}Evolution of venom loss in snakes}{35}{chapter.4}
 \contentsline {section}{\numberline {4.1}Summary}{35}{section.4.1}
 \contentsline {section}{\numberline {4.2}Introduction}{36}{section.4.2}
-\contentsline {section}{\numberline {4.3}Materials and Methods}{39}{section.4.3}
+\contentsline {section}{\numberline {4.3}Methods}{39}{section.4.3}
 \contentsline {subsection}{\numberline {4.3.1}Data}{39}{subsection.4.3.1}
 \contentsline {subsection}{\numberline {4.3.2}Analyses}{41}{subsection.4.3.2}
 \contentsline {section}{\numberline {4.4}Results}{42}{section.4.4}
